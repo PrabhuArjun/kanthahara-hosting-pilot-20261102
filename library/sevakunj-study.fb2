@@ -1,0 +1,2141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<FictionBook xmlns="http://www.gribuser.ru/xml/fictionbook/2.0" xmlns:l="http://www.w3.org/1999/xlink">
+  <description>
+    <title-info>
+      <genre>religion_rel</genre>
+      <author>
+        <nickname>Sevakunj archive</nickname>
+      </author>
+      <book-title>Шлоки Севакунджа</book-title>
+      <annotation>
+        <p>Учебное собрание для чтения и запоминания 76 текстов по 42 фотографиям памятных плит. Собрание предназначено для преданных Шри Чайтанья Сарасват Матха.</p>
+      </annotation>
+      <date value="2026-10-28">2026-10-28</date>
+      <lang>ru</lang>
+    </title-info>
+    <document-info>
+      <author>
+        <nickname>Sevakunj archive</nickname>
+      </author>
+      <program-used>Sevakunj deterministic edition builder</program-used>
+      <date value="2026-10-28">2026-10-28</date>
+      <id>urn:uuid:d141ba30-f241-5e7c-9053-da035b205fb1</id>
+      <version>1.0</version>
+    </document-info>
+  </description>
+  <body>
+    <section>
+      <title>
+        <p>О собрании и практике</p>
+      </title>
+      <p>Учебное собрание для чтения и запоминания 76 текстов по 42 фотографиям памятных плит. Собрание предназначено для преданных Шри Чайтанья Сарасват Матха.</p>
+      <p>Основной источник — «Шри Чайтанья чаритамрита» Кришнадаса Кавираджа Госвами в опорном издании BBT и Ведабазы. Сокращения ЧЧ и CC обозначают эту книгу; Ади, Мадхья и Антья — её разделы. Краткие справки о комментариях относятся к комментариям А Ч Бхактиведанты Свами Прабхупады.</p>
+      <p>По сообщению Арджуны, Шрила Бхакти Сундар Говинда Дев-Госвами Махарадж поручил выучить эти тексты, а Шрила Бхакти Бимал Авадхут Махарадж повторил наставление команде. Здесь это свидетельство передано как основание учебной практики, а не как дословная цитата.</p>
+      <p>В каждой карточке помещены текст выбранного опорного издания, латинская IAST и готовая русская транслитерация. Исправления пяти карточек приняты по сопоставлению письменностей. Особенности плит и текст опорного издания не смешиваются.</p>
+      <p>Редакционное пояснение передаёт смысл для начального изучения. Оно не является опубликованным переводом или цитатой ачарьи. Подтверждённые опубликованные переводы помещены отдельно; для остальных даны прямые ссылки на русское и английское издания.</p>
+      <p>Краткие справки о комментариях связаны с указанным источником. Бенгальская пояснительная проза с плит в эту редакцию не включена: её авторство не установлено.</p>
+      <p>Практика: прочитайте шлоку вслух, разберите её смысл, повторите по строкам, затем воспроизведите без подсказки. Возвращайтесь к знакомым текстам через день, через несколько дней и через неделю.</p>
+      <p>Study edition. The original, IAST and Cyrillic transliteration are provided for each text. Editorial explanations are labelled separately from published translations. This is not a complete licensed bilingual translation of the reference edition.</p>
+    </section>
+    <section id="V-01">
+      <title>
+        <p>01 ЧЧ Ади 1.1</p>
+      </title>
+      <subtitle>CC Ādi 1.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে গুরূনীশভক্তানীশমীশাবতারকান্‌ ।</p>
+      <p>তৎপ্রকাশাংশ্চ তচ্ছক্তীঃ কৃষ্ণচৈতন্যসংজ্ঞকম্‌ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande gurūn īśa-bhaktān</p>
+      <p>īśam īśāvatārakān</p>
+      <p>tat-prakāśāṁś ca tac-chaktīḥ</p>
+      <p>kṛṣṇa-caitanya-saṁjñakam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде гурӯн ӣш́а-бхакта̄н</p>
+      <p>ӣш́ам ӣш́а̄вата̄рака̄н</p>
+      <p>тат-прака̄ш́а̄м̇ш́ ча тач-чхактӣх̣</p>
+      <p>кр̣шн̣а-чаитанйа-сам̇джн̃акам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор склоняется перед гуру, преданными Господа, Его воплощениями, проявлениями и энергиями и перед Господом, именуемым Кришна Чайтанья.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author bows to the gurus, the Lord's devotees, His incarnations, His manifestations and energies, and to the Lord known as Kṛṣṇa Caitanya.</p>
+      <subtitle>Контекст</subtitle>
+      <p>Сам автор разъясняет вступительные стихи далее в главе: Ади 1.22–1.23 (вступление как поклон; первые два стиха — общий и особый поклон), 1.32–1.34 (шесть проявлений одной истины; стих повторён как 1.34), 1.35–1.37 (дикша- и шикша-гуру — шесть Госвами).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/1/">https://vedabase.io/ru/library/cc/adi/1/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/1/">https://vedabase.io/en/library/cc/adi/1/1/</a></p>
+    </section>
+    <section id="V-02">
+      <title>
+        <p>02 ЧЧ Ади 1.2</p>
+      </title>
+      <subtitle>CC Ādi 1.2</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে শ্রীকৃষ্ণচৈতন্যনিত্যানন্দৌ সহোদিতৌ ।</p>
+      <p>গৌড়োদয়ে পুষ্পবন্তৌ চিত্রৌ শন্দৌ তমোনুদৌ ॥ ২ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande śrī-kṛṣṇa-caitanya-</p>
+      <p>nityānandau sahoditau</p>
+      <p>gauḍodaye puṣpavantau</p>
+      <p>citrau śan-dau tamo-nudau</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ш́рӣ-кр̣шн̣а-чаитанйа-нитйа̄нандау саходитау</p>
+      <p>гауд̣одайе пушпавантау</p>
+      <p>читрау ш́андау тамо-нудау</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье и Нитьянанде, вместе взошедшим над Гаудой, подобно солнцу и луне, — дивным, дарующим благо и рассеивающим тьму.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya and Nityānanda, risen together over Gauḍa like the sun and moon, wondrous, bestowing good and dispelling darkness.</p>
+      <subtitle>Контекст</subtitle>
+      <p>По Ади 1.23 это особый поклон Господу; образ развёрнут в Ади 1.85–86 (Кришна и Баларама взошли над восточным горизонтом Гауды).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.2</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/2/">https://vedabase.io/ru/library/cc/adi/1/2/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/2/">https://vedabase.io/en/library/cc/adi/1/2/</a></p>
+    </section>
+    <section id="V-03">
+      <title>
+        <p>03 ЧЧ Ади 1.3</p>
+      </title>
+      <subtitle>CC Ādi 1.3</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>যদদ্বৈতং ব্রহ্মোপনিষদি তদপ্যস্য তনুভা</p>
+      <p>য আত্মান্তর্যামী পুরুষ ইতি সোঽস্যাংশবিভবঃ ।</p>
+      <p>ষড়ৈশ্বর্যৈঃ পূর্ণো য ইহ ভগবান্‌ স স্বয়ময়ং</p>
+      <p>ন চৈতন্যাৎ কৃষ্ণাজ্জগতি পরতত্ত্বং পরমিহ ॥ ৩ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>yad advaitaṁ brahmopaniṣadi tad apy asya tanu-bhā</p>
+      <p>ya ātmāntar-yāmī puruṣa iti so ’syāṁśa-vibhavaḥ</p>
+      <p>ṣaḍ-aiśvaryaiḥ pūrṇo ya iha bhagavān sa svayam ayaṁ</p>
+      <p>na caitanyāt kṛṣṇāj jagati para-tattvaṁ param iha</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>йад адваитам̇ брахмопанишади тад апй асйа тану-бха̄</p>
+      <p>йа а̄тма̄нтарйа̄мӣ пуруша ити со ’сйа̄м̇ш́а-вибхавах̣</p>
+      <p>шад̣-аиш́варйаих̣ пӯрн̣о йа иха бхагава̄н са свайам айам̇</p>
+      <p>на чаитанйа̄т кр̣шн̣а̄дж джагати пара-таттвам̇ парам иха</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>То, что Упанишады называют недвойственным Брахманом, — сияние Его тела; внутренний Пуруша — Его частичное проявление; Бхагаван, исполненный шести достояний, — Он Сам; нет истины выше Чайтаньи-Кришны.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>What the Upaniṣads call the non-dual Brahman is the radiance of His body; the indwelling Supersoul is His partial expansion; the Bhagavān full of six opulences is He Himself — there is no truth higher than Caitanya-Kṛṣṇa.</p>
+      <subtitle>Контекст</subtitle>
+      <p>По Ади 1.24 третий стих указывает на Абсолютную Истину; стих повторён как Ади 2.5 и разобран автором во 2-й главе (2.4–2.6: три подлежащих и три сказуемых).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.3</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/3/">https://vedabase.io/ru/library/cc/adi/1/3/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/3/">https://vedabase.io/en/library/cc/adi/1/3/</a></p>
+    </section>
+    <section id="V-04">
+      <title>
+        <p>04 ЧЧ Ади 1.15</p>
+      </title>
+      <subtitle>CC Ādi 1.15</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>জয়তাং সুরতৌ পঙ্গোর্মম মন্দমতের্গতী ।</p>
+      <p>মৎসর্বস্বপদাম্ভোজৌ রাধামদনমোহনৌ ॥ ১৫ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>jayatāṁ suratau paṅgor</p>
+      <p>mama manda-mater gatī</p>
+      <p>mat-sarvasva-padāmbhojau</p>
+      <p>rādhā-madana-mohanau</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>джайата̄м̇ суратау пан̇гор</p>
+      <p>мама манда-матер гатӣ</p>
+      <p>мат-сарвасва-пада̄мбходжау</p>
+      <p>ра̄дха̄-мадана-моханау</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Слава милостивым Радхе и Мадана-мохану — прибежищу автора, называющего себя хромым и неразумным; Их лотосные стопы — всё его достояние.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Glory to the merciful Rādhā and Madana-mohana, the refuge of the author, who calls himself lame and dull-witted; Their lotus feet are his all.</p>
+      <subtitle>Опубликованный перевод</subtitle>
+      <p>О Шри Шри Радха-Мадана-Мохан, я беспомощный калека! Мой слабый ум прикован к отвратительным объектам удовлетворения чувств. Молю вас, наделите меня подлинной привязанностью к бесценному богатству моей жизни — Вашим лотосоподобным стопам. И пусть Вашим Светлостям, столь сострадательным и любящим, всегда и везде сопутствует победа!</p>
+      <p>Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 21</p>
+      <subtitle>Published translation</subtitle>
+      <p>All glory to merciful Śrī Śrī Rādhā Madan-Mohan! Though I am lame and wicked, They are my sole shelter, and Their lotus feet are everything to me.</p>
+      <p>Sri Chaitanya Saraswat Math, Śaraṇāgati, 2011; PDF 281</p>
+      <subtitle>Контекст</subtitle>
+      <p>Стихи 1.15–1.17 объединены комментарием Прабхупады к Ади 1.19: три Божества Вриндавана — Мадана-мохан, Говинда, Гопинатха — сердце гаудия-вайшнавов; поклонение Мадана-мохану — ступень восстановления забытых отношений с Господом.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.15</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/15/">https://vedabase.io/ru/library/cc/adi/1/15/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/15/">https://vedabase.io/en/library/cc/adi/1/15/</a></p>
+    </section>
+    <section id="V-05">
+      <title>
+        <p>05 ЧЧ Ади 1.16</p>
+      </title>
+      <subtitle>CC Ādi 1.16</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>দীব্যদ্‌বৃন্দারণ্যকল্পদ্রুমাধঃ–</p>
+      <p>শ্রীমদ্‌রত্নাগারসিংহাসনস্থৌ</p>
+      <p>শ্রীমদ্‌রাধা–শ্রীলগোবিন্দদেবৌ</p>
+      <p>প্রেষ্ঠালীভিঃ সেব্যমানৌ স্মরামি ॥ ১৬ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>dīvyad-vṛndāraṇya-kalpa-drumādhaḥ-</p>
+      <p>śrīmad-ratnāgāra-siṁhāsana-sthau</p>
+      <p>śrīmad-rādhā-śrīla-govinda-devau</p>
+      <p>preṣṭhālībhiḥ sevyamānau smarāmi</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>дӣвйад-вр̣нда̄ран̣йа-калпа-друма̄дхах̣-</p>
+      <p>ш́рӣмад-ратна̄га̄ра-сим̇ха̄сана-стхау</p>
+      <p>ш́рӣмад-ра̄дха̄-ш́рӣла-говинда-девау</p>
+      <p>прешт̣ха̄лӣбхих̣ севйама̄нау смара̄ми</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор вспоминает Шри Радху и Шри Говинда-деву, восседающих на троне в храме из самоцветов под древом желаний во Вриндаване; Им служат самые близкие спутницы.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author remembers Śrī Rādhā and Śrī Govinda-deva, seated on a throne in a jewelled temple beneath a desire tree in Vṛndāvana, served by Their dearest companions.</p>
+      <subtitle>Перевод литургического варианта</subtitle>
+      <p>Я постоянно думаю о Божественной Чете — Шри Шри Гандхарва-Говинде, которые восседают на изумительном, украшенном бриллиантами троне в прославленном лесу Враджи, под притягивающим все умы древом исполнения желаний. Их окружают самоотверженные служанки — Шри Лалита Деви, Шри Рупа Манджари и другие близкие спутники, такие как приянарма-сакхи.</p>
+      <p>Перевод литургической формы gāndharvā; отличается от опорного чтения и плиты. Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 22</p>
+      <subtitle>Контекст</subtitle>
+      <p>Контекст — комментарий к Ади 1.19: Говинде поклоняются на уровне служения с сильной привязанностью; Говинда — вместилище всех наслаждений.</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.16</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/16/">https://vedabase.io/ru/library/cc/adi/1/16/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/16/">https://vedabase.io/en/library/cc/adi/1/16/</a></p>
+    </section>
+    <section id="V-06">
+      <title>
+        <p>06 ЧЧ Ади 1.17</p>
+      </title>
+      <subtitle>CC Ādi 1.17</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীমান্‌ রাসরসারম্ভী বংশীবটতটস্থিতঃ ।</p>
+      <p>কর্ষন্‌ বেণুস্বনৈর্গোপীর্গোপীনাথঃ শ্রিয়েঽস্তু নঃ ॥ ১৭ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrīmān rāsa-rasārambhī</p>
+      <p>vaṁśīvaṭa-taṭa-sthitaḥ</p>
+      <p>karṣan veṇu-svanair gopīr</p>
+      <p>gopī-nāthaḥ śriye ’stu naḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣма̄н ра̄са-раса̄рамбхӣ</p>
+      <p>вам̇ш́ӣват̣а-тат̣а-стхитах̣</p>
+      <p>каршан вен̣у-сванаир гопӣр</p>
+      <p>гопӣ-на̄тхах̣ ш́рийе ’сту нах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Пусть дарует нам благо прекрасный Гопинатха, начинатель танца раса, что стоит у Вамшивата и звуками флейты влечёт к Себе пастушек.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>May glorious Gopīnātha, who began the rāsa dance and stands at Vaṁśīvaṭa drawing the gopīs with His flute, bestow blessings on us.</p>
+      <subtitle>Опубликованный перевод</subtitle>
+      <p>Шри Гопинатх, дарующий вкус преданности, стоит на берегу реки Ямуны в месте, известном как Вамшивата. Здесь сладостный звук Его флейты влечет сердца пастушек Враджа Дхамы. Очаровательный Господь, раскрой нам Свои благодатные объятия!</p>
+      <p>Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 23</p>
+      <subtitle>Контекст</subtitle>
+      <p>Контекст — комментарий к Ади 1.19: Кришну как Гопиджана-валлабху постигают на ступени совершенства преданного служения; три Божества установлены во Вриндаване разными Госвами.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.17</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/17/">https://vedabase.io/ru/library/cc/adi/1/17/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/17/">https://vedabase.io/en/library/cc/adi/1/17/</a></p>
+    </section>
+    <section id="V-07">
+      <title>
+        <p>07 ЧЧ Ади 2.1</p>
+      </title>
+      <subtitle>CC Ādi 2.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীচৈতন্যপ্রভুং বন্দে বালোঽপি যদনুগ্রহাৎ ।</p>
+      <p>তরেন্নানামতগ্রাহব্যাপ্তং সিদ্ধান্তসাগরম্‌ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-caitanya-prabhuṁ vande</p>
+      <p>bālo ’pi yad-anugrahāt</p>
+      <p>taren nānā-mata-grāha-</p>
+      <p>vyāptaṁ siddhānta-sāgaram</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-чаитанйа-прабхум̇ ванде</p>
+      <p>ба̄ло ’пи йад-ануграха̄т</p>
+      <p>тарен на̄на̄-мата-гра̄ха-вйа̄птам̇ сиддха̄нта-са̄гарам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Шри Чайтанье Прабху, по чьей милости даже ребёнок переплывёт океан философских выводов, кишащий крокодилами разных учений.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Śrī Caitanya Prabhu, by whose grace even a child can cross the ocean of conclusions infested with the crocodiles of many doctrines.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: по милости Чайтаньи даже неучёный спасается из океана неведения, полного учений-«водных хищников» (названы учения Будды, гьяни, йоги Патанджали и Гаутамы, системы Канады, Капилы, Даттатреи); по Его милости можно обойти эти взгляды и принять стопы Кришны как высшую цель. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 2.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/2/1/">https://vedabase.io/ru/library/cc/adi/2/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/2/1/">https://vedabase.io/en/library/cc/adi/2/1/</a></p>
+    </section>
+    <section id="V-08">
+      <title>
+        <p>08 ЧЧ Ади 2.2</p>
+      </title>
+      <subtitle>CC Ādi 2.2</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>কৃষ্ণোৎকীর্তনগাননর্তনকলাপাথোজনি–ভ্রাজিতা</p>
+      <p>সদ্ভক্তাবলিহংসচক্রমধুপশ্রেণীবিহারাস্পদম্‌ ।</p>
+      <p>কর্ণানন্দিকলধ্বনির্বহতু মে জিহ্বামরুপ্রাঙ্গণে</p>
+      <p>শ্রীচৈতন্যদয়ানিধে তব লসল্লীলাসুধাস্বর্ধুনী ॥ ২ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>kṛṣṇotkīrtana-gāna-nartana-kalā-pāthojani-bhrājitā</p>
+      <p>sad-bhaktāvali-haṁsa-cakra-madhupa-śreṇī-vihārāspadam</p>
+      <p>karṇānandi-kala-dhvanir vahatu me jihvā-maru-prāṅgaṇe</p>
+      <p>śrī-caitanya dayā-nidhe tava lasal-līlā-sudhā-svardhunī</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>кр̣шн̣откӣртана-га̄на-нартана-кала̄-па̄тходжани-бхра̄джита̄</p>
+      <p>сад-бхакта̄вали-хам̇са-чакра-мадхупа-ш́рен̣ӣ-виха̄ра̄спадам</p>
+      <p>карн̣а̄нанди-кала-дхванир вахату ме джихва̄-мару-пра̄н̇ган̣е</p>
+      <p>ш́рӣ-чаитанйа дайа̄-нидхе тава ласал-лӣла̄-судха̄-свардхунӣ</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>О Чайтанья, океан милости! Пусть небесная Ганга нектара Твоих игр, украшенная лотосами киртана, пения и танца, — обитель преданных, подобных лебедям, чакравакам и пчёлам, с плеском, радующим слух, — течёт по пустыне моего языка.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>O Caitanya, ocean of mercy, may the celestial Gaṅgā of the nectar of Your pastimes — adorned with lotuses of kīrtana, song and dance, the pleasure-ground of swan-, cakravāka- and bee-like devotees, with a sound delightful to the ear — flow over the desert of my tongue.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: язык, занятый мирскими темами, подобен пустыне — им мирские беседы лишь капля; движение Чайтаньи (пение и танец об играх Кришны) — как чистые воды Ганги с лотосами, вокруг которых, как пчёлы и лебеди, держатся чистые преданные; автор просит эти волны для своего языка; завершается призывом воспевать маха-мантру. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 2.2</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/2/2/">https://vedabase.io/ru/library/cc/adi/2/2/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/2/2/">https://vedabase.io/en/library/cc/adi/2/2/</a></p>
+    </section>
+    <section id="V-09">
+      <title>
+        <p>09 ЧЧ Ади 3.1</p>
+      </title>
+      <subtitle>CC Ādi 3.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীচৈতন্যপ্রভুং বন্দে যৎপাদাশ্রয়বীর্যতঃ ।</p>
+      <p>সংগৃহ্ণাত্যাকরব্রাতাদজ্ঞঃ সিদ্ধান্তসন্মণীন্‌ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-caitanya-prabhuṁ vande</p>
+      <p>yat-pādāśraya-vīryataḥ</p>
+      <p>saṅgṛhṇāty ākara-vrātād</p>
+      <p>ajñaḥ siddhānta-san-maṇīn</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-чаитанйа-прабхум̇ ванде йат-па̄да̄ш́райа-вӣрйатах̣</p>
+      <p>сан̇гр̣хн̣а̄тй а̄кара-вра̄та̄д аджн̃ах̣ сиддха̄нта-сан-ман̣ӣн</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор склоняется перед Чайтаньей Махапрабху: сила прибежища у Его стоп позволяет даже невежде добыть «самоцветы» философских выводов из «рудников» писаний.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author bows to Caitanya Mahāprabhu; the strength of taking shelter at His feet lets even an unlearned person gather the 'gems' of conclusive truth from the 'mines' of scripture.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 3.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/3/1/">https://vedabase.io/ru/library/cc/adi/3/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/3/1/">https://vedabase.io/en/library/cc/adi/3/1/</a></p>
+    </section>
+    <section id="V-10">
+      <title>
+        <p>10 ЧЧ Ади 4.1</p>
+      </title>
+      <subtitle>CC Ādi 4.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীচৈতন্যপ্রসাদেন তদ্রূপস্য বিনির্ণয়ম্‌ ।</p>
+      <p>বালোঽপি কুরুতে শাস্ত্রং দৃষ্ট্বা ব্রজবিলাসিনঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-caitanya-prasādena</p>
+      <p>tad-rūpasya vinirṇayam</p>
+      <p>bālo ’pi kurute śāstraṁ</p>
+      <p>dṛṣṭvā vraja-vilāsinaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-чаитанйа-праса̄дена</p>
+      <p>тад-рӯпасйа винирн̣айам</p>
+      <p>ба̄ло ’пи куруте ш́а̄страм̇</p>
+      <p>др̣шт̣ва̄ враджа-вила̄синах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>По милости Чайтаньи даже несмышлёное дитя, опираясь на писания, способно изложить истинную природу Кришны, играющего во Врадже.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>By Caitanya's grace even an ignorant child can, on the basis of scripture, establish the true nature of Kṛṣṇa who sports in Vraja.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: смысл стиха открывается только по беспричинной милости Чайтаньи. Кришну нельзя постичь мирскими средствами познания или интеллектом непреданных, но по милости Махапрабху даже ребёнок легко понимает Его и Его игры во Вриндаване. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 4.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/4/1/">https://vedabase.io/ru/library/cc/adi/4/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/4/1/">https://vedabase.io/en/library/cc/adi/4/1/</a></p>
+    </section>
+    <section id="V-11">
+      <title>
+        <p>11 ЧЧ Ади 5.1</p>
+      </title>
+      <subtitle>CC Ādi 5.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দেঽনন্তাদ্ভুতৈশ্বর্যং শ্রীনিত্যানন্দমীশ্বরম্‌ ।</p>
+      <p>যস্যেচ্ছয়া তৎস্বরূপমজ্ঞেনাপি নিরূপ্যতে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande ’nantādbhutaiśvaryaṁ</p>
+      <p>śrī-nityānandam īśvaram</p>
+      <p>yasyecchayā tat-svarūpam</p>
+      <p>ajñenāpi nirūpyate</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ’нанта̄дбхутаиш́варйам̇</p>
+      <p>ш́рӣ-нитйа̄нандам ӣш́варам</p>
+      <p>йасйеччхайа̄ тат-сварӯпам</p>
+      <p>аджн̃ена̄пи нирӯпйате</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Нитьянанде — Господу безграничного и дивного могущества; по Его воле даже глупец постигает Его природу.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Nityānanda, the Lord of boundless and wondrous opulence; by His will even a fool can understand who He is.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 5.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/5/1/">https://vedabase.io/ru/library/cc/adi/5/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/5/1/">https://vedabase.io/en/library/cc/adi/5/1/</a></p>
+    </section>
+    <section id="V-12">
+      <title>
+        <p>12 ЧЧ Ади 6.1</p>
+      </title>
+      <subtitle>CC Ādi 6.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে তং শ্রীমদদ্বৈতাচার্যমদ্ভুতচেষ্টিতম্‌ ।</p>
+      <p>যস্য প্রসাদাদজ্ঞোঽপি তৎস্বরূপং নিরূপয়েৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande taṁ śrīmad-advaitā-</p>
+      <p>cāryam adbhuta-ceṣṭitam</p>
+      <p>yasya prasādād ajño ’pi</p>
+      <p>tat-svarūpaṁ nirūpayet</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде там̇ ш́рӣмад-адваита̄ча̄рйам адбхута-чешт̣итам</p>
+      <p>йасйа праса̄да̄д аджн̃о ’пи тат-сварӯпам̇ нирӯпайет</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Адвайте Ачарье, чьи деяния удивительны; по Его милости даже невежда сможет описать Его природу.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Advaita Ācārya of wonderful deeds; by His mercy even an ignorant person can describe His nature.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 6.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/6/1/">https://vedabase.io/ru/library/cc/adi/6/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/6/1/">https://vedabase.io/en/library/cc/adi/6/1/</a></p>
+    </section>
+    <section id="V-13">
+      <title>
+        <p>13 ЧЧ Ади 7.1</p>
+      </title>
+      <subtitle>CC Ādi 7.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্‌ ।</p>
+      <p>শ্রীচৈতন্যং লিখ্যতেঽস্য প্রেমভক্তিবদান্যতা ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>agaty-eka-gatiṁ natvā</p>
+      <p>hīnārthādhika-sādhakam</p>
+      <p>śrī-caitanyaṁ likhyate ’sya</p>
+      <p>prema-bhakti-vadānyatā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>агатй-эка-гатим̇ натва̄</p>
+      <p>хӣна̄ртха̄дхика-са̄дхакам</p>
+      <p>ш́рӣ-чаитанйам̇ ликхйате ’сйа</p>
+      <p>према-бхакти-вада̄нйата̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Сначала поклонившись Чайтанье — единственному прибежищу тех, у кого нет иного, и дарителю цели выше обычных, — автор берётся описать Его щедрость в раздаче любовного служения.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Bowing first to Caitanya — the sole refuge of those with no other shelter and the giver of a goal beyond ordinary aims — the author sets out to describe His generosity in granting loving devotion.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: обусловленная душа беспомощна перед рождением, смертью, старостью и болезнью, и никакие материальные опоры её не спасают. Единственное прибежище — стопы Господа, и Чайтанья — прибежище «акинчан», не полагающихся на имущество. Слова «hīnārthādhika-sādhakam» объясняются так: выше дхармы, артхи, камы и даже мокши стоит любовь к Богу (премā), и её дарует Махапрабху. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 7.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/7/1/">https://vedabase.io/ru/library/cc/adi/7/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/7/1/">https://vedabase.io/en/library/cc/adi/7/1/</a></p>
+    </section>
+    <section id="V-14">
+      <title>
+        <p>14 ЧЧ Ади 8.1</p>
+      </title>
+      <subtitle>CC Ādi 8.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে চৈতন্যদেবং তং ভগবন্তং যদিচ্ছয়া ।</p>
+      <p>প্রসভং নর্ত্যতে চিত্রং লেখরঙ্গে জড়োঽপ্যয়ম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande caitanya-devaṁ taṁ</p>
+      <p>bhagavantaṁ yad-icchayā</p>
+      <p>prasabhaṁ nartyate citraṁ</p>
+      <p>lekha-raṅge jaḍo ’py ayam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде чаитанйа-девам̇ там̇ бхагавантам̇ йад-иччхайа̄</p>
+      <p>прасабхам̇ нартйате читрам̇ лекхаран̇ге джад̣о ’пй айам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор склоняется перед Чайтаньей, по чьей воле он, «глупец», словно танцующая собачка, вдруг пустился в пляс на сцене писательства и взялся за эту книгу.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author bows to Caitanya, by whose will he, a fool, has been made to 'dance' on the stage of writing, like a performing dog, and has taken up this book.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 8.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/8/1/">https://vedabase.io/ru/library/cc/adi/8/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/8/1/">https://vedabase.io/en/library/cc/adi/8/1/</a></p>
+    </section>
+    <section id="V-15">
+      <title>
+        <p>15 ЧЧ Ади 9.1</p>
+      </title>
+      <subtitle>CC Ādi 9.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>তং শ্রীমৎকৃষ্ণচৈতন্যদেবং বন্দে জগদ্‌গুরুম্ ।</p>
+      <p>যস্যানুকম্পয়া শ্বাপি মহাব্ধিং সন্তরেৎ সুখম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>taṁ śrīmat-kṛṣṇa-caitanya-</p>
+      <p>devaṁ vande jagad-gurum</p>
+      <p>yasyānukampayā śvāpi</p>
+      <p>mahābdhiṁ santaret sukham</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>там̇ ш́рӣмат-кр̣шн̣а-чаитанйа-девам̇ ванде джагад-гурум</p>
+      <p>йасйа̄нукампайа̄ ш́ва̄пи маха̄бдхим̇ сантарет сукхам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье, учителю всего мира, чьё сострадание позволяет даже собаке переплыть великий океан.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, guru of the world, by whose compassion even a dog could cross a vast ocean.</p>
+      <subtitle>Published translation</subtitle>
+      <p>I worship this blessed Kṛṣṇacaitanyadeva, the preceptor of the world, by whose grace even a dog can easily cross a great ocean.</p>
+      <p>Brill, Hari-bhakti-vilāsa, 2023; PDF 200; Måns Broo</p>
+      <p>CC BY-NC-ND 4.0 <a l:href="https://creativecommons.org/licenses/by-nc-nd/4.0/">https://creativecommons.org/licenses/by-nc-nd/4.0/</a></p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: собака обычно проплывает лишь немного, но с благословения Махапрабху пересекает океан. Так и автор, называя себя беспомощным, говорит, что лишь по желанию Чайтаньи, выраженному через вайшнавов и Мадана-мохана, может пересечь «океан» и представить «Чайтанья-чаритамриту». (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 9.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/9/1/">https://vedabase.io/ru/library/cc/adi/9/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/9/1/">https://vedabase.io/en/library/cc/adi/9/1/</a></p>
+    </section>
+    <section id="V-16">
+      <title>
+        <p>16 ЧЧ Ади 10.1</p>
+      </title>
+      <subtitle>CC Ādi 10.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীচৈতন্যপদাম্ভোজ–মধুপেভ্যো নমো নমঃ ।</p>
+      <p>কথঞ্চিদাশ্রয়াদ্‌ যেষাং শ্বাপি তদ্‌গন্ধভাগ্‌ভবেৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-caitanya-padāmbhoja-</p>
+      <p>madhupebhyo namo namaḥ</p>
+      <p>kathañcid āśrayād yeṣāṁ</p>
+      <p>śvāpi tad-gandha-bhāg bhavet</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-чаитанйа-пада̄мбходжа-мадхупебхйо намо намах̣</p>
+      <p>катхан̃чид а̄ш́райа̄д йеша̄м̇ ш́ва̄пи тад-гандха-бха̄г бхавет</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Снова и снова — поклон преданным-«пчёлам», вкушающим мёд лотосных стоп Чайтаньи; найдя у них прибежище, даже «пёс» получает долю аромата этого лотоса.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Repeated obeisances to the bee-like devotees who relish the honey of Caitanya's lotus feet; taking shelter of them, even a 'dog' gains a share of the lotus's fragrance.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: собака — образ крайнего непреданного, но в общении с преданными Чайтаньи постепенно преображается и она. Приводятся пример собаки, которую Шивананда Сена взял с собой в Пури и которая получила освобождение, и животные в доме Шриваса Тхакура. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 10.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/10/1/">https://vedabase.io/ru/library/cc/adi/10/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/10/1/">https://vedabase.io/en/library/cc/adi/10/1/</a></p>
+    </section>
+    <section id="V-17">
+      <title>
+        <p>17 ЧЧ Ади 11.1</p>
+      </title>
+      <subtitle>CC Ādi 11.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>নিত্যানন্দপদাম্ভোজ–ভৃঙ্গান্ প্রেমমধূন্মদান্ ।</p>
+      <p>নত্বাখিলান্ তেষু মুখ্যা লিখ্যন্তে কতিচিন্ময়া ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>nityānanda-padāmbhoja-</p>
+      <p>bhṛṅgān prema-madhūnmadān</p>
+      <p>natvākhilān teṣu mukhyā</p>
+      <p>likhyante katicin mayā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>нитйа̄нанда-пада̄мбходжа-бхр̣н̇га̄н према-мадхӯнмада̄н</p>
+      <p>натва̄кхила̄н тешу мукхйа̄ ликхйанте катичин майа̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклонившись всем преданным Нитьянанды, опьянённым мёдом любви, словно пчёлы у Его стоп, автор опишет некоторых главных из них.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Having bowed to all the bee-like devotees of Nityānanda, intoxicated by the honey of love, the author will describe a few of the chief ones.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 11.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/11/1/">https://vedabase.io/ru/library/cc/adi/11/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/11/1/">https://vedabase.io/en/library/cc/adi/11/1/</a></p>
+    </section>
+    <section id="V-18">
+      <title>
+        <p>18 ЧЧ Ади 12.1</p>
+      </title>
+      <subtitle>CC Ādi 12.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>অদ্বৈতাঙ্ঘ্র্যব্জভৃঙ্গাংস্তান্ সারাসারভৃতোঽখিলান্ ।</p>
+      <p>হিত্বাঽসারান্‌ সারভৃতো নৌমি চৈতন্যজীবনান্ ॥১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>advaitāṅghry-abja-bhṛṅgāṁs tān</p>
+      <p>sārāsāra-bhṛto ’khilān</p>
+      <p>hitvāsārān sāra-bhṛto</p>
+      <p>naumi caitanya-jīvanān</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>адваита̄н̇гхрй-абджа-бхр̣н̇га̄м̇с та̄н са̄ра̄са̄ра-бхр̣то ’кхила̄н</p>
+      <p>хитва̄ ’са̄ра̄н са̄ра-бхр̣то науми чаитанйа-джӣвана̄н</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Последователи Адвайты были двух видов — истинные и ложные; отвергнув ложных, автор склоняется перед истинными, для которых жизнью был Чайтанья.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Advaita's followers were of two kinds, genuine and false; rejecting the false, the author bows to the genuine ones, whose life was Caitanya.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 12.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/12/1/">https://vedabase.io/ru/library/cc/adi/12/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/12/1/">https://vedabase.io/en/library/cc/adi/12/1/</a></p>
+    </section>
+    <section id="V-19">
+      <title>
+        <p>19 ЧЧ Ади 13.1</p>
+      </title>
+      <subtitle>CC Ādi 13.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>স প্রসীদতু চৈতন্যদেবো যস্য প্রসাদতঃ ।</p>
+      <p>তল্লীলাবর্ণনে যোগ্যঃ সদ্যঃ স্যাদধমোঽপ্যয়ম্ ॥১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>sa prasīdatu caitanya-</p>
+      <p>devo yasya prasādataḥ</p>
+      <p>tal-līlā-varṇane yogyaḥ</p>
+      <p>sadyaḥ syād adhamo ’py ayam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>са прасӣдату чаитанйа</p>
+      <p>дево йасйа праса̄датах̣</p>
+      <p>тал-лӣла̄-варн̣ане йогйах̣</p>
+      <p>садйах̣ сйа̄д адхамо ’пй айам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Мольба о милости Чайтаньи, по которой даже падший сразу становится способен описывать Его игры.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>A prayer for Caitanya's grace, by which even a fallen person at once becomes fit to describe His pastimes.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: описывать Господа можно лишь по Его милости. Здесь же процитирована Антья 7.11: без силы Кришны нельзя проповедовать. Поэтому труд Кришнадаса — знак особой милости к нему, и его самоуничижение не делает его падшим. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 13.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/13/1/">https://vedabase.io/ru/library/cc/adi/13/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/13/1/">https://vedabase.io/en/library/cc/adi/13/1/</a></p>
+    </section>
+    <section id="V-20">
+      <title>
+        <p>20 ЧЧ Ади 15.1</p>
+      </title>
+      <subtitle>CC Ādi 15.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>কুমনাঃ সুমনস্ত্বং হি যাতি যস্য পদাব্জয়োঃ ।</p>
+      <p>সুমনোঽর্পণমাত্রেণ তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>ku-manāḥ su-manastvaṁ hi</p>
+      <p>yāti yasya padābjayoḥ</p>
+      <p>su-mano-’rpaṇa-mātreṇa</p>
+      <p>taṁ caitanya-prabhuṁ bhaje</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ку-мана̄х̣ су-манаствам̇ хи йа̄ти йасйа пада̄бджайох̣</p>
+      <p>су-мано ’рпан̣а-ма̄трен̣а там̇ чаитанйа-прабхум̇ бхадже</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор поклоняется Чайтанье: достаточно поднести Его стопам цветок, и даже человек дурного ума становится преданным.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author worships Caitanya, at whose feet the mere offering of a flower turns even an ill-minded person into a devotee.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 15.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/15/1/">https://vedabase.io/ru/library/cc/adi/15/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/15/1/">https://vedabase.io/en/library/cc/adi/15/1/</a></p>
+    </section>
+    <section id="V-21">
+      <title>
+        <p>21 ЧЧ Ади 16.1</p>
+      </title>
+      <subtitle>CC Ādi 16.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>কৃপাসুধা–সরিদ্যস্য বিশ্বমাপ্লাবয়ন্ত্যপি ।</p>
+      <p>নীচগৈব সদা ভাতি তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>kṛpā-sudhā-sarid yasya</p>
+      <p>viśvam āplāvayanty api</p>
+      <p>nīca-gaiva sadā bhāti</p>
+      <p>taṁ caitanya-prabhuṁ bhaje</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>кр̣па̄-судха̄-сарид йасйа виш́вам а̄пла̄вайантй апи</p>
+      <p>нӣчагаива сада̄ бха̄ти там̇ чаитанйа-прабхум̇ бхадже</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклонение Чайтанье: река нектара Его милости затопляет весь мир, но, как всякая река, всегда течёт вниз — особенно к падшим.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Worship of Caitanya, whose nectar-river of mercy floods the whole world yet, like any river, always flows toward the low, i.e. especially to the fallen.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: Чайтанья — воплощение милости, и чем человек более пал, тем больше у него прав на Его благосклонность, если он искренен. Пример — Джагай и Мадхай. Движение санкиртаны продолжает течь, как великая река. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 16.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/16/1/">https://vedabase.io/ru/library/cc/adi/16/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/16/1/">https://vedabase.io/en/library/cc/adi/16/1/</a></p>
+    </section>
+    <section id="V-22">
+      <title>
+        <p>22 ЧЧ Ади 17.1</p>
+      </title>
+      <subtitle>CC Ādi 17.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে স্বৈরাদ্ভুতেহং তং চৈতন্যং যৎপ্রসাদতঃ ।</p>
+      <p>যবনাঃ সুমনায়ন্তে কৃষ্ণনামপ্রজল্পকাঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande svairādbhutehaṁ taṁ</p>
+      <p>caitanyaṁ yat-prasādataḥ</p>
+      <p>yavanāḥ sumanāyante</p>
+      <p>kṛṣṇa-nāma-prajalpakāḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде сваира̄дбхутехам̇ там̇</p>
+      <p>чаитанйам̇ йат-праса̄датах̣</p>
+      <p>йавана̄х̣ сумана̄йанте</p>
+      <p>кр̣шн̣а-на̄ма-праджалпака̄х̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Чайтанье, свободному в Своих дивных деяниях: по Его милости даже яваны, повторяющие имя Кришны, становятся благородными людьми.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Caitanya of free and wonderful deeds, by whose grace even yavanas who chant Kṛṣṇa's name become noble.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: смарты считают, что брахманом нельзя стать без смены тела, но Чайтанья, независимый как Кришна, может преобразить даже явану. Прабхупада приводит в пример западных учеников, ставших вайшнавами благодаря повторению Харе Кришна. (пересказ; источник указан ниже).</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 17.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/17/1/">https://vedabase.io/ru/library/cc/adi/17/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/17/1/">https://vedabase.io/en/library/cc/adi/17/1/</a></p>
+    </section>
+    <section id="V-23">
+      <title>
+        <p>23 ЧЧ Мадхья 1.1</p>
+      </title>
+      <subtitle>CC Madhya 1.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>যস্য প্রসাদাদজ্ঞোঽপি সদ্যঃ সর্বজ্ঞতাং ব্রজেৎ ।</p>
+      <p>স শ্রীচৈতন্যদেবো মে ভগবান্ সংপ্রসীদতু ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>yasya prasādād ajño ’pi</p>
+      <p>sadyaḥ sarva-jñatāṁ vrajet</p>
+      <p>sa śrī-caitanya-devo me</p>
+      <p>bhagavān samprasīdatu</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>йасйа праса̄да̄д аджн̃о ’пи</p>
+      <p>садйах̣ сарва-джн̃ата̄м̇ враджет</p>
+      <p>са ш́рӣ-чаитанйа-дево ме</p>
+      <p>бхагава̄н сампрасӣдату</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>По милости Чайтаньи даже невежда сразу обретает всё знание; автор молит Господа о милости к себе.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>By Caitanya's grace even an ignorant person at once attains all knowledge; the author prays for His mercy.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 1.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/1/1/">https://vedabase.io/ru/library/cc/madhya/1/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/1/1/">https://vedabase.io/en/library/cc/madhya/1/1/</a></p>
+    </section>
+    <section id="V-24">
+      <title>
+        <p>24 ЧЧ Мадхья 2.1</p>
+      </title>
+      <subtitle>CC Madhya 2.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বিচ্ছেদেঽস্মিন্ প্রভোরন্ত্যলীলা-সূত্রানুবর্ণনে ।</p>
+      <p>গৌরস্য কৃষ্ণবিচ্ছেদপ্রলাপাদ্যনুবর্ণ্যতে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vicchede ’smin prabhor antya-</p>
+      <p>līlā-sūtrānuvarṇane</p>
+      <p>gaurasya kṛṣṇa-viccheda-</p>
+      <p>pralāpādy anuvarṇyate</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>виччхеде ’смин прабхор антйа</p>
+      <p>лӣла̄-сӯтра̄нуварн̣ане</p>
+      <p>гаурасйа кр̣шн̣а-виччхеда</p>
+      <p>прала̄па̄дй ануварн̣йате</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Кратко излагая последние игры, автор описывает в этой главе экстатические, подобные безумию речи Гауры в разлуке с Кришной.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>In summarizing the last pastimes, this chapter describes Gaura's ecstatic, madness-like utterances in separation from Kṛṣṇa.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: глава в общих чертах описывает деяния после принятия санньясы. Чайтанья назван «гаура» (золотистым): Кришна, погружённый в мысли о гопи, сам становится светлым. Около двенадцати последних лет Он переживал разлуку с Кришной, как влюблённый, покинутый возлюбленной. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 2.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/2/1/">https://vedabase.io/ru/library/cc/madhya/2/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/2/1/">https://vedabase.io/en/library/cc/madhya/2/1/</a></p>
+    </section>
+    <section id="V-25">
+      <title>
+        <p>25 ЧЧ Мадхья 3.1</p>
+      </title>
+      <subtitle>CC Madhya 3.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>ন্যাসং বিধায়োৎপ্রণয়োঽথ গৌরো</p>
+      <p>বৃন্দাবনং গন্তুমনা ভ্রমাদ্ যঃ ।</p>
+      <p>রাঢ়ে ভ্রমন্ শান্তিপুরীময়িত্বা</p>
+      <p>ললাস ভক্তৈরিহ তং নতোঽস্মি ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>nyāsaṁ vidhāyotpraṇayo ’tha gauro</p>
+      <p>vṛndāvanaṁ gantu-manā bhramād yaḥ</p>
+      <p>rāḍhe bhraman śānti-purīm ayitvā</p>
+      <p>lalāsa bhaktair iha taṁ nato ’smi</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>нйа̄сам̇ видха̄йотпран̣айо ’тха гауро</p>
+      <p>вр̣нда̄ванам̇ ганту-мана̄ бхрама̄д йах̣</p>
+      <p>ра̄д̣хе бхраман ш́а̄нти-пурӣм айитва̄</p>
+      <p>лала̄са бхактаир иха там̇ нато ’сми</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Приняв санньясу и желая в пылу любви идти во Вриндаван, Гаура «по ошибке» блуждал по Радхе, пришёл в Шантипур и радовался там с преданными; автор склоняется перед Ним.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>After taking sannyāsa, Gaura, in intense love, set out for Vṛndāvana but 'by mistake' wandered in Rāḍha, reached Śāntipura and rejoiced there with devotees; the author bows to Him.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 3.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/3/1/">https://vedabase.io/ru/library/cc/madhya/3/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/3/1/">https://vedabase.io/en/library/cc/madhya/3/1/</a></p>
+    </section>
+    <section id="V-26">
+      <title>
+        <p>26 ЧЧ Мадхья 4.1</p>
+      </title>
+      <subtitle>CC Madhya 4.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>যস্মৈ দাতুং চোরয়ন্ ক্ষীরভাণ্ডং</p>
+      <p>গোপীনাথঃ ক্ষীরচোরাভিধোঽভূৎ ।</p>
+      <p>শ্রীগোপালঃ প্রাদুরাসীদ্বশঃ সন্</p>
+      <p>যৎপ্রেম্ণা তং মাধবেন্দ্রং নতোঽস্মি ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>yasmai dātuṁ corayan kṣīra-bhāṇḍaṁ</p>
+      <p>gopīnāthaḥ kṣīra-corābhidho ’bhūt</p>
+      <p>śrī-gopālaḥ prādurāsīd vaśaḥ san</p>
+      <p>yat-premṇā taṁ mādhavendraṁ nato ’smi</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>йасмаи да̄тум̇ чорайан кшӣра-бха̄н̣д̣ам̇</p>
+      <p>гопӣна̄тхах̣ кшӣра-чора̄бхидхо ’бхӯт</p>
+      <p>ш́рӣ-гопа̄лах̣ пра̄дура̄сӣд ваш́ах̣ сан</p>
+      <p>йат-премн̣а̄ там̇ ма̄дхавендрам̇ нато ’сми</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Мадхавендре Пури: ради него Гопинатха украл горшок сладкого риса (отсюда имя Кшира-чора), а Шри Гопала, покорённый его любовью, явил Себя людям.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Mādhavendra Purī, for whom Gopīnātha stole a pot of sweet rice (hence 'Kṣīra-corā'), and to whom, won by his love, Śrī Gopāla became manifest.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады со ссылкой на Бхактивинода Тхакура: Божество Гопалы изначально установил Ваджра, правнук Кришны. Мадхавендра Пури вновь нашёл Его и установил на Говардхане. Ныне Божество находится в Натхадваре и управляется потомками Валлабхачарьи. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 4.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/4/1/">https://vedabase.io/ru/library/cc/madhya/4/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/4/1/">https://vedabase.io/en/library/cc/madhya/4/1/</a></p>
+    </section>
+    <section id="V-27">
+      <title>
+        <p>27 ЧЧ Мадхья 5.1</p>
+      </title>
+      <subtitle>CC Madhya 5.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>পদ্ভ্যাং চলন্ যঃ প্রতিমা-স্বরূপো</p>
+      <p>ব্রহ্মণ্যদেবো হি শতাহগম্যম্ ।</p>
+      <p>দেশং যযৌ বিপ্রকৃতেঽদ্ভুতেহং</p>
+      <p>তং সাক্ষিগোপালমহং নতোঽস্মি ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>padbhyāṁ calan yaḥ pratimā-svarūpo</p>
+      <p>brahmaṇya-devo hi śatāha-gamyam</p>
+      <p>deśaṁ yayau vipra-kṛte ’dbhutehaṁ</p>
+      <p>taṁ sākṣi-gopālam ahaṁ nato ’smi</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>падбхйа̄м̇ чалан йах̣ пратима̄-сварӯпо</p>
+      <p>брахман̣йа-дево хи ш́ата̄ха-гамйам</p>
+      <p>деш́ам̇ йайау випра-кр̣те ’дбхутехам̇</p>
+      <p>там̇ са̄кши-гопа̄лам ахам̇ нато ’сми</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Господу, который в образе Божества Сакши-Гопалы ради брахмана сто дней шёл пешком в далёкий край, — поистине удивительное деяние.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to the Lord who, as the Deity Sākṣi-gopāla, walked for a hundred days to another land for a brāhmaṇa's sake — a wonderful act.</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 5.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/5/1/">https://vedabase.io/ru/library/cc/madhya/5/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/5/1/">https://vedabase.io/en/library/cc/madhya/5/1/</a></p>
+    </section>
+    <section id="V-28">
+      <title>
+        <p>28 ЧЧ Мадхья 6.1</p>
+      </title>
+      <subtitle>CC Madhya 6.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>নৌমি তং গৌরচন্দ্রং যঃ কুতর্ক-কর্কশাশয়ম্ ।</p>
+      <p>সার্বভৌমং সর্বভূমা ভক্তিভূমানমাচরৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>naumi taṁ gauracandraṁ yaḥ</p>
+      <p>kutarka-karkaśāśayam</p>
+      <p>sārvabhaumaṁ sarva-bhūmā</p>
+      <p>bhakti-bhūmānam ācarat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>науми там̇ гаура-чандрам̇ йах̣</p>
+      <p>кутарка-каркаш́а̄ш́айам</p>
+      <p>са̄рвабхаумам̇ сарва-бхӯма̄</p>
+      <p>бхакти-бхӯма̄нам а̄чарат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Славословие Гаурачандре, который превратил Сарвабхауму, ожесточённого схоластикой, в великого преданного.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Praise of Gauracandra, who turned Sārvabhauma, hardened by sophistry, into a great devotee.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 6.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/6/1/">https://vedabase.io/ru/library/cc/madhya/6/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/6/1/">https://vedabase.io/en/library/cc/madhya/6/1/</a></p>
+    </section>
+    <section id="V-29">
+      <title>
+        <p>29 ЧЧ Мадхья 7.1</p>
+      </title>
+      <subtitle>CC Madhya 7.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>ধন্যং তং নৌমি চৈতন্যং বাসুদেবং দয়ার্দ্রধী ।</p>
+      <p>নষ্টকুষ্ঠং রূপপুষ্টং ভক্তিতুষ্টং চকার যঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>dhanyaṁ taṁ naumi caitanyaṁ</p>
+      <p>vāsudevaṁ dayārdra-dhī</p>
+      <p>naṣṭa-kuṣṭhaṁ rūpa-puṣṭaṁ</p>
+      <p>bhakti-tuṣṭaṁ cakāra yaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>дханйам̇ там̇ науми чаитанйам̇</p>
+      <p>ва̄судевам̇ дайа̄рдра-дхӣ</p>
+      <p>нашт̣а-кушт̣хам̇ рӯпа-пушт̣ам̇</p>
+      <p>бхакти-тушт̣ам̇ чака̄ра йах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Слава Чайтанье: из сострадания Он исцелил брахмана Васудеву от проказы, сделал его прекрасным и удовлетворённым преданностью.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Praise of Caitanya, who out of compassion cured the brāhmaṇa Vāsudeva of leprosy, made him handsome and satisfied in devotion.</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 7.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/7/1/">https://vedabase.io/ru/library/cc/madhya/7/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/7/1/">https://vedabase.io/en/library/cc/madhya/7/1/</a></p>
+    </section>
+    <section id="V-30">
+      <title>
+        <p>30 ЧЧ Мадхья 8.1</p>
+      </title>
+      <subtitle>CC Madhya 8.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>সঞ্চার্য রামাভিধ-ভক্তমেঘে</p>
+      <p>স্বভক্তিসিদ্ধান্তচয়ামৃতানি ।</p>
+      <p>গৌরাব্ধিরেতৈরমুনা বিতীর্ণৈ-</p>
+      <p>স্তজ্জ্ঞত্ব-রত্নালয়তাং প্রযাতি ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>sañcārya rāmābhidha-bhakta-meghe</p>
+      <p>sva-bhakti-siddhānta-cayāmṛtāni</p>
+      <p>gaurābdhir etair amunā vitīrṇais</p>
+      <p>taj-jñatva-ratnālayatāṁ prayāti</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>сан̃ча̄рйа ра̄ма̄бхидха-бхакта-мегхе</p>
+      <p>сва-бхакти-сиддха̄нта-чайа̄мр̣та̄ни</p>
+      <p>гаура̄бдхир этаир амуна̄ витӣрн̣аис</p>
+      <p>тадж-джн̃атва-ратна̄лайата̄м̇ прайа̄ти</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Гаура, океан истин преданности, наполнил этим нектаром «облако» — Рамананду Рая; пролившись обратно, оно сделало океан сокровищницей самоцветов знания.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Gaura, the ocean of devotional conclusions, filled the 'cloud' Rāmānanda Rāya with that nectar; showered back upon Him, it made the ocean a treasury of jewels of knowledge.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 8.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/8/1/">https://vedabase.io/ru/library/cc/madhya/8/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/8/1/">https://vedabase.io/en/library/cc/madhya/8/1/</a></p>
+    </section>
+    <section id="V-31">
+      <title>
+        <p>31 ЧЧ Мадхья 9.1</p>
+      </title>
+      <subtitle>CC Madhya 9.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>নানামতগ্রাহগ্রস্তান্ দাক্ষিণাত্যজনদ্বিপান্ ।</p>
+      <p>কৃপারিণা বিমুচ্যৈতান্ গৌরশ্চক্রে স বৈষ্ণবান্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>nānā-mata-grāha-grastān</p>
+      <p>dākṣiṇātya-jana-dvipān</p>
+      <p>kṛpāriṇā vimucyaitān</p>
+      <p>gauraś cakre sa vaiṣṇavān</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>на̄на̄-мата-гра̄ха-граста̄н</p>
+      <p>да̄кшин̣а̄тйа-джана-двипа̄н</p>
+      <p>кр̣па̄рин̣а̄ вимучйаита̄н</p>
+      <p>гаураш́ чакре са ваишн̣ава̄н</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Диском милости Гаура освободил «слоноподобных» жителей юга Индии из пасти «крокодилов» разных учений и сделал их вайшнавами.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>With the disc of His mercy Gaura freed the 'elephant-like' people of South India from the 'crocodiles' of various doctrines and made them Vaiṣṇavas.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады: обращение южан сравнивается со спасением Вишну слона Гаджендры от крокодила. «Крокодилы» — буддийская, джайнская и майявадская философии; Махапрабху освободил людей от них, сделав вайшнавами. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 9.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/9/1/">https://vedabase.io/ru/library/cc/madhya/9/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/9/1/">https://vedabase.io/en/library/cc/madhya/9/1/</a></p>
+    </section>
+    <section id="V-32">
+      <title>
+        <p>32 ЧЧ Мадхья 10.1</p>
+      </title>
+      <subtitle>CC Madhya 10.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>তং বন্দে গৌরজলদং স্বস্য যো দর্শনামৃতৈঃ ।</p>
+      <p>বিচ্ছেদাবগ্রহম্লান-ভক্তশস্যান্যজীবয়ৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>taṁ vande gaura-jaladaṁ</p>
+      <p>svasya yo darśanāmṛtaiḥ</p>
+      <p>vicchedāvagraha-mlāna-</p>
+      <p>bhakta-śasyāny ajīvayat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>там̇ ванде гаура-джаладам̇</p>
+      <p>свасйа йо дарш́ана̄мр̣таих̣</p>
+      <p>виччхеда̄ваграха-мла̄на-бхакта-ш́асйа̄нй аджӣвайат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Гауре — туче, чьё нектарное присутствие оживило преданных, увядших, как посевы в засуху разлуки.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Gaura, the rain-cloud whose nectarean presence revived the devotees, withered like crops in the drought of separation.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 10.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/10/1/">https://vedabase.io/ru/library/cc/madhya/10/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/10/1/">https://vedabase.io/en/library/cc/madhya/10/1/</a></p>
+    </section>
+    <section id="V-33">
+      <title>
+        <p>33 ЧЧ Мадхья 11.1</p>
+      </title>
+      <subtitle>CC Madhya 11.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>অত্যুদ্দণ্ডং তাণ্ডবং গৌরচন্দ্রঃ</p>
+      <p>কুর্বন্ ভক্তৈঃ শ্রীজগন্নাথগেহে ।</p>
+      <p>নানাভাবালঙ্কৃতাঙ্গঃ স্বধাম্না</p>
+      <p>চক্রে বিশ্বং প্রেমবন্যা-নিমগ্নম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>aty-uddaṇḍaṁ tāṇḍavaṁ gauracandraḥ</p>
+      <p>kurvan bhaktaiḥ śrī-jagannātha-gehe</p>
+      <p>nānā-bhāvālaṅkṛtāṅgaḥ sva-dhāmnā</p>
+      <p>cakre viśvaṁ prema-vanyā-nimagnam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>атй-уддан̣д̣ам̇ та̄н̣д̣авам̇ гаурачандрах̣</p>
+      <p>курван бхактаих̣ ш́рӣ-джаганна̄тха-гехе</p>
+      <p>на̄на̄-бха̄ва̄лан̇кр̣та̄н̇гах̣ сва-дха̄мна̄</p>
+      <p>чакре виш́вам̇ према-ванйа̄-нимагнам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Неистово танцуя с преданными в храме Джаганнатхи, украшенный множеством экстатических чувств, Гаурачандра погрузил мир в поток любви.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Dancing wildly with devotees in Jagannātha's temple, His body adorned with ecstasies, Gauracandra plunged the world into a flood of love.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 11.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/11/1/">https://vedabase.io/ru/library/cc/madhya/11/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/11/1/">https://vedabase.io/en/library/cc/madhya/11/1/</a></p>
+    </section>
+    <section id="V-34">
+      <title>
+        <p>34 ЧЧ Мадхья 12.1</p>
+      </title>
+      <subtitle>CC Madhya 12.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীগুণ্ডিচা-মন্দিরমাত্মবৃন্দৈঃ</p>
+      <p>সংমার্জয়ন্ ক্ষালনতঃ স গৌরঃ ।</p>
+      <p>স্বচিত্তবচ্ছীতলমুজ্জ্বলঞ্চ</p>
+      <p>কৃষ্ণোপবেশৌপয়িকং চকার ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-guṇḍicā-mandiram ātma-vṛndaiḥ</p>
+      <p>sammārjayan kṣālanataḥ sa gauraḥ</p>
+      <p>sva-citta-vac chītalam ujjvalaṁ ca</p>
+      <p>kṛṣṇopaveśaupayikaṁ cakāra</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-гун̣д̣ича̄-мандирам а̄тма-вр̣ндаих̣</p>
+      <p>самма̄рджайан кша̄ланатах̣ са гаурах̣</p>
+      <p>сва-читта-вач чхӣталам уджджвалам̇ ча</p>
+      <p>кр̣шн̣опавеш́аупайикам̇ чака̄ра</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Вместе со спутниками Гаура вымыл храм Гундичи, сделав его прохладным и сияющим, как своё сердце, и достойным того, чтобы там воссел Кришна.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>With His associates Gaura washed the Guṇḍicā temple, making it cool and bright like His own heart and fit for Kṛṣṇa to sit in.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 12.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/12/1/">https://vedabase.io/ru/library/cc/madhya/12/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/12/1/">https://vedabase.io/en/library/cc/madhya/12/1/</a></p>
+    </section>
+    <section id="V-35">
+      <title>
+        <p>35 ЧЧ Мадхья 13.1</p>
+      </title>
+      <subtitle>CC Madhya 13.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>স জীয়াৎ কৃষ্ণচৈতন্যঃ শ্রীরথাগ্রে ননর্ত যঃ ।</p>
+      <p>যেনাসীজ্জগতাং চিত্রং জগন্নাথোঽপি বিস্মিতঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>sa jīyāt kṛṣṇa-caitanyaḥ</p>
+      <p>śrī-rathāgre nanarta yaḥ</p>
+      <p>yenāsīj jagatāṁ citraṁ</p>
+      <p>jagannātho ’pi vismitaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>са джӣйа̄т кр̣шн̣а-чаитанйах̣</p>
+      <p>ш́рӣ-ратха̄гре нанарта йах̣</p>
+      <p>йена̄сӣдж джагата̄м̇ читрам̇</p>
+      <p>джаганна̄тхо ’пи висмитах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Слава Кришне Чайтанье, танцевавшему перед колесницей Джаганнатхи, — этим Он изумил мир и Самого Джаганнатху.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Glory to Kṛṣṇa Caitanya, who danced before Jagannātha's chariot, astonishing the world and Jagannātha Himself.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 13.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/13/1/">https://vedabase.io/ru/library/cc/madhya/13/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/13/1/">https://vedabase.io/en/library/cc/madhya/13/1/</a></p>
+    </section>
+    <section id="V-36">
+      <title>
+        <p>36 ЧЧ Мадхья 14.1</p>
+      </title>
+      <subtitle>CC Madhya 14.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>গৌরঃ পশ্যন্নাত্মবৃন্দৈঃ শ্রীলক্ষ্মীবিজয়োৎসবম্ ।</p>
+      <p>শ্রুত্বা গোপীরসোল্লাসং হৃষ্টঃ প্রেম্‌ণা ননর্ত সঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>gauraḥ paśyann ātma-vṛndaiḥ</p>
+      <p>śrī-lakṣmī-vijayotsavam</p>
+      <p>śrutvā gopī-rasollāsaṁ</p>
+      <p>hṛṣṭaḥ premṇā nanarta saḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>гаурах̣ паш́йанн а̄тма-вр̣ндаих̣</p>
+      <p>ш́рӣ-лакшмӣ-виджайотсавам</p>
+      <p>ш́рутва̄ гопӣ-расолла̄сам̇</p>
+      <p>хр̣шт̣ах̣ премн̣а̄ нанарта сах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Вместе с преданными Гаура видел праздник Лакшми-виджайотсава, услышал о ликующей любви гопи и затанцевал от радости.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>With His devotees Gaura witnessed the Lakṣmī-vijayotsava festival, heard of the gopīs' exultant love, and danced in joy.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 14.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/14/1/">https://vedabase.io/ru/library/cc/madhya/14/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/14/1/">https://vedabase.io/en/library/cc/madhya/14/1/</a></p>
+    </section>
+    <section id="V-37">
+      <title>
+        <p>37 ЧЧ Мадхья 15.1</p>
+      </title>
+      <subtitle>CC Madhya 15.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>সার্বভৌমগৃহে ভুঞ্জন্ স্বনিন্দকমমোঘকম্ ।</p>
+      <p>অঙ্গীকুর্বন্ স্ফুটাং চক্রে গৌরঃ স্বাং ভক্তবশ্যতাম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>sārvabhauma-gṛhe bhuñjan</p>
+      <p>sva-nindakam amoghakam</p>
+      <p>aṅgī-kurvan sphuṭāṁ cakre</p>
+      <p>gauraḥ svāṁ bhakta-vaśyatām</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>са̄рвабхаума-гр̣хе бхун̃джан</p>
+      <p>сва-ниндакам амогхакам</p>
+      <p>ан̇гӣкурван спхут̣а̄м̇ чакре</p>
+      <p>гаурах̣ сва̄м̇ бхакта-ваш́йата̄м</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Обедая в доме Сарвабхаумы, Гаура принял хулившего Его Амогху и тем показал, как Он покоряется Своим преданным.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Dining at Sārvabhauma's house, Gaura accepted Amogha, who had criticized Him, and so showed how He is subject to His devotees.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 15.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/15/1/">https://vedabase.io/ru/library/cc/madhya/15/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/15/1/">https://vedabase.io/en/library/cc/madhya/15/1/</a></p>
+    </section>
+    <section id="V-38">
+      <title>
+        <p>38 ЧЧ Мадхья 16.1</p>
+      </title>
+      <subtitle>CC Madhya 16.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>গৌড়োদ্যানং গৌরমেঘঃ সিঞ্চন্ স্বালোকনামৃতৈঃ ।</p>
+      <p>ভবাগ্নিদগ্ধজনতা-বীরুধঃ সমজীবয়ৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>gauḍodyānaṁ gaura-meghaḥ</p>
+      <p>siñcan svālokanāmṛtaiḥ</p>
+      <p>bhavāgni-dagdha-janatā-</p>
+      <p>vīrudhaḥ samajīvayat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>гауд̣одйа̄нам̇ гаура-мегхах̣</p>
+      <p>син̃чан сва̄локана̄мр̣таих̣</p>
+      <p>бхава̄гни-дагдха-джаната̄-вӣрудхах̣ самаджӣвайат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Туча-Гаура, оросив нектаром взгляда сад Гауды, оживила его людей, подобных растениям, опалённым пожаром мирского бытия.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The cloud Gaura, watering the garden of Gauḍa with the nectar of His glance, revived its people, who were like plants burned by the fire of worldly existence.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 16.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/16/1/">https://vedabase.io/ru/library/cc/madhya/16/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/16/1/">https://vedabase.io/en/library/cc/madhya/16/1/</a></p>
+    </section>
+    <section id="V-39">
+      <title>
+        <p>39 ЧЧ Мадхья 17.1</p>
+      </title>
+      <subtitle>CC Madhya 17.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>গচ্ছন্ বৃন্দাবনং গৌরো ব্যাঘ্রেভৈণখগান্ বনে ।</p>
+      <p>প্রেমোন্মত্তান্ সহোন্নৃত্যান্ বিদধে কৃষ্ণজল্পিনঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>gacchan vṛndāvanaṁ gauro</p>
+      <p>vyāghrebhaiṇa-khagān vane</p>
+      <p>premonmattān sahonnṛtyān</p>
+      <p>vidadhe kṛṣṇa-jalpinaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>гаччхан вр̣нда̄ванам̇ гауро</p>
+      <p>вйа̄гхребхаин̣а-кхага̄н ване</p>
+      <p>премонматта̄н сахоннр̣тйа̄н</p>
+      <p>видадхе кр̣шн̣а-джалпинах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>По пути во Вриндаван, в лесу, Гаура заставил тигров, слонов, оленей и птиц танцевать вместе с Ним и в упоении повторять имя Кришны.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>On the way to Vṛndāvana, in the forest, Gaura made tigers, elephants, deer and birds dance with Him and chant Kṛṣṇa's name, mad with love.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 17.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/17/1/">https://vedabase.io/ru/library/cc/madhya/17/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/17/1/">https://vedabase.io/en/library/cc/madhya/17/1/</a></p>
+    </section>
+    <section id="V-40">
+      <title>
+        <p>40 ЧЧ Мадхья 18.1</p>
+      </title>
+      <subtitle>CC Madhya 18.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বৃন্দাবনে স্থিরচরান্নন্দয়ন্ স্বাবলোকনৈঃ ।</p>
+      <p>আত্মানঞ্চ তদালোকাদ্‌গৌরাঙ্গঃ পরিতোঽভ্রমৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vṛndāvane sthira-carān</p>
+      <p>nandayan svāvalokanaiḥ</p>
+      <p>ātmānaṁ ca tad-ālokād</p>
+      <p>gaurāṅgaḥ parito ’bhramat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>вр̣нда̄ване стхира-чара̄н</p>
+      <p>нандайан сва̄валоканаих̣</p>
+      <p>а̄тма̄нам̇ ча тад-а̄лока̄д</p>
+      <p>гаура̄н̇гах̣ парито ’бхрамат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Радуя взглядом всех существ Вриндавана, подвижных и неподвижных, и сам радуясь при виде их, Гауранга странствовал повсюду.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Gladdening all beings of Vṛndāvana, moving and still, with His glances, and rejoicing Himself at seeing them, Gaurāṅga wandered all around.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 18.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/18/1/">https://vedabase.io/ru/library/cc/madhya/18/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/18/1/">https://vedabase.io/en/library/cc/madhya/18/1/</a></p>
+    </section>
+    <section id="V-41">
+      <title>
+        <p>41 ЧЧ Мадхья 19.1</p>
+      </title>
+      <subtitle>CC Madhya 19.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বৃন্দাবনীয়াং রসকেলিবার্তাং</p>
+      <p>কালেন লুপ্তাং নিজশক্তিমুৎকঃ ।</p>
+      <p>সঞ্চার্য রূপে ব্যতনোৎ পুনঃ স</p>
+      <p>প্রভুর্বিধৌ প্রাগিব লোকসৃষ্টিম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vṛndāvanīyāṁ rasa-keli-vārtāṁ</p>
+      <p>kālena luptāṁ nija-śaktim utkaḥ</p>
+      <p>sañcārya rūpe vyatanot punaḥ sa</p>
+      <p>prabhur vidhau prāg iva loka-sṛṣṭim</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>вр̣нда̄ванӣйа̄м̇ раса-кели-ва̄рта̄м̇</p>
+      <p>ка̄лена лупта̄м̇ ниджа-ш́актим утках̣</p>
+      <p>сан̃ча̄рйа рӯпе вйатанот пунах̣ са</p>
+      <p>прабхур видхау пра̄г ива лока-ср̣шт̣им</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Как некогда Он вдохновил Брахму на творение, так Господь вложил Свою силу в Рупу Госвами, чтобы тот возродил почти забытые повествования о расе Вриндавана.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>As He once inspired Brahmā to create, the Lord infused His power into Rūpa Gosvāmī to revive the nearly forgotten accounts of Vṛndāvana's rasa-pastimes.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 19.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/19/1/">https://vedabase.io/ru/library/cc/madhya/19/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/19/1/">https://vedabase.io/en/library/cc/madhya/19/1/</a></p>
+    </section>
+    <section id="V-42">
+      <title>
+        <p>42 ЧЧ Мадхья 20.1</p>
+      </title>
+      <subtitle>CC Madhya 20.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দেঽনন্তাদ্ভুতৈশ্বর্যং শ্রীচৈতন্যমহাপ্রভুম্‌ ।</p>
+      <p>নীচোঽপি যৎপ্রসাদাৎ স্যাদ্‌ভক্তিশাস্ত্রপ্রবর্তকঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande ’nantādbhutaiśvaryaṁ</p>
+      <p>śrī-caitanya-mahāprabhum</p>
+      <p>nīco ’pi yat-prasādāt syād</p>
+      <p>bhakti-śāstra-pravartakaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ’нанта̄дбхутаиш́варйам̇</p>
+      <p>ш́рӣ-чаитанйа-маха̄прабхум</p>
+      <p>нӣчо ’пи йат-праса̄да̄т сйа̄д</p>
+      <p>бхакти-ш́а̄стра-правартаках̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Чайтанье Махапрабху безграничного дивного могущества: по Его милости даже человек низкого положения может распространять науку преданности.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Caitanya Mahāprabhu of boundless wonderful opulence, by whose grace even a lowly person can propagate the science of devotion.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 20.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/20/1/">https://vedabase.io/ru/library/cc/madhya/20/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/20/1/">https://vedabase.io/en/library/cc/madhya/20/1/</a></p>
+    </section>
+    <section id="V-43">
+      <title>
+        <p>43 ЧЧ Мадхья 21.1</p>
+      </title>
+      <subtitle>CC Madhya 21.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্‌ ।</p>
+      <p>শ্রীচৈতন্যং লিখাম্যস্য মাধুর্যৈশ্বর্য-শীকরম্‌ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>agaty-eka-gatiṁ natvā</p>
+      <p>hīnārthādhika-sādhakam</p>
+      <p>śrī-caitanyaṁ likhāmy asya</p>
+      <p>mādhuryaiśvarya-śīkaram</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>агатй-эка-гатим̇ натва̄</p>
+      <p>хӣна̄ртха̄дхика-са̄дхакам</p>
+      <p>ш́рӣ-чаитанйам̇ ликха̄мй асйа</p>
+      <p>ма̄дхурйаиш́варйа-ш́ӣкарам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Склонившись перед Чайтаньей, единственным прибежищем беспомощных, автор берётся описать лишь каплю Его сладости и величия.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Bowing to Caitanya, the sole refuge of the helpless, the author undertakes to describe a mere drop of His sweetness and majesty.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 21.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/21/1/">https://vedabase.io/ru/library/cc/madhya/21/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/21/1/">https://vedabase.io/en/library/cc/madhya/21/1/</a></p>
+    </section>
+    <section id="V-44">
+      <title>
+        <p>44 ЧЧ Мадхья 22.1</p>
+      </title>
+      <subtitle>CC Madhya 22.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে শ্রীকৃষ্ণচৈতন্যদেবং তং করুণার্ণবম্‌ ।</p>
+      <p>কলাবপ্যতিগূঢ়েয়ং ভক্তির্যেন প্রকাশিতা ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande śrī-kṛṣṇa-caitanya-</p>
+      <p>devaṁ taṁ karuṇārṇavam</p>
+      <p>kalāv apy ati-gūḍheyaṁ</p>
+      <p>bhaktir yena prakāśitā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ш́рӣ-кр̣шн̣а-чаитанйа-девам̇ там̇ карун̣а̄рн̣авам</p>
+      <p>кала̄в апй ати-гӯд̣хейам̇</p>
+      <p>бхактир йена прака̄ш́ита̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье, океану сострадания, открывшему сокровенную преданность даже в век Кали.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, the ocean of compassion, who revealed most confidential devotion even in the Age of Kali.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 22.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/22/1/">https://vedabase.io/ru/library/cc/madhya/22/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/22/1/">https://vedabase.io/en/library/cc/madhya/22/1/</a></p>
+    </section>
+    <section id="V-45">
+      <title>
+        <p>45 ЧЧ Мадхья 23.1</p>
+      </title>
+      <subtitle>CC Madhya 23.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>চিরাদদত্তং নিজ-গুপ্তবিত্তং</p>
+      <p>স্বপ্রেম-নামামৃতমত্যুদারঃ ।</p>
+      <p>আপামরং যো বিততার গৌরঃ</p>
+      <p>কৃষ্ণো জনেভ্যস্তমহং প্রপদ্যে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>cirād adattaṁ nija-gupta-vittaṁ</p>
+      <p>sva-prema-nāmāmṛtam aty-udāraḥ</p>
+      <p>ā-pāmaraṁ yo vitatāra gauraḥ</p>
+      <p>kṛṣṇo janebhyas tam ahaṁ prapadye</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>чира̄д адаттам̇ ниджа-гупта-виттам̇</p>
+      <p>свапрема-на̄ма̄мр̣там атйуда̄рах̣</p>
+      <p>а̄па̄марам̇ йо витата̄ра гаурах̣</p>
+      <p>кр̣шн̣о джанебхйас там ахам̇ прападйе</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор вверяет себя щедрейшему Гаура-Кришне, который раздал всем, даже низшим, Своё давно не даровавшееся тайное сокровище — нектар любви к Нему и Его имени.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author takes refuge in the supremely generous Gaurakṛṣṇa, who gave to all, even the lowest, His long-withheld secret treasure — the nectar of love for Him and of His name.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 23.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/23/1/">https://vedabase.io/ru/library/cc/madhya/23/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/23/1/">https://vedabase.io/en/library/cc/madhya/23/1/</a></p>
+    </section>
+    <section id="V-46">
+      <title>
+        <p>46 ЧЧ Мадхья 24.1</p>
+      </title>
+      <subtitle>CC Madhya 24.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>আত্মারামেতি পদ্যার্কস্যার্থাংশূন্‌ যঃ প্রকাশয়ন্‌ ।</p>
+      <p>জগত্তমো জহারাব্যাত্‌ স চৈতন্যোদয়াচলঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>ātmārāmeti padyārkasy-</p>
+      <p>ārthāṁśūn yaḥ prakāśayan</p>
+      <p>jagat-tamo jahārāvyāt</p>
+      <p>sa caitanyodayācalaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>а̄тма̄ра̄мети падйа̄ркасй</p>
+      <p>а̄ртха̄м̇ш́ӯн йах̣ прака̄ш́айан</p>
+      <p>джагат-тамо джаха̄ра̄вйа̄т</p>
+      <p>са чаитанйодайа̄чалах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Чайтанья — восточная гора, откуда взошло «солнце» стиха атмарама, а лучи его — многие толкования; пусть Тот, кто рассеял мрак мира, хранит его.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Caitanya is the eastern mountain from which the 'sun' of the ātmārāma verse rose, its rays being the many meanings; may He who dispelled the world's darkness protect it.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 24.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/24/1/">https://vedabase.io/ru/library/cc/madhya/24/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/24/1/">https://vedabase.io/en/library/cc/madhya/24/1/</a></p>
+    </section>
+    <section id="V-47">
+      <title>
+        <p>47 ЧЧ Мадхья 25.1</p>
+      </title>
+      <subtitle>CC Madhya 25.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বৈষ্ণবীকৃত্য সন্ন্যাসিমুখান্‌ কাশীনিবাসিনঃ ।</p>
+      <p>সনাতনং সুসংস্কৃত্য প্রভুর্নীলাদ্রিমাগমৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vaiṣṇavī-kṛtya sannyāsi-</p>
+      <p>mukhān kāśī-nivāsinaḥ</p>
+      <p>sanātanaṁ su-saṁskṛtya</p>
+      <p>prabhur nīlādrim āgamat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ваишн̣авӣ-кр̣тйа саннйа̄си</p>
+      <p>мукха̄н ка̄ш́ӣ-нива̄синах̣</p>
+      <p>сана̄танам̇ сусам̇скр̣тйа</p>
+      <p>прабхур нӣла̄дрим а̄гамат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Сделав вайшнавами санньяси и других жителей Каши и всесторонне наставив Санатану, Господь вернулся в Ниладри (Пури).</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Having made the sannyāsīs and other people of Kāśī Vaiṣṇavas and having thoroughly trained Sanātana, the Lord returned to Nīlādri (Purī).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 25.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/25/1/">https://vedabase.io/ru/library/cc/madhya/25/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/25/1/">https://vedabase.io/en/library/cc/madhya/25/1/</a></p>
+    </section>
+    <section id="V-48">
+      <title>
+        <p>48 ЧЧ Антья 1.1</p>
+      </title>
+      <subtitle>CC Antya 1.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>পঙ্গুং লঙ্ঘয়তে শৈলং মূকমাবর্তয়েচ্ছ্রুতিম্ ।</p>
+      <p>যত্কৃপা তমহং বন্দে কৃষ্ণচৈতন্যমীশ্বরম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>paṅguṁ laṅghayate śailaṁ</p>
+      <p>mūkam āvartayec chrutim</p>
+      <p>yat-kṛpā tam ahaṁ vande</p>
+      <p>kṛṣṇa-caitanyam īśvaram</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>пан̇гум̇ лан̇гхайате ш́аилам̇</p>
+      <p>мӯкам а̄вартайеч чхрутим</p>
+      <p>йат-кр̣па̄ там ахам̇ ванде</p>
+      <p>кр̣шн̣а-чаитанйам ӣш́варам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье: по Его милости хромой преодолевает горы, а немой произносит писания.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, by whose mercy the lame cross mountains and the mute recite scripture.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 1.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/1/1/">https://vedabase.io/ru/library/cc/antya/1/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/1/1/">https://vedabase.io/en/library/cc/antya/1/1/</a></p>
+    </section>
+    <section id="V-49">
+      <title>
+        <p>49 ЧЧ Антья 1.2</p>
+      </title>
+      <subtitle>CC Antya 1.2</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>দুর্গমে পথি মেঽন্ধস্য স্খলৎপাদগতের্মুহুঃ ।</p>
+      <p>স্বকৃপা-যষ্টিদানেন সন্তঃ সন্ত্ববলম্বনম্ ॥ ২ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>durgame pathi me ’ndhasya</p>
+      <p>skhalat-pāda-gater muhuḥ</p>
+      <p>sva-kṛpā-yaṣṭi-dānena</p>
+      <p>santaḥ santv avalambanam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>дургаме патхи ме ’ндхасйа</p>
+      <p>скхалат-па̄да-гатер мухух̣</p>
+      <p>сва-кр̣па̄-йашт̣и-да̄нена</p>
+      <p>сантах̣ сантв аваламбанам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор, «слепой» и спотыкающийся на трудном пути, просит святых дать ему посох своей милости как опору.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author, 'blind' and stumbling on a hard road, asks the saints to give him the staff of their mercy for support.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 1.2</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/1/2/">https://vedabase.io/ru/library/cc/antya/1/2/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/1/2/">https://vedabase.io/en/library/cc/antya/1/2/</a></p>
+    </section>
+    <section id="V-50">
+      <title>
+        <p>50 ЧЧ Антья 2.1</p>
+      </title>
+      <subtitle>CC Antya 2.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দেঽহং শ্রীগুরোঃ শ্রীযুতপদকমলং শ্রীগুরূন্ বৈষ্ণবাংশ্চ শ্রীরূপং সাগ্রজাতং সহগণরঘুনাথান্বিতং তং সজীবম্ ।</p>
+      <p>সাদ্বৈতং সাবধূতং পরিজনসহিতং কৃষ্ণচৈতন্যদেবং শ্রীরাধাকৃষ্ণপাদান্ সহগণললিতা-শ্রীবিশাখান্বিতাংশ্চ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca</p>
+      <p>śrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa-jīvam</p>
+      <p>sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ</p>
+      <p>śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā-śrī-viśākhānvitāṁś ca</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ’хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-пада-камалам̇ ш́рӣ-гурӯн ваишн̣ава̄м̇ш́ ча</p>
+      <p>ш́рӣ-рӯпам̇ са̄граджа̄там̇ саха-ган̣а-рагхуна̄тха̄нвитам̇ там̇ са-джӣвам</p>
+      <p>са̄дваитам̇ са̄вадхӯтам̇ париджана-сахитам̇ кр̣шн̣а-чаитанйа-девам̇</p>
+      <p>ш́рӣ-ра̄дха̄-кр̣шн̣а-па̄да̄н саха-ган̣а-лалита̄-ш́рӣ-виш́а̄кха̄нвита̄м̇ш́ ча</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Всеобъемлющий поклон: гуру и наставникам, вайшнавам, Госвами со спутниками, Адвайте, Нитьянанде и Чайтанье с Его преданными, а также Радха-Кришне с гопи во главе с Лалитой и Вишакхой.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>A comprehensive obeisance: to the guru and the gurus, the Vaiṣṇavas, the Gosvāmīs with their associates, Advaita, Nityānanda and Caitanya with His devotees, and to Rādhā-Kṛṣṇa with the gopīs led by Lalitā and Viśākhā.</p>
+      <subtitle>Опубликованный перевод</subtitle>
+      <p>«Я в смирении склоняюсь к лотосоподобным стопам моего духовного учителя, всех духовных наставников и вайшнавов. Я почтительно склоняюсь перед своими шастра-гуру: Шрилой Рупой Госвами и его старшим братом Шрилой Санатаной Госвами, а также перед Шрилой Рагхунатхом Дасом Госвами и Шрилой Дживой Госвами. Я выражаю почтение тем, кто еще более возвышен: Шри Чайтанье Махапрабху, нисшедшему со Своими атрибутами и спутниками — такими великими личностями, как Шри Нитьянанда Прабху и Шри Адвайта Ачарья. С великим благоговением я склоняюсь к лотосоподобным стопам Шри Шри Радхи-Говинды и всех гопи, возглавляемых Лалитой Деви и Вишакхой Деви».</p>
+      <p>Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 13</p>
+      <subtitle>Published translation</subtitle>
+      <p>I offer my obeisance unto the lotus feet of my initiating Guru, all of my instructing Gurus, all of the Gurus within the disciplic succession, and all of the Lord’s devotees. Next, I offer my obeisance unto Śrīla Rūpa Goswāmī Prabhu, Śrīla Sanātan Goswāmī Prabhu, Śrīla Raghunāth Dās Goswāmī Prabhu, Śrīla Jīva Goswāmī Prabhu, and all of Śrīla Rūpa Goswāmī Prabhu’s associates and followers. Thereafter, I offer my obeisance unto Śrī Chaitanya Mahāprabhu, Śrī Nityānanda Prabhu, Śrī Advaita Prabhu, and all of Śrī Chaitanya Mahāprabhu’s associates. Finally, I offer my obeisance unto the feet of Śrī Śrī Rādhā-Kṛṣṇa, Śrī Lalitā Devī, Śrī Viśākhā Devī, and all of Their associates.</p>
+      <p>Sri Chaitanya Saraswat Math, Śaraṇāgati, 2011; PDF 275</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 2.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/2/1/">https://vedabase.io/ru/library/cc/antya/2/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/2/1/">https://vedabase.io/en/library/cc/antya/2/1/</a></p>
+    </section>
+    <section id="V-51">
+      <title>
+        <p>51 ЧЧ Антья 4.1</p>
+      </title>
+      <subtitle>CC Antya 4.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বৃন্দাবনাৎ পুনঃ প্রাপ্তং শ্রীগৌরঃ শ্রীসনাতনম্ ।</p>
+      <p>দেহপাতাদবন্ স্নেহাৎ শুদ্ধং চক্রে পরীক্ষয়া ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vṛndāvanāt punaḥ prāptaṁ</p>
+      <p>śrī-gauraḥ śrī-sanātanam</p>
+      <p>deha-pātād avan snehāt</p>
+      <p>śuddhaṁ cakre parīkṣayā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>вр̣нда̄вана̄т пунах̣ пра̄птам̇</p>
+      <p>ш́рӣ-гаурах̣ ш́рӣ-сана̄танам</p>
+      <p>деха-па̄та̄д аван снеха̄т</p>
+      <p>ш́уддхам̇ чакре парӣкшайа̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Когда Санатана вернулся из Вриндавана, Гаура с любовью удержал его от того, чтобы оставить тело, и, испытав, очистил его.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>When Sanātana returned from Vṛndāvana, Gaura lovingly saved him from giving up his body and, after testing him, made him pure.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 4.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/4/1/">https://vedabase.io/ru/library/cc/antya/4/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/4/1/">https://vedabase.io/en/library/cc/antya/4/1/</a></p>
+    </section>
+    <section id="V-52">
+      <title>
+        <p>52 ЧЧ Антья 5.1</p>
+      </title>
+      <subtitle>CC Antya 5.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বৈগুণ্যকীটকলিতঃ পৈশুন্য-ব্রণপীড়িতঃ ।</p>
+      <p>দৈন্যার্ণবে নিমগ্নোঽহং চৈতন্য-বৈদ্যমাশ্রয়ে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vaiguṇya-kīṭa-kalitaḥ</p>
+      <p>paiśunya-vraṇa-pīḍitaḥ</p>
+      <p>dainyārṇave nimagno ’haṁ</p>
+      <p>caitanya-vaidyam āśraye</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ваигун̣йа-кӣт̣а-калитах̣</p>
+      <p>паиш́унйа-вран̣а-пӣд̣итах̣</p>
+      <p>даинйа̄рн̣аве нимагно ’хам̇</p>
+      <p>чаитанйа-ваидйам а̄ш́райе</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Изъеденный «червями» материальных качеств и «язвами» зависти, погружённый в океан смирения, автор ищет прибежища у Чайтаньи-целителя.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Afflicted by the 'worms' of material qualities and the 'sores' of envy, sunk in an ocean of humility, the author takes refuge in Caitanya, the physician.</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 5.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/5/1/">https://vedabase.io/ru/library/cc/antya/5/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/5/1/">https://vedabase.io/en/library/cc/antya/5/1/</a></p>
+    </section>
+    <section id="V-53">
+      <title>
+        <p>53 ЧЧ Антья 6.1</p>
+      </title>
+      <subtitle>CC Antya 6.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>কৃপাগুণৈর্যঃ কুগৃহান্ধকূপা- দুদ্ধৃত্য ভঙ্গ্যা রঘুনাথদাসম্ ।</p>
+      <p>ন্যস্য স্বরূপে বিদধেঽন্তরঙ্গং শ্রীকৃষ্ণচৈতন্যমমুং প্রপদ্যে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>kṛpā-guṇair yaḥ kugṛhāndha-kūpād</p>
+      <p>uddhṛtya bhaṅgyā raghunātha-dāsam</p>
+      <p>nyasya svarūpe vidadhe ’ntar-aṅgaṁ</p>
+      <p>śrī-kṛṣṇa-caitanyam amuṁ prapadye</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>кр̣па̄-гун̣аир йах̣ кугр̣ха̄ндха-кӯпа̄д</p>
+      <p>уддхр̣тйа бхан̇гйа̄ рагхуна̄тха-да̄сам</p>
+      <p>нйасйа сварӯпе видадхе ’нтар-ан̇гам̇</p>
+      <p>ш́рӣ-кр̣шн̣а-чаитанйам амум̇ прападйе</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор вверяет себя Кришне Чайтанье, который «верёвками» милости вытащил Рагхунатху даса из слепого колодца семейной жизни и поручил его Сварупе как близкого спутника.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author surrenders to Kṛṣṇa Caitanya, who by the 'ropes' of His mercy drew Raghunātha dāsa out of the blind well of household life and placed him with Svarūpa as an intimate associate.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 6.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/6/1/">https://vedabase.io/ru/library/cc/antya/6/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/6/1/">https://vedabase.io/en/library/cc/antya/6/1/</a></p>
+    </section>
+    <section id="V-54">
+      <title>
+        <p>54 ЧЧ Антья 7.1</p>
+      </title>
+      <subtitle>CC Antya 7.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>চৈতন্যচরণাম্ভোজমকরন্দলিহো ভজে ।</p>
+      <p>যেষাং প্রসাদমাত্রেণ পামরোঽপ্যমরো ভবেৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>caitanya-caraṇāmbhoja-</p>
+      <p>makaranda-liho bhaje</p>
+      <p>yeṣāṁ prasāda-mātreṇa</p>
+      <p>pāmaro ’py amaro bhavet</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>чаитанйа-чаран̣а̄мбходжа-макаранда-лихо бхадже</p>
+      <p>йеша̄м̇ праса̄да-ма̄трен̣а</p>
+      <p>па̄маро ’пй амаро бхавет</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклонение преданным, вкушающим мёд лотосных стоп Чайтаньи: по одной их милости даже ничтожный человек становится бессмертным.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Worship of the devotees who lick the honey of Caitanya's lotus feet; by their mere grace even a wretched person becomes immortal.</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 7.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/7/1/">https://vedabase.io/ru/library/cc/antya/7/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/7/1/">https://vedabase.io/en/library/cc/antya/7/1/</a></p>
+    </section>
+    <section id="V-55">
+      <title>
+        <p>55 ЧЧ Антья 8.1</p>
+      </title>
+      <subtitle>CC Antya 8.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>তং বন্দে কৃষ্ণচৈতন্যং রামচন্দ্রপুরীভয়াৎ ।</p>
+      <p>লৌকিকাহারতঃ স্বং যো ভিক্ষান্নং সমকোচয়ৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>taṁ vande kṛṣṇa-caitanyaṁ</p>
+      <p>rāmacandra-purī-bhayāt</p>
+      <p>laukikāhārataḥ svaṁ yo</p>
+      <p>bhikṣānnaṁ samakocayat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>там̇ ванде кр̣шн̣а-чаитанйам̇</p>
+      <p>ра̄мачандра-пурӣ-бхайа̄т</p>
+      <p>лаукика̄ха̄ратах̣ свам̇ йо</p>
+      <p>бхикша̄ннам̇ самакочайат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье, который из опасения упрёков Рамачандры Пури стал принимать в подаяние меньше обычной еды.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, who, fearing Rāmacandra Purī's criticism, reduced His alms-food to less than an ordinary meal.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 8.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/8/1/">https://vedabase.io/ru/library/cc/antya/8/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/8/1/">https://vedabase.io/en/library/cc/antya/8/1/</a></p>
+    </section>
+    <section id="V-56">
+      <title>
+        <p>56 ЧЧ Антья 9.1</p>
+      </title>
+      <subtitle>CC Antya 9.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>অগণ্যধন্যচৈতন্যগণানাং প্রেমবন্যয়া ।</p>
+      <p>নিন্যেঽধন্যজনস্বান্তমরুঃ শশ্বদনূপতাম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>agaṇya-dhanya-caitanya-</p>
+      <p>gaṇānāṁ prema-vanyayā</p>
+      <p>ninye ’dhanya-jana-svānta-</p>
+      <p>maruḥ śaśvad anūpatām</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>аган̣йа-дханйа-чаитанйа</p>
+      <p>ган̣а̄на̄м̇ према-ванйайа̄</p>
+      <p>нинйе ’дханйа-джана-сва̄нта-марух̣ ш́аш́вад анӯпата̄м</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Потоком любви бесчисленных славных последователей Чайтаньи пустыня сердец обделённых людей навсегда превратилась в напоённую влагой землю.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>By the flood of love of Caitanya's countless glorious followers, the desert-like hearts of the unfortunate became forever well-watered land.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 9.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/9/1/">https://vedabase.io/ru/library/cc/antya/9/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/9/1/">https://vedabase.io/en/library/cc/antya/9/1/</a></p>
+    </section>
+    <section id="V-57">
+      <title>
+        <p>57 ЧЧ Антья 10.1</p>
+      </title>
+      <subtitle>CC Antya 10.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে শ্রীকৃষ্ণচৈতন্যং ভক্তানুগ্রহকাতরম্ ।</p>
+      <p>যেন কেনাপি সন্তুষ্টং ভক্তদত্তেন শ্রদ্ধয়া ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande śrī-kṛṣṇa-caitanyaṁ</p>
+      <p>bhaktānugraha-kātaram</p>
+      <p>yena kenāpi santuṣṭaṁ</p>
+      <p>bhakta-dattena śraddhayā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ш́рӣ-кр̣шн̣а-чаитанйам̇</p>
+      <p>бхакта̄нуграха-ка̄тарам</p>
+      <p>йена кена̄пи сантушт̣ам̇</p>
+      <p>бхакта-даттена ш́раддхайа̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье, которого радует всё, что преданные подносят с верой, и который стремится явить им милость.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, who is pleased with whatever His devotees offer with faith and is eager to show them mercy.</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 10.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/10/1/">https://vedabase.io/ru/library/cc/antya/10/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/10/1/">https://vedabase.io/en/library/cc/antya/10/1/</a></p>
+    </section>
+    <section id="V-58">
+      <title>
+        <p>58 ЧЧ Антья 11.1</p>
+      </title>
+      <subtitle>CC Antya 11.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>নমামি হরিদাসং তং চৈতন্যং তঞ্চ তৎপ্রভুম্ ।</p>
+      <p>সংস্থিতামপি যন্মূর্তিং স্বাঙ্কে কৃত্বা ননর্ত যঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>namāmi haridāsaṁ taṁ</p>
+      <p>caitanyaṁ taṁ ca tat-prabhum</p>
+      <p>saṁsthitām api yan-mūrtiṁ</p>
+      <p>svāṅke kṛtvā nanarta yaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>нама̄ми харида̄сам̇ там̇</p>
+      <p>чаитанйам̇ там̇ ча тат-прабхум</p>
+      <p>сам̇стхита̄м апи йан-мӯртим̇</p>
+      <p>сва̄н̇ке кр̣тва̄ нанарта йах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Харидасу Тхакуру и его господину Чайтанье, который танцевал, держа на руках тело Харидаса.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Haridāsa Ṭhākura and to his master Caitanya, who danced holding Haridāsa's body on His lap.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 11.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/11/1/">https://vedabase.io/ru/library/cc/antya/11/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/11/1/">https://vedabase.io/en/library/cc/antya/11/1/</a></p>
+    </section>
+    <section id="V-59">
+      <title>
+        <p>59 ЧЧ Антья 12.1</p>
+      </title>
+      <subtitle>CC Antya 12.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রূয়তাং শ্রূয়তাং নিত্যং গীয়তাং গীয়তাং মুদা ।</p>
+      <p>চিন্ত্যতাং চিন্ত্যতাং ভক্তাশ্চৈতন্যচরিতামৃতম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrūyatāṁ śrūyatāṁ nityaṁ</p>
+      <p>gīyatāṁ gīyatāṁ mudā</p>
+      <p>cintyatāṁ cintyatāṁ bhaktāś</p>
+      <p>caitanya-caritāmṛtam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӯйата̄м̇ ш́рӯйата̄м̇ нитйам̇</p>
+      <p>гӣйата̄м̇ гӣйата̄м̇ муда̄</p>
+      <p>чинтйата̄м̇ чинтйата̄м̇ бхакта̄ш́</p>
+      <p>чаитанйа-чарита̄мр̣там</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Призыв к преданным: постоянно слушайте, радостно воспевайте и обдумывайте нектар деяний Чайтаньи.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>An appeal to devotees: let the nectar of Caitanya's pastimes be constantly heard, joyfully sung and meditated upon.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 12.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/12/1/">https://vedabase.io/ru/library/cc/antya/12/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/12/1/">https://vedabase.io/en/library/cc/antya/12/1/</a></p>
+    </section>
+    <section id="V-60">
+      <title>
+        <p>60 ЧЧ Антья 13.1</p>
+      </title>
+      <subtitle>CC Antya 13.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>কৃষ্ণবিচ্ছেদজাতার্ত্যা ক্ষীণে চাপি মনস্তনূ ।</p>
+      <p>দধাতে ফুল্লতাং ভাবৈর্যস্য তং গৌরমাশ্রয়ে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>kṛṣṇa-viccheda-jātārtyā</p>
+      <p>kṣīṇe cāpi manas-tanū</p>
+      <p>dadhāte phullatāṁ bhāvair</p>
+      <p>yasya taṁ gauram āśraye</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>кр̣шн̣а-виччхеда-джа̄та̄ртйа̄</p>
+      <p>кшӣн̣е ча̄пи манас-танӯ</p>
+      <p>дадха̄те пхуллата̄м̇ бха̄ваир</p>
+      <p>йасйа там̇ гаурам а̄ш́райе</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор ищет прибежища у Гауры, чьи ум и тело, истощённые болью разлуки с Кришной, вновь расцветали в экстатических чувствах.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author takes shelter of Gaura, whose mind and body, worn thin by the pain of separation from Kṛṣṇa, would bloom again in ecstatic emotions.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 13.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/13/1/">https://vedabase.io/ru/library/cc/antya/13/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/13/1/">https://vedabase.io/en/library/cc/antya/13/1/</a></p>
+    </section>
+    <section id="V-61">
+      <title>
+        <p>61 ЧЧ Антья 14.1</p>
+      </title>
+      <subtitle>CC Antya 14.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>কৃষ্ণবিচ্ছেদবিভ্রান্ত্যা মনসা বপুষা ধিয়া ।</p>
+      <p>যদ্যদ্ব্যধত্ত গৌরাঙ্গস্তল্লেশঃ কথ্যতেঽধুনা ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>kṛṣṇa-viccheda-vibhrāntyā</p>
+      <p>manasā vapuṣā dhiyā</p>
+      <p>yad yad vyadhatta gaurāṅgas</p>
+      <p>tal-leśaḥ kathyate ’dhunā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>кр̣шн̣а-виччхеда-вибхра̄нтйа̄</p>
+      <p>манаса̄ вапуша̄ дхийа̄</p>
+      <p>йад йад вйадхатта гаура̄н̇гас</p>
+      <p>тал-леш́ах̣ катхйате ’дхуна̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор расскажет лишь малую часть того, что Гауранга совершал умом, телом и разумом, будучи в смятении разлуки с Кришной.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author will now tell a small part of what Gaurāṅga did with mind, body and intellect while bewildered by separation from Kṛṣṇa.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 14.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/14/1/">https://vedabase.io/ru/library/cc/antya/14/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/14/1/">https://vedabase.io/en/library/cc/antya/14/1/</a></p>
+    </section>
+    <section id="V-62">
+      <title>
+        <p>62 ЧЧ Антья 15.1</p>
+      </title>
+      <subtitle>CC Antya 15.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>দুর্গমে কৃষ্ণভাবাব্ধৌ নিমগ্নোন্মগ্নচেতসা ।</p>
+      <p>গৌরেণ হরিণা প্রেমমর্যাদা ভূরি দর্শিতা ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>durgame kṛṣṇa-bhāvābdhau</p>
+      <p>nimagnonmagna-cetasā</p>
+      <p>gaureṇa hariṇā prema-</p>
+      <p>maryādā bhūri darśitā</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>дургаме кр̣шн̣а-бха̄ва̄бдхау</p>
+      <p>нимагнонмагна-четаса̄</p>
+      <p>гаурен̣а харин̣а̄ према</p>
+      <p>марйа̄да̄ бхӯри дарш́ита̄</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Гаура-Хари, чьё сердце то погружалось, то всплывало в непостижимом океане любви к Кришне, многообразно явил величие этой любви.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Gaura Hari, His heart sinking and rising in the unfathomable ocean of love for Kṛṣṇa, displayed the greatness of that love in many ways.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 15.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/15/1/">https://vedabase.io/ru/library/cc/antya/15/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/15/1/">https://vedabase.io/en/library/cc/antya/15/1/</a></p>
+    </section>
+    <section id="V-63">
+      <title>
+        <p>63 ЧЧ Антья 16.1</p>
+      </title>
+      <subtitle>CC Antya 16.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে শ্রীকৃষ্ণচৈতন্যং কৃষ্ণভাবামৃতং হি যঃ ।</p>
+      <p>আস্বাদ্যাস্বাদয়ন্ ভক্তান্ প্রেমদীক্ষামশিক্ষয়ৎ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande śrī-kṛṣṇa-caitanyaṁ</p>
+      <p>kṛṣṇa-bhāvāmṛtaṁ hi yaḥ</p>
+      <p>āsvādyāsvādayan bhaktān</p>
+      <p>prema-dīkṣām aśikṣayat</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде ш́рӣ-кр̣шн̣а-чаитанйам̇</p>
+      <p>кр̣шн̣а-бха̄ва̄мр̣там̇ хи йах̣</p>
+      <p>а̄сва̄дйа̄сва̄дайан бхакта̄н</p>
+      <p>према-дӣкша̄м аш́икшайат</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье, который Сам вкушал нектар любви к Кришне, давал вкусить его преданным и так посвящал их в любовь.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, who Himself tasted the nectar of love for Kṛṣṇa, gave it to His devotees to taste, and so taught them initiation into love.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 16.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/16/1/">https://vedabase.io/ru/library/cc/antya/16/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/16/1/">https://vedabase.io/en/library/cc/antya/16/1/</a></p>
+    </section>
+    <section id="V-64">
+      <title>
+        <p>64 ЧЧ Антья 17.1</p>
+      </title>
+      <subtitle>CC Antya 17.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>লিখ্যতে শ্রীল-গৌরেন্দোরত্যদ্ভুতমলৌকিকম্ ।</p>
+      <p>যৈর্দৃষ্টং তন্মুখাচ্ছ্রুত্বা দিব্যোন্মাদ-বিচেষ্টিতম্ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>likhyate śrīla-gaurendor</p>
+      <p>aty-adbhutam alaukikam</p>
+      <p>yair dṛṣṭaṁ tan-mukhāc chrutvā</p>
+      <p>divyonmāda-viceṣṭitam</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ликхйате ш́рӣла-гаурендор</p>
+      <p>атй-адбхутам алаукикам</p>
+      <p>йаир др̣шт̣ам̇ тан-мукха̄ч чхрутва̄</p>
+      <p>дивйонма̄да-вичешт̣итам</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор описывает дивное, неземное божественное безумие Гаурачандры со слов тех, кто видел его своими глазами.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author writes of Gauracandra's wondrous, otherworldly divine madness, having heard it from those who saw it themselves.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 17.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/17/1/">https://vedabase.io/ru/library/cc/antya/17/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/17/1/">https://vedabase.io/en/library/cc/antya/17/1/</a></p>
+    </section>
+    <section id="V-65">
+      <title>
+        <p>65 ЧЧ Антья 18.1</p>
+      </title>
+      <subtitle>CC Antya 18.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শরজ্জ্যোৎস্না-সিন্ধোরবকলনয়া জাতযমুনা- ভ্রমাদ্ধাবন্ যোঽস্মিন্ হরিবিরহতাপার্ণব ইব ।</p>
+      <p>নিমগ্নো মূর্চ্ছালঃ পয়সি নিবসন্ রাত্রিমখিলাং প্রভাতে প্রাপ্তঃ স্বৈরবতু স শচীসূনুরিহ নঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śaraj-jyotsnā-sindhor avakalanayā jāta-yamunā-</p>
+      <p>bhramād dhāvan yo ’smin hari-viraha-tāpārṇava iva</p>
+      <p>nimagno mūrcchālaḥ payasi nivasan rātrim akhilāṁ</p>
+      <p>prabhāte prāptaḥ svair avatu sa śacī-sūnur iha naḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́арадж-джйотсна̄-синдхор авакаланайа̄ джа̄та-йамуна̄-</p>
+      <p>бхрама̄д дха̄ван йо ’смин хари-вираха-та̄па̄рн̣ава ива</p>
+      <p>нимагно мӯрччха̄лах̣ пайаси нивасан ра̄трим акхила̄м̇</p>
+      <p>прабха̄те пра̄птах̣ сваир авату са ш́ачӣ-сӯнур иха нах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Приняв залитое осенней луной море за Ямуну, Господь, сгорая в разлуке, бросился в него и всю ночь пролежал без чувств в воде, пока на рассвете Его не нашли; пусть сын Шачи защитит нас.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Mistaking the moonlit autumn sea for the Yamunā, the Lord, burning with separation, ran into it and lay unconscious in the water all night until found at dawn; may that son of Śacī protect us.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 18.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/18/1/">https://vedabase.io/ru/library/cc/antya/18/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/18/1/">https://vedabase.io/en/library/cc/antya/18/1/</a></p>
+    </section>
+    <section id="V-66">
+      <title>
+        <p>66 ЧЧ Антья 19.1</p>
+      </title>
+      <subtitle>CC Antya 19.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বন্দে তং কৃষ্ণচৈতন্যং মাতৃভক্তশিরোমণিম্ ।</p>
+      <p>প্রলপ্য মুখসংঘর্ষী মধূদ্যানে ললাস যঃ ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>vande taṁ kṛṣṇa-caitanyaṁ</p>
+      <p>mātṛ-bhakta-śiromaṇim</p>
+      <p>pralapya mukha-saṅgharṣī</p>
+      <p>madhūdyāne lalāsa yaḥ</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ванде там̇ кр̣шн̣а-чаитанйам̇</p>
+      <p>ма̄тр̣-бхакта-ш́ироман̣им</p>
+      <p>пралапйа мукха-сан̇гхаршӣ</p>
+      <p>мадхӯдйа̄не лала̄са йах̣</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Поклон Кришне Чайтанье, венцу преданных матери: в экстатическом безумии Он говорил бессвязно, тёрся лицом о стены и предавался играм в саду (Джаганнатха-валлабха).</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Obeisance to Kṛṣṇa Caitanya, the crown of those devoted to their mother, who spoke in ecstatic madness, rubbed His face against walls, and sported in a garden (Jagannātha-vallabha).</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 19.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/19/1/">https://vedabase.io/ru/library/cc/antya/19/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/19/1/">https://vedabase.io/en/library/cc/antya/19/1/</a></p>
+    </section>
+    <section id="V-67">
+      <title>
+        <p>67 ЧЧ Антья 20.1</p>
+      </title>
+      <subtitle>CC Antya 20.1</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>প্রেমোদ্ভাবিতহর্ষের্ষ্যোদ্বেগদৈন্যার্তিমিশ্রিতম্ ।</p>
+      <p>লপিতং গৌরচন্দ্রস্য ভাগ্যবদ্ভির্নিষেব্যতে ॥ ১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>premodbhāvita-harṣerṣyod-</p>
+      <p>vega-dainyārti-miśritam</p>
+      <p>lapitaṁ gauracandrasya</p>
+      <p>bhāgyavadbhir niṣevyate</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>премодбха̄вита-харшершйод-вега-даинйа̄рти-миш́ритам</p>
+      <p>лапитам̇ гаурачандрасйа</p>
+      <p>бха̄гйавадбхир нишевйате</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Лишь удачливые вкушают экстатические речи Гаурачандры, где смешаны рождённые любовью радость, ревность, волнение, смирение и скорбь.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Only the fortunate relish Gauracandra's ecstatic utterances, mixed with joy, jealousy, agitation, humility and anguish born of love.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 20.1</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/20/1/">https://vedabase.io/ru/library/cc/antya/20/1/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/20/1/">https://vedabase.io/en/library/cc/antya/20/1/</a></p>
+    </section>
+    <section id="V-68">
+      <title>
+        <p>68 Мантра Панча-таттвы</p>
+      </title>
+      <subtitle>Pañca-tattva mantra</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>श्रीकृष्ण चैतन्यप्रभु नित्यानन्द।</p>
+      <p>श्रीअद्वैत गदाधर श्रीवासादि गौर भक्त वृन्द॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-kṛṣṇa-caitanya prabhu-nityānanda</p>
+      <p>śrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-кр̣шн̣а-чаитанйа прабху-нитйа̄нанда</p>
+      <p>ш́рӣ адваита гада̄дхара ш́рӣваса̄ди-гаура-бхакта-вр̣нда</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Приветствие Панча-таттве — Кришне Чайтанье вместе с Нитьянандой Прабху, Адвайтой, Гададхарой и Шривасой — и всем преданным Гауры (смысл по Введению к «Бхагавад-гите как она есть»; формулировка Anthropic).</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>A salutation to the Pañca-tattva — Kṛṣṇa Caitanya with Nityānanda Prabhu, Advaita, Gadādhara and Śrīvāsa — together with all of Gaura's devotees (meaning per BG Introduction; Anthropic wording).</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады к CC Ади 7.4: Шри Чайтанью всегда сопровождают Нитьянанда, Адвайта, Гададхара и Шриваса, поэтому полный поклон Ему выражается этой мантрой; проповедники сначала повторяют её, затем маха-мантру; при повторении мантры Панча-таттвы десять оскорблений не учитываются. Комментарий к Ади 8.31: сначала нужно найти прибежище у Чайтаньи, повторяя эту мантру; служение Гауре-Нитьянанде делает способным поклоняться Радхе-Кришне. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Традиционная мантра / Traditional mantra; Мантра Панча-таттвы</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/7/4/">https://vedabase.io/ru/library/cc/adi/7/4/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/7/4/">https://vedabase.io/en/library/cc/adi/7/4/</a></p>
+    </section>
+    <section id="V-69">
+      <title>
+        <p>69 ЧЧ Антья 3.2</p>
+      </title>
+      <subtitle>CC Antya 3.2</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>জয় জয় গৌরচন্দ্র জয় নিত্যানন্দ ।</p>
+      <p>জয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>jaya jaya gauracandra jaya nityānanda</p>
+      <p>jayādvaita-candra jaya gaura-bhakta-vṛnda</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>джайа джайа гаурачандра джайа нитйа̄нанда</p>
+      <p>джайа̄дваита-чандра джайа гаура-бхакта-вр̣нда</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Слава Гаурачандре, Нитьянанде, Адвайтачандре и всем преданным Гауры.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Glory to Gauracandra, to Nityānanda, to Advaitacandra and to all of Gaura's devotees.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 3.2</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/3/2/">https://vedabase.io/ru/library/cc/antya/3/2/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/3/2/">https://vedabase.io/en/library/cc/antya/3/2/</a></p>
+    </section>
+    <section id="V-70">
+      <title>
+        <p>70 ЧЧ Антья 11.8</p>
+      </title>
+      <subtitle>CC Antya 11.8</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>জয় গৌরভক্তগণ, — গৌর যাঁর প্রাণ ।</p>
+      <p>সব ভক্ত মিলি’ মোরে ভক্তি দেহ’ দান ॥ ৮ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>jaya gaura-bhakta-gaṇa, — gaura yāṅra prāṇa</p>
+      <p>saba bhakta mili’ more bhakti deha’ dāna</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>джайа гаура-бхакта-ган̣а, — гаура йа̄н̇ра пра̄н̣а</p>
+      <p>саба бхакта мили’ море бхакти деха’ да̄на</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Слава преданным Гауры, для которых Гаура — сама жизнь; автор просит их всех вместе даровать ему преданность.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Glory to Gaura's devotees, whose life is Gaura; the author asks all of them together to grant him devotion.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 11.8</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/11/8/">https://vedabase.io/ru/library/cc/antya/11/8/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/11/8/">https://vedabase.io/en/library/cc/antya/11/8/</a></p>
+    </section>
+    <section id="V-71a">
+      <title>
+        <p>71 ЧЧ Антья 2.170</p>
+      </title>
+      <subtitle>CC Antya 2.170</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>মধুর চৈতন্যলীলা — সমুদ্র-গম্ভীর ।</p>
+      <p>লোকে নাহি বুঝে, বুঝে যেই ‘ভক্ত’ ‘ধীর’ ॥ ১৭০ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>madhura caitanya-līlā — samudra-gambhīra</p>
+      <p>loke nāhi bujhe, bujhe yei ‘bhakta’ ‘dhīra’</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>мадхура чаитанйа-лӣла̄ — самудра-гамбхӣра</p>
+      <p>локе на̄хи буджхе, буджхе йеи ‘бхакта’ ‘дхӣра’</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Игры Чайтаньи сладки и глубоки, как океан; обычным людям их не постичь, а вдумчивым преданным — можно.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Caitanya's pastimes are sweet and deep as the ocean; ordinary people cannot fathom them, only sober devotees can.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 2.170</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/2/170/">https://vedabase.io/ru/library/cc/antya/2/170/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/2/170/">https://vedabase.io/en/library/cc/antya/2/170/</a></p>
+    </section>
+    <section id="V-71b">
+      <title>
+        <p>72 ЧЧ Антья 2.171</p>
+      </title>
+      <subtitle>CC Antya 2.171</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>বিশ্বাস করিয়া শুন চৈতন্যচরিত ।</p>
+      <p>তর্ক না করিহ, তর্কে হবে বিপরীত ॥ ১৭১ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>viśvāsa kariyā śuna caitanya-carita</p>
+      <p>tarka nā kariha, tarke habe viparīta</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>виш́ва̄са карийа̄ ш́уна чаитанйа-чарита</p>
+      <p>тарка на̄ кариха, тарке хабе випарӣта</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Слушайте их с верой и не спорьте: спор приведёт к обратному.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>Hear them with faith and do not argue, for argument leads to the opposite result.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 2.171</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/2/171/">https://vedabase.io/ru/library/cc/antya/2/171/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/2/171/">https://vedabase.io/en/library/cc/antya/2/171/</a></p>
+    </section>
+    <section id="V-72">
+      <title>
+        <p>73 ЧЧ Ади 1.36</p>
+      </title>
+      <subtitle>CC Ādi 1.36</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>শ্রীরূপ, সনাতন, ভট্ট–রঘুনাথ ।</p>
+      <p>শ্রীজীব, গোপালভট্ট, দাস–রঘুনাথ ॥ ৩৬ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>śrī-rūpa, sanātana, bhaṭṭa-raghunātha</p>
+      <p>śrī-jīva, gopāla-bhaṭṭa, dāsa-raghunātha</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>ш́рӣ-рӯпа, сана̄тана, бхат̣т̣а-рагхуна̄тха</p>
+      <p>ш́рӣ-джӣва, гопа̄ла-бхат̣т̣а, да̄са-рагхуна̄тха</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Автор называет своих наставников-шикша-гуру: Рупу, Санатану, Бхатту Рагхунатху, Дживу, Гопалу Бхатту и Рагхунатху даса.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The author names his instructing gurus: Rūpa, Sanātana, Bhaṭṭa Raghunātha, Jīva, Gopāla Bhaṭṭa and Raghunātha dāsa.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Ади 1.36</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/1/36/">https://vedabase.io/ru/library/cc/adi/1/36/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/1/36/">https://vedabase.io/en/library/cc/adi/1/36/</a></p>
+    </section>
+    <section id="V-73">
+      <title>
+        <p>74 ЧЧ Мадхья 25.283</p>
+      </title>
+      <subtitle>CC Madhya 25.283</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>তদিদমতিরহস্যং গৌরলীলামৃতং যৎ</p>
+      <p>খল-সমুদয়-কোলৈর্নাদৃতং তৈরলভ্যম্ ।</p>
+      <p>ক্ষতিরিয়মিহ কা মে স্বাদিতং যৎ সমন্তাৎ</p>
+      <p>সহৃদয়-সুমনোভির্মোদমেষাং তনোতি ॥ ২৮৩ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>tad idam ati-rahasyaṁ gaura-līlāmṛtaṁ yat</p>
+      <p>khala-samudaya-kolair nādṛtaṁ tair alabhyam</p>
+      <p>kṣatir iyam iha kā me svāditaṁ yat samantāt</p>
+      <p>sahṛdaya-sumanobhir modam eṣāṁ tanoti</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>тад идам ати-рахасйам̇ гаура-лӣла̄мр̣там̇ йат</p>
+      <p>кхала-самудайа-колаир на̄др̣там̇ таир алабхйам</p>
+      <p>кшатир ийам иха ка̄ ме сва̄дитам̇ йат саманта̄т</p>
+      <p>сахр̣дайа-суманобхир модам эша̄м̇ таноти</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Этот сокровеннейший нектар игр Гауры не ценят и не могут обрести завистники — автору в том нет потери; вкушённый сполна, он радует сердечных, чистых умом людей.</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>This most confidential nectar of Gaura's pastimes is not valued by the envious and is beyond their reach — no loss to the author; relished fully, it delights warm-hearted, pure-minded people.</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады (заключение Мадхья-лилы): Кришнадас Кавирадж осуждает завистников, сравнивая их со свиньями. Прабхупада пишет, что движение сознания Кришны ценят искренние люди, хотя некоторые в Индии ему завидуют. Он следует примеру автора и надеется, что честные читатели очистят сердца и благословят этот труд. (пересказ; источник указан ниже).</p>
+      <subtitle>Разночтение</subtitle>
+      <p>Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Мадхья 25.283</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/madhya/25/283/">https://vedabase.io/ru/library/cc/madhya/25/283/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/madhya/25/283/">https://vedabase.io/en/library/cc/madhya/25/283/</a></p>
+    </section>
+    <section id="V-74">
+      <title>
+        <p>75 Маха-мантра Харе Кришна</p>
+      </title>
+      <subtitle>Hare Kṛṣṇa mahā-mantra</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>हरेकृष्ण हरेकृष्ण कृष्ण कृष्ण हरे हरे।</p>
+      <p>हरे राम हरे राम रामराम हरे हरे॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare</p>
+      <p>hare rāma hare rāma rāma rāma hare hare</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>харе кр̣шн̣а харе кр̣шн̣а кр̣шн̣а кр̣шн̣а харе харе</p>
+      <p>харе ра̄ма харе ра̄ма ра̄ма ра̄ма харе харе</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Шестнадцать имён маха-мантры Харе Кришна (обращение к именам; отдельного стихотворного перевода в источнике нет).</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>The sixteen names of the Hare Kṛṣṇa mahā-mantra (an invocation of the names; no separate verse translation in the source).</p>
+      <subtitle>Кратко о комментарии</subtitle>
+      <p>Комментарий Прабхупады к CC Ади 3.40: маха-мантра прямо названа во многих упанишадах, например в Кали-сантарана-упанишаде, которая говорит, что эти шестнадцать имён уничтожают скверну века Кали и что во всех Ведах нет средства выше; то же место приводится в комментарии к Ади 7.76. (пересказ; источник указан ниже).</p>
+      <subtitle>Источник</subtitle>
+      <p>Традиционная мантра / Traditional mantra; Маха-мантра Харе Кришна</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/adi/3/40/">https://vedabase.io/ru/library/cc/adi/3/40/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/adi/3/40/">https://vedabase.io/en/library/cc/adi/3/40/</a></p>
+    </section>
+    <section id="V-75">
+      <title>
+        <p>76 ЧЧ Антья 20.156</p>
+      </title>
+      <subtitle>CC Antya 20.156</subtitle>
+      <subtitle>Оригинал</subtitle>
+      <p>পরিমলবাসিতভুবনং স্বরসোন্মাদিত-রসজ্ঞ-রোলম্বম্ ।</p>
+      <p>গিরিধরচরণাম্ভোজং কঃ খলু রসিকঃ সমীহতে হাতুম্ ॥ ১৫৬ ॥</p>
+      <subtitle>Латинская транслитерация IAST</subtitle>
+      <p>parimala-vāsita-bhuvanaṁ sva-rasonmādita-rasajña-rolambam</p>
+      <p>giridhara-caraṇāmbhojaṁ kaḥ khalu rasikaḥ samīhate hātum</p>
+      <subtitle>Русская транслитерация</subtitle>
+      <p>паримала-ва̄сита-бхуванам̇</p>
+      <p>сва-расонма̄дита-расаджн̃а-роламбам</p>
+      <p>гиридхара-чаран̣а̄мбходжам̇</p>
+      <p>ках̣ кхалу расиках̣ самӣхате ха̄тум</p>
+      <subtitle>Редакционное пояснение</subtitle>
+      <p>Какой ценитель расы оставит лотосные стопы Гиридхари, чей аромат наполняет мир, а собственный нектар опьяняет пчёл — знатоков расы?</p>
+      <subtitle>Editorial explanation</subtitle>
+      <p>What connoisseur of rasa would ever abandon the lotus feet of Giridhara, whose fragrance perfumes the world and whose own nectar intoxicates the bee-like knowers of rasa?</p>
+      <subtitle>Источник</subtitle>
+      <p>Kṛṣṇadāsa Kavirāja Gosvāmī; ЧЧ Антья 20.156</p>
+      <p><a l:href="https://vedabase.io/ru/library/cc/antya/20/156/">https://vedabase.io/ru/library/cc/antya/20/156/</a></p>
+      <p><a l:href="https://vedabase.io/en/library/cc/antya/20/156/">https://vedabase.io/en/library/cc/antya/20/156/</a></p>
+    </section>
+  </body>
+</FictionBook>

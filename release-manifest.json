@@ -1,0 +1,67 @@
+{
+  "purpose": "Separate hosting test of published Kanthahara version 2. Not the production hostname.",
+  "source_commit": "e0570c3ecc54c0d395b8967e150f941e4cbefc5b",
+  "source_version": 2,
+  "files": [
+    {
+      "path": "app.js",
+      "bytes": 68939,
+      "gzip_bytes_estimate": 18830,
+      "sha256": "e9e2a2324a340d976f53e7c58868feaeb03384fe3d081b074c8e928740594984"
+    },
+    {
+      "path": "corpus.json",
+      "bytes": 182253,
+      "gzip_bytes_estimate": 40205,
+      "sha256": "30510518ae0d83f6599845e2d68a7e54caa8d56f12e52a47d9f141fc73b3923a"
+    },
+    {
+      "path": "index.html",
+      "bytes": 24369,
+      "gzip_bytes_estimate": 6783,
+      "sha256": "65cabd09ead1a5ed977b993d7e3869cacdb044372893efa924d25adfb392b9fa"
+    },
+    {
+      "path": "kanthahara.json",
+      "bytes": 3733007,
+      "gzip_bytes_estimate": 486697,
+      "sha256": "dd9ae6b80edfcbf1949c4a197d294ca37b53b66efd225fa4e18e3adc5f2b438d"
+    },
+    {
+      "path": "library/sevakunj-study.docx",
+      "bytes": 84728,
+      "gzip_bytes_estimate": 82290,
+      "sha256": "0981392df5f15c94abf30428e0c770c8b1a9b8fd463a66e53e7ac2a2fcf94248"
+    },
+    {
+      "path": "library/sevakunj-study.epub",
+      "bytes": 206583,
+      "gzip_bytes_estimate": 185726,
+      "sha256": "40cc8312fc80a76ff7bb29551780f55ed8b50b873d9071b76c17a78c0ff7a8d0"
+    },
+    {
+      "path": "library/sevakunj-study.fb2",
+      "bytes": 175055,
+      "gzip_bytes_estimate": 40585,
+      "sha256": "ad159bd0fd30d18d340e5c23a8021a349301a3079118883a00fb20a4abc929e9"
+    },
+    {
+      "path": "library/sevakunj-study.pdf",
+      "bytes": 733966,
+      "gzip_bytes_estimate": 342583,
+      "sha256": "b9ea37671ec1fd4cb5c4684c24d51f712b9806565778d07b03a9a5f6a6e769cc"
+    },
+    {
+      "path": "styles.css",
+      "bytes": 38612,
+      "gzip_bytes_estimate": 8019,
+      "sha256": "e6ec984252cfaad3c8456647abaa15f1615e4abce464c20205a90e41a90d7d0d"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 2093,
+      "gzip_bytes_estimate": 931,
+      "sha256": "e3f9be104d87afa253927ccfc11c718e583f4352be81f72138d31fd1cb397770"
+    }
+  ]
+}

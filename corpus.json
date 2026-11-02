@@ -1,0 +1,3098 @@
+{
+  "schema": "sevakunj-study-v1",
+  "edition": "2026-10-28-study",
+  "title": {
+    "ru": "Шлоки Севакунджа",
+    "en": "Sevakunj Ślokas"
+  },
+  "subtitle": {
+    "ru": "76 текстов для вдумчивого чтения и запоминания",
+    "en": "76 texts for thoughtful reading and memorisation"
+  },
+  "dedication": {
+    "ru": "Для преданных Шри Чайтанья Сарасват Матха по переданному наставлению Шрилы Бхакти Сундара Говинды Дев-Госвами Махараджа",
+    "en": "For the devotees of Sri Chaitanya Saraswat Math, following the instruction of Śrīla Bhakti Sundar Govinda Dev-Goswāmī Mahārāj"
+  },
+  "editorialNote": {
+    "ru": "Учебная редакция. Опубликованный перевод и редакционное пояснение смысла подписаны отдельно. Полные переводы издания доступны по ссылкам на источники.",
+    "en": "Study edition. Published translations and editorial explanations are labelled separately. Follow the source links for the complete reference translations."
+  },
+  "sources": {
+    "primary": "Śrī Caitanya-caritāmṛta, Kṛṣṇadāsa Kavirāja Gosvāmī; reference edition BBT/Vedabase",
+    "commentary": "Source-linked editorial summaries of A. C. Bhaktivedanta Swami Prabhupāda’s commentaries; not quotations",
+    "excerpts": "Sri Chaitanya Saraswat Math editions; Måns Broo, Brill 2023 (CC BY-NC-ND 4.0)"
+  },
+  "units": [
+    {
+      "id": "V-01",
+      "number": 1,
+      "archiveId": "V-01",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.1",
+        "en": "CC Ādi 1.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/1/"
+      },
+      "opening": "vande gurūn īśa-bhaktān",
+      "iast": "vande gurūn īśa-bhaktān\nīśam īśāvatārakān\ntat-prakāśāṁś ca tac-chaktīḥ\nkṛṣṇa-caitanya-saṁjñakam",
+      "cyrillic": "ванде гурӯн ӣш́а-бхакта̄н\nӣш́ам ӣш́а̄вата̄рака̄н\nтат-прака̄ш́а̄м̇ш́ ча тач-чхактӣх̣\nкр̣шн̣а-чаитанйа-сам̇джн̃акам",
+      "original": "বন্দে গুরূনীশভক্তানীশমীশাবতারকান্‌ ।\nতৎপ্রকাশাংশ্চ তচ্ছক্তীঃ কৃষ্ণচৈতন্যসংজ্ঞকম্‌ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор склоняется перед гуру, преданными Господа, Его воплощениями, проявлениями и энергиями и перед Господом, именуемым Кришна Чайтанья.",
+        "en": "The author bows to the gurus, the Lord's devotees, His incarnations, His manifestations and energies, and to the Lord known as Kṛṣṇa Caitanya."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден. Подтверждённый контекст: Сам автор разъясняет вступительные стихи далее в главе: Ади 1.22–1.23 (вступление как поклон; первые два стиха — общий и особый поклон), 1.32–1.34 (шесть проявлений одной истины; стих повторён как 1.34), 1.35–1.37 (дикша- и шикша-гуру — шесть Госвами).",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-02",
+      "number": 2,
+      "archiveId": "V-02",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.2",
+        "en": "CC Ādi 1.2"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/2/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/2/"
+      },
+      "opening": "vande śrī-kṛṣṇa-caitanya-",
+      "iast": "vande śrī-kṛṣṇa-caitanya-\nnityānandau sahoditau\ngauḍodaye puṣpavantau\ncitrau śan-dau tamo-nudau",
+      "cyrillic": "ванде ш́рӣ-кр̣шн̣а-чаитанйа-нитйа̄нандау саходитау\nгауд̣одайе пушпавантау\nчитрау ш́андау тамо-нудау",
+      "original": "বন্দে শ্রীকৃষ্ণচৈতন্যনিত্যানন্দৌ সহোদিতৌ ।\nগৌড়োদয়ে পুষ্পবন্তৌ চিত্রৌ শন্দৌ তমোনুদৌ ॥ ২ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье и Нитьянанде, вместе взошедшим над Гаудой, подобно солнцу и луне, — дивным, дарующим благо и рассеивающим тьму.",
+        "en": "Obeisance to Kṛṣṇa Caitanya and Nityānanda, risen together over Gauḍa like the sun and moon, wondrous, bestowing good and dispelling darkness."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден. Подтверждённый контекст: По Ади 1.23 это особый поклон Господу; образ развёрнут в Ади 1.85–86 (Кришна и Баларама взошли над восточным горизонтом Гауды).",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-03",
+      "number": 3,
+      "archiveId": "V-03",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.3",
+        "en": "CC Ādi 1.3"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/3/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/3/"
+      },
+      "opening": "yad advaitaṁ brahmopaniṣadi tad apy asya tanu-bhā",
+      "iast": "yad advaitaṁ brahmopaniṣadi tad apy asya tanu-bhā\nya ātmāntar-yāmī puruṣa iti so ’syāṁśa-vibhavaḥ\nṣaḍ-aiśvaryaiḥ pūrṇo ya iha bhagavān sa svayam ayaṁ\nna caitanyāt kṛṣṇāj jagati para-tattvaṁ param iha",
+      "cyrillic": "йад адваитам̇ брахмопанишади тад апй асйа тану-бха̄\nйа а̄тма̄нтарйа̄мӣ пуруша ити со ’сйа̄м̇ш́а-вибхавах̣\nшад̣-аиш́варйаих̣ пӯрн̣о йа иха бхагава̄н са свайам айам̇\nна чаитанйа̄т кр̣шн̣а̄дж джагати пара-таттвам̇ парам иха",
+      "original": "যদদ্বৈতং ব্রহ্মোপনিষদি তদপ্যস্য তনুভা\nয আত্মান্তর্যামী পুরুষ ইতি সোঽস্যাংশবিভবঃ ।\nষড়ৈশ্বর্যৈঃ পূর্ণো য ইহ ভগবান্‌ স স্বয়ময়ং\nন চৈতন্যাৎ কৃষ্ণাজ্জগতি পরতত্ত্বং পরমিহ ॥ ৩ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "То, что Упанишады называют недвойственным Брахманом, — сияние Его тела; внутренний Пуруша — Его частичное проявление; Бхагаван, исполненный шести достояний, — Он Сам; нет истины выше Чайтаньи-Кришны.",
+        "en": "What the Upaniṣads call the non-dual Brahman is the radiance of His body; the indwelling Supersoul is His partial expansion; the Bhagavān full of six opulences is He Himself — there is no truth higher than Caitanya-Kṛṣṇa."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден. Подтверждённый контекст: По Ади 1.24 третий стих указывает на Абсолютную Истину; стих повторён как Ади 2.5 и разобран автором во 2-й главе (2.4–2.6: три подлежащих и три сказуемых).",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": true
+    },
+    {
+      "id": "V-04",
+      "number": 4,
+      "archiveId": "V-04",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.15",
+        "en": "CC Ādi 1.15"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/15/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/15/"
+      },
+      "opening": "jayatāṁ suratau paṅgor",
+      "iast": "jayatāṁ suratau paṅgor\nmama manda-mater gatī\nmat-sarvasva-padāmbhojau\nrādhā-madana-mohanau",
+      "cyrillic": "джайата̄м̇ суратау пан̇гор\nмама манда-матер гатӣ\nмат-сарвасва-пада̄мбходжау\nра̄дха̄-мадана-моханау",
+      "original": "জয়তাং সুরতৌ পঙ্গোর্মম মন্দমতের্গতী ।\nমৎসর্বস্বপদাম্ভোজৌ রাধামদনমোহনৌ ॥ ১৫ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Слава милостивым Радхе и Мадана-мохану — прибежищу автора, называющего себя хромым и неразумным; Их лотосные стопы — всё его достояние.",
+        "en": "Glory to the merciful Rādhā and Madana-mohana, the refuge of the author, who calls himself lame and dull-witted; Their lotus feet are his all."
+      },
+      "translation": {
+        "ru": {
+          "text": "О Шри Шри Радха-Мадана-Мохан, я беспомощный калека! Мой слабый ум прикован к отвратительным объектам удовлетворения чувств. Молю вас, наделите меня подлинной привязанностью к бесценному богатству моей жизни — Вашим лотосоподобным стопам. И пусть Вашим Светлостям, столь сострадательным и любящим, всегда и везде сопутствует победа!",
+          "attribution": "Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 21",
+          "license": null
+        },
+        "en": {
+          "text": "All glory to merciful Śrī Śrī Rādhā Madan-Mohan! Though I am lame and wicked, They are my sole shelter, and Their lotus feet are everything to me.",
+          "attribution": "Sri Chaitanya Saraswat Math, Śaraṇāgati, 2011; PDF 281",
+          "license": null
+        }
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден. Подтверждённый контекст: Стихи 1.15–1.17 объединены комментарием Прабхупады к Ади 1.19: три Божества Вриндавана — Мадана-мохан, Говинда, Гопинатха — сердце гаудия-вайшнавов; поклонение Мадана-мохану — ступень восстановления забытых отношений с Господом.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-05",
+      "number": 5,
+      "archiveId": "V-05",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.16",
+        "en": "CC Ādi 1.16"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/16/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/16/"
+      },
+      "opening": "dīvyad-vṛndāraṇya-kalpa-drumādhaḥ-",
+      "iast": "dīvyad-vṛndāraṇya-kalpa-drumādhaḥ-\nśrīmad-ratnāgāra-siṁhāsana-sthau\nśrīmad-rādhā-śrīla-govinda-devau\npreṣṭhālībhiḥ sevyamānau smarāmi",
+      "cyrillic": "дӣвйад-вр̣нда̄ран̣йа-калпа-друма̄дхах̣-\nш́рӣмад-ратна̄га̄ра-сим̇ха̄сана-стхау\nш́рӣмад-ра̄дха̄-ш́рӣла-говинда-девау\nпрешт̣ха̄лӣбхих̣ севйама̄нау смара̄ми",
+      "original": "দীব্যদ্‌বৃন্দারণ্যকল্পদ্রুমাধঃ–\nশ্রীমদ্‌রত্নাগারসিংহাসনস্থৌ\nশ্রীমদ্‌রাধা–শ্রীলগোবিন্দদেবৌ\nপ্রেষ্ঠালীভিঃ সেব্যমানৌ স্মরামি ॥ ১৬ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор вспоминает Шри Радху и Шри Говинда-деву, восседающих на троне в храме из самоцветов под древом желаний во Вриндаване; Им служат самые близкие спутницы.",
+        "en": "The author remembers Śrī Rādhā and Śrī Govinda-deva, seated on a throne in a jewelled temple beneath a desire tree in Vṛndāvana, served by Their dearest companions."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [
+        {
+          "language": "ru",
+          "text": "Я постоянно думаю о Божественной Чете — Шри Шри Гандхарва-Говинде, которые восседают на изумительном, украшенном бриллиантами троне в прославленном лесу Враджи, под притягивающим все умы древом исполнения желаний. Их окружают самоотверженные служанки — Шри Лалита Деви, Шри Рупа Манджари и другие близкие спутники, такие как приянарма-сакхи.",
+          "attribution": "Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 22",
+          "note": "Перевод литургической формы gāndharvā; отличается от опорного чтения и плиты."
+        }
+      ],
+      "commentary": {
+        "ru": "отдельный комментарий не найден. Подтверждённый контекст: Контекст — комментарий к Ади 1.19: Говинде поклоняются на уровне служения с сильной привязанностью; Говинда — вместилище всех наслаждений.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-06",
+      "number": 6,
+      "archiveId": "V-06",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.17",
+        "en": "CC Ādi 1.17"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/17/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/17/"
+      },
+      "opening": "śrīmān rāsa-rasārambhī",
+      "iast": "śrīmān rāsa-rasārambhī\nvaṁśīvaṭa-taṭa-sthitaḥ\nkarṣan veṇu-svanair gopīr\ngopī-nāthaḥ śriye ’stu naḥ",
+      "cyrillic": "ш́рӣма̄н ра̄са-раса̄рамбхӣ\nвам̇ш́ӣват̣а-тат̣а-стхитах̣\nкаршан вен̣у-сванаир гопӣр\nгопӣ-на̄тхах̣ ш́рийе ’сту нах̣",
+      "original": "শ্রীমান্‌ রাসরসারম্ভী বংশীবটতটস্থিতঃ ।\nকর্ষন্‌ বেণুস্বনৈর্গোপীর্গোপীনাথঃ শ্রিয়েঽস্তু নঃ ॥ ১৭ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Пусть дарует нам благо прекрасный Гопинатха, начинатель танца раса, что стоит у Вамшивата и звуками флейты влечёт к Себе пастушек.",
+        "en": "May glorious Gopīnātha, who began the rāsa dance and stands at Vaṁśīvaṭa drawing the gopīs with His flute, bestow blessings on us."
+      },
+      "translation": {
+        "ru": {
+          "text": "Шри Гопинатх, дарующий вкус преданности, стоит на берегу реки Ямуны в месте, известном как Вамшивата. Здесь сладостный звук Его флейты влечет сердца пастушек Враджа Дхамы. Очаровательный Господь, раскрой нам Свои благодатные объятия!",
+          "attribution": "Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 23",
+          "license": null
+        },
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден. Подтверждённый контекст: Контекст — комментарий к Ади 1.19: Кришну как Гопиджана-валлабху постигают на ступени совершенства преданного служения; три Божества установлены во Вриндаване разными Госвами.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-07",
+      "number": 7,
+      "archiveId": "V-07",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 2.1",
+        "en": "CC Ādi 2.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/2/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/2/1/"
+      },
+      "opening": "śrī-caitanya-prabhuṁ vande",
+      "iast": "śrī-caitanya-prabhuṁ vande\nbālo ’pi yad-anugrahāt\ntaren nānā-mata-grāha-\nvyāptaṁ siddhānta-sāgaram",
+      "cyrillic": "ш́рӣ-чаитанйа-прабхум̇ ванде\nба̄ло ’пи йад-ануграха̄т\nтарен на̄на̄-мата-гра̄ха-вйа̄птам̇ сиддха̄нта-са̄гарам",
+      "original": "শ্রীচৈতন্যপ্রভুং বন্দে বালোঽপি যদনুগ্রহাৎ ।\nতরেন্নানামতগ্রাহব্যাপ্তং সিদ্ধান্তসাগরম্‌ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Шри Чайтанье Прабху, по чьей милости даже ребёнок переплывёт океан философских выводов, кишащий крокодилами разных учений.",
+        "en": "Obeisance to Śrī Caitanya Prabhu, by whose grace even a child can cross the ocean of conclusions infested with the crocodiles of many doctrines."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: по милости Чайтаньи даже неучёный спасается из океана неведения, полного учений-«водных хищников» (названы учения Будды, гьяни, йоги Патанджали и Гаутамы, системы Канады, Капилы, Даттатреи); по Его милости можно обойти эти взгляды и принять стопы Кришны как высшую цель. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-08",
+      "number": 8,
+      "archiveId": "V-08",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 2.2",
+        "en": "CC Ādi 2.2"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/2/2/",
+        "en": "https://vedabase.io/en/library/cc/adi/2/2/"
+      },
+      "opening": "kṛṣṇotkīrtana-gāna-nartana-kalā-pāthojani-bhrājitā",
+      "iast": "kṛṣṇotkīrtana-gāna-nartana-kalā-pāthojani-bhrājitā\nsad-bhaktāvali-haṁsa-cakra-madhupa-śreṇī-vihārāspadam\nkarṇānandi-kala-dhvanir vahatu me jihvā-maru-prāṅgaṇe\nśrī-caitanya dayā-nidhe tava lasal-līlā-sudhā-svardhunī",
+      "cyrillic": "кр̣шн̣откӣртана-га̄на-нартана-кала̄-па̄тходжани-бхра̄джита̄\nсад-бхакта̄вали-хам̇са-чакра-мадхупа-ш́рен̣ӣ-виха̄ра̄спадам\nкарн̣а̄нанди-кала-дхванир вахату ме джихва̄-мару-пра̄н̇ган̣е\nш́рӣ-чаитанйа дайа̄-нидхе тава ласал-лӣла̄-судха̄-свардхунӣ",
+      "original": "কৃষ্ণোৎকীর্তনগাননর্তনকলাপাথোজনি–ভ্রাজিতা\nসদ্ভক্তাবলিহংসচক্রমধুপশ্রেণীবিহারাস্পদম্‌ ।\nকর্ণানন্দিকলধ্বনির্বহতু মে জিহ্বামরুপ্রাঙ্গণে\nশ্রীচৈতন্যদয়ানিধে তব লসল্লীলাসুধাস্বর্ধুনী ॥ ২ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "О Чайтанья, океан милости! Пусть небесная Ганга нектара Твоих игр, украшенная лотосами киртана, пения и танца, — обитель преданных, подобных лебедям, чакравакам и пчёлам, с плеском, радующим слух, — течёт по пустыне моего языка.",
+        "en": "O Caitanya, ocean of mercy, may the celestial Gaṅgā of the nectar of Your pastimes — adorned with lotuses of kīrtana, song and dance, the pleasure-ground of swan-, cakravāka- and bee-like devotees, with a sound delightful to the ear — flow over the desert of my tongue."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: язык, занятый мирскими темами, подобен пустыне — им мирские беседы лишь капля; движение Чайтаньи (пение и танец об играх Кришны) — как чистые воды Ганги с лотосами, вокруг которых, как пчёлы и лебеди, держатся чистые преданные; автор просит эти волны для своего языка; завершается призывом воспевать маха-мантру. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-09",
+      "number": 9,
+      "archiveId": "V-09",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 3.1",
+        "en": "CC Ādi 3.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/3/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/3/1/"
+      },
+      "opening": "śrī-caitanya-prabhuṁ vande",
+      "iast": "śrī-caitanya-prabhuṁ vande\nyat-pādāśraya-vīryataḥ\nsaṅgṛhṇāty ākara-vrātād\najñaḥ siddhānta-san-maṇīn",
+      "cyrillic": "ш́рӣ-чаитанйа-прабхум̇ ванде йат-па̄да̄ш́райа-вӣрйатах̣\nсан̇гр̣хн̣а̄тй а̄кара-вра̄та̄д аджн̃ах̣ сиддха̄нта-сан-ман̣ӣн",
+      "original": "শ্রীচৈতন্যপ্রভুং বন্দে যৎপাদাশ্রয়বীর্যতঃ ।\nসংগৃহ্ণাত্যাকরব্রাতাদজ্ঞঃ সিদ্ধান্তসন্মণীন্‌ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор склоняется перед Чайтаньей Махапрабху: сила прибежища у Его стоп позволяет даже невежде добыть «самоцветы» философских выводов из «рудников» писаний.",
+        "en": "The author bows to Caitanya Mahāprabhu; the strength of taking shelter at His feet lets even an unlearned person gather the 'gems' of conclusive truth from the 'mines' of scripture."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-10",
+      "number": 10,
+      "archiveId": "V-10",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 4.1",
+        "en": "CC Ādi 4.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/4/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/4/1/"
+      },
+      "opening": "śrī-caitanya-prasādena",
+      "iast": "śrī-caitanya-prasādena\ntad-rūpasya vinirṇayam\nbālo ’pi kurute śāstraṁ\ndṛṣṭvā vraja-vilāsinaḥ",
+      "cyrillic": "ш́рӣ-чаитанйа-праса̄дена\nтад-рӯпасйа винирн̣айам\nба̄ло ’пи куруте ш́а̄страм̇\nдр̣шт̣ва̄ враджа-вила̄синах̣",
+      "original": "শ্রীচৈতন্যপ্রসাদেন তদ্রূপস্য বিনির্ণয়ম্‌ ।\nবালোঽপি কুরুতে শাস্ত্রং দৃষ্ট্বা ব্রজবিলাসিনঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "По милости Чайтаньи даже несмышлёное дитя, опираясь на писания, способно изложить истинную природу Кришны, играющего во Врадже.",
+        "en": "By Caitanya's grace even an ignorant child can, on the basis of scripture, establish the true nature of Kṛṣṇa who sports in Vraja."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: смысл стиха открывается только по беспричинной милости Чайтаньи. Кришну нельзя постичь мирскими средствами познания или интеллектом непреданных, но по милости Махапрабху даже ребёнок легко понимает Его и Его игры во Вриндаване. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-11",
+      "number": 11,
+      "archiveId": "V-11",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 5.1",
+        "en": "CC Ādi 5.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/5/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/5/1/"
+      },
+      "opening": "vande ’nantādbhutaiśvaryaṁ",
+      "iast": "vande ’nantādbhutaiśvaryaṁ\nśrī-nityānandam īśvaram\nyasyecchayā tat-svarūpam\najñenāpi nirūpyate",
+      "cyrillic": "ванде ’нанта̄дбхутаиш́варйам̇\nш́рӣ-нитйа̄нандам ӣш́варам\nйасйеччхайа̄ тат-сварӯпам\nаджн̃ена̄пи нирӯпйате",
+      "original": "বন্দেঽনন্তাদ্ভুতৈশ্বর্যং শ্রীনিত্যানন্দমীশ্বরম্‌ ।\nযস্যেচ্ছয়া তৎস্বরূপমজ্ঞেনাপি নিরূপ্যতে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Нитьянанде — Господу безграничного и дивного могущества; по Его воле даже глупец постигает Его природу.",
+        "en": "Obeisance to Nityānanda, the Lord of boundless and wondrous opulence; by His will even a fool can understand who He is."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-12",
+      "number": 12,
+      "archiveId": "V-12",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 6.1",
+        "en": "CC Ādi 6.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/6/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/6/1/"
+      },
+      "opening": "vande taṁ śrīmad-advaitā-",
+      "iast": "vande taṁ śrīmad-advaitā-\ncāryam adbhuta-ceṣṭitam\nyasya prasādād ajño ’pi\ntat-svarūpaṁ nirūpayet",
+      "cyrillic": "ванде там̇ ш́рӣмад-адваита̄ча̄рйам адбхута-чешт̣итам\nйасйа праса̄да̄д аджн̃о ’пи тат-сварӯпам̇ нирӯпайет",
+      "original": "বন্দে তং শ্রীমদদ্বৈতাচার্যমদ্ভুতচেষ্টিতম্‌ ।\nযস্য প্রসাদাদজ্ঞোঽপি তৎস্বরূপং নিরূপয়েৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Адвайте Ачарье, чьи деяния удивительны; по Его милости даже невежда сможет описать Его природу.",
+        "en": "Obeisance to Advaita Ācārya of wonderful deeds; by His mercy even an ignorant person can describe His nature."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-13",
+      "number": 13,
+      "archiveId": "V-13",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 7.1",
+        "en": "CC Ādi 7.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/7/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/7/1/"
+      },
+      "opening": "agaty-eka-gatiṁ natvā",
+      "iast": "agaty-eka-gatiṁ natvā\nhīnārthādhika-sādhakam\nśrī-caitanyaṁ likhyate ’sya\nprema-bhakti-vadānyatā",
+      "cyrillic": "агатй-эка-гатим̇ натва̄\nхӣна̄ртха̄дхика-са̄дхакам\nш́рӣ-чаитанйам̇ ликхйате ’сйа\nпрема-бхакти-вада̄нйата̄",
+      "original": "অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্‌ ।\nশ্রীচৈতন্যং লিখ্যতেঽস্য প্রেমভক্তিবদান্যতা ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Сначала поклонившись Чайтанье — единственному прибежищу тех, у кого нет иного, и дарителю цели выше обычных, — автор берётся описать Его щедрость в раздаче любовного служения.",
+        "en": "Bowing first to Caitanya — the sole refuge of those with no other shelter and the giver of a goal beyond ordinary aims — the author sets out to describe His generosity in granting loving devotion."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: обусловленная душа беспомощна перед рождением, смертью, старостью и болезнью, и никакие материальные опоры её не спасают. Единственное прибежище — стопы Господа, и Чайтанья — прибежище «акинчан», не полагающихся на имущество. Слова «hīnārthādhika-sādhakam» объясняются так: выше дхармы, артхи, камы и даже мокши стоит любовь к Богу (премā), и её дарует Махапрабху. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-14",
+      "number": 14,
+      "archiveId": "V-14",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 8.1",
+        "en": "CC Ādi 8.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/8/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/8/1/"
+      },
+      "opening": "vande caitanya-devaṁ taṁ",
+      "iast": "vande caitanya-devaṁ taṁ\nbhagavantaṁ yad-icchayā\nprasabhaṁ nartyate citraṁ\nlekha-raṅge jaḍo ’py ayam",
+      "cyrillic": "ванде чаитанйа-девам̇ там̇ бхагавантам̇ йад-иччхайа̄\nпрасабхам̇ нартйате читрам̇ лекхаран̇ге джад̣о ’пй айам",
+      "original": "বন্দে চৈতন্যদেবং তং ভগবন্তং যদিচ্ছয়া ।\nপ্রসভং নর্ত্যতে চিত্রং লেখরঙ্গে জড়োঽপ্যয়ম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор склоняется перед Чайтаньей, по чьей воле он, «глупец», словно танцующая собачка, вдруг пустился в пляс на сцене писательства и взялся за эту книгу.",
+        "en": "The author bows to Caitanya, by whose will he, a fool, has been made to 'dance' on the stage of writing, like a performing dog, and has taken up this book."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-15",
+      "number": 15,
+      "archiveId": "V-15",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 9.1",
+        "en": "CC Ādi 9.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/9/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/9/1/"
+      },
+      "opening": "taṁ śrīmat-kṛṣṇa-caitanya-",
+      "iast": "taṁ śrīmat-kṛṣṇa-caitanya-\ndevaṁ vande jagad-gurum\nyasyānukampayā śvāpi\nmahābdhiṁ santaret sukham",
+      "cyrillic": "там̇ ш́рӣмат-кр̣шн̣а-чаитанйа-девам̇ ванде джагад-гурум\nйасйа̄нукампайа̄ ш́ва̄пи маха̄бдхим̇ сантарет сукхам",
+      "original": "তং শ্রীমৎকৃষ্ণচৈতন্যদেবং বন্দে জগদ্‌গুরুম্ ।\nযস্যানুকম্পয়া শ্বাপি মহাব্ধিং সন্তরেৎ সুখম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье, учителю всего мира, чьё сострадание позволяет даже собаке переплыть великий океан.",
+        "en": "Obeisance to Kṛṣṇa Caitanya, guru of the world, by whose compassion even a dog could cross a vast ocean."
+      },
+      "translation": {
+        "ru": null,
+        "en": {
+          "text": "I worship this blessed Kṛṣṇacaitanyadeva, the preceptor of the world, by whose grace even a dog can easily cross a great ocean.",
+          "attribution": "Brill, Hari-bhakti-vilāsa, 2023; PDF 200; Måns Broo",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: собака обычно проплывает лишь немного, но с благословения Махапрабху пересекает океан. Так и автор, называя себя беспомощным, говорит, что лишь по желанию Чайтаньи, выраженному через вайшнавов и Мадана-мохана, может пересечь «океан» и представить «Чайтанья-чаритамриту». (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-16",
+      "number": 16,
+      "archiveId": "V-16",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 10.1",
+        "en": "CC Ādi 10.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/10/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/10/1/"
+      },
+      "opening": "śrī-caitanya-padāmbhoja-",
+      "iast": "śrī-caitanya-padāmbhoja-\nmadhupebhyo namo namaḥ\nkathañcid āśrayād yeṣāṁ\nśvāpi tad-gandha-bhāg bhavet",
+      "cyrillic": "ш́рӣ-чаитанйа-пада̄мбходжа-мадхупебхйо намо намах̣\nкатхан̃чид а̄ш́райа̄д йеша̄м̇ ш́ва̄пи тад-гандха-бха̄г бхавет",
+      "original": "শ্রীচৈতন্যপদাম্ভোজ–মধুপেভ্যো নমো নমঃ ।\nকথঞ্চিদাশ্রয়াদ্‌ যেষাং শ্বাপি তদ্‌গন্ধভাগ্‌ভবেৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Снова и снова — поклон преданным-«пчёлам», вкушающим мёд лотосных стоп Чайтаньи; найдя у них прибежище, даже «пёс» получает долю аромата этого лотоса.",
+        "en": "Repeated obeisances to the bee-like devotees who relish the honey of Caitanya's lotus feet; taking shelter of them, even a 'dog' gains a share of the lotus's fragrance."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: собака — образ крайнего непреданного, но в общении с преданными Чайтаньи постепенно преображается и она. Приводятся пример собаки, которую Шивананда Сена взял с собой в Пури и которая получила освобождение, и животные в доме Шриваса Тхакура. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-17",
+      "number": 17,
+      "archiveId": "V-17",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 11.1",
+        "en": "CC Ādi 11.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/11/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/11/1/"
+      },
+      "opening": "nityānanda-padāmbhoja-",
+      "iast": "nityānanda-padāmbhoja-\nbhṛṅgān prema-madhūnmadān\nnatvākhilān teṣu mukhyā\nlikhyante katicin mayā",
+      "cyrillic": "нитйа̄нанда-пада̄мбходжа-бхр̣н̇га̄н према-мадхӯнмада̄н\nнатва̄кхила̄н тешу мукхйа̄ ликхйанте катичин майа̄",
+      "original": "নিত্যানন্দপদাম্ভোজ–ভৃঙ্গান্ প্রেমমধূন্মদান্ ।\nনত্বাখিলান্ তেষু মুখ্যা লিখ্যন্তে কতিচিন্ময়া ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклонившись всем преданным Нитьянанды, опьянённым мёдом любви, словно пчёлы у Его стоп, автор опишет некоторых главных из них.",
+        "en": "Having bowed to all the bee-like devotees of Nityānanda, intoxicated by the honey of love, the author will describe a few of the chief ones."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-18",
+      "number": 18,
+      "archiveId": "V-18",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 12.1",
+        "en": "CC Ādi 12.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/12/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/12/1/"
+      },
+      "opening": "advaitāṅghry-abja-bhṛṅgāṁs tān",
+      "iast": "advaitāṅghry-abja-bhṛṅgāṁs tān\nsārāsāra-bhṛto ’khilān\nhitvāsārān sāra-bhṛto\nnaumi caitanya-jīvanān",
+      "cyrillic": "адваита̄н̇гхрй-абджа-бхр̣н̇га̄м̇с та̄н са̄ра̄са̄ра-бхр̣то ’кхила̄н\nхитва̄ ’са̄ра̄н са̄ра-бхр̣то науми чаитанйа-джӣвана̄н",
+      "original": "অদ্বৈতাঙ্ঘ্র্যব্জভৃঙ্গাংস্তান্ সারাসারভৃতোঽখিলান্ ।\nহিত্বাঽসারান্‌ সারভৃতো নৌমি চৈতন্যজীবনান্ ॥১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Последователи Адвайты были двух видов — истинные и ложные; отвергнув ложных, автор склоняется перед истинными, для которых жизнью был Чайтанья.",
+        "en": "Advaita's followers were of two kinds, genuine and false; rejecting the false, the author bows to the genuine ones, whose life was Caitanya."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": true
+    },
+    {
+      "id": "V-19",
+      "number": 19,
+      "archiveId": "V-19",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 13.1",
+        "en": "CC Ādi 13.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/13/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/13/1/"
+      },
+      "opening": "sa prasīdatu caitanya-",
+      "iast": "sa prasīdatu caitanya-\ndevo yasya prasādataḥ\ntal-līlā-varṇane yogyaḥ\nsadyaḥ syād adhamo ’py ayam",
+      "cyrillic": "са прасӣдату чаитанйа\nдево йасйа праса̄датах̣\nтал-лӣла̄-варн̣ане йогйах̣\nсадйах̣ сйа̄д адхамо ’пй айам",
+      "original": "স প্রসীদতু চৈতন্যদেবো যস্য প্রসাদতঃ ।\nতল্লীলাবর্ণনে যোগ্যঃ সদ্যঃ স্যাদধমোঽপ্যয়ম্ ॥১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Мольба о милости Чайтаньи, по которой даже падший сразу становится способен описывать Его игры.",
+        "en": "A prayer for Caitanya's grace, by which even a fallen person at once becomes fit to describe His pastimes."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: описывать Господа можно лишь по Его милости. Здесь же процитирована Антья 7.11: без силы Кришны нельзя проповедовать. Поэтому труд Кришнадаса — знак особой милости к нему, и его самоуничижение не делает его падшим. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-20",
+      "number": 20,
+      "archiveId": "V-20",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 15.1",
+        "en": "CC Ādi 15.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/15/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/15/1/"
+      },
+      "opening": "ku-manāḥ su-manastvaṁ hi",
+      "iast": "ku-manāḥ su-manastvaṁ hi\nyāti yasya padābjayoḥ\nsu-mano-’rpaṇa-mātreṇa\ntaṁ caitanya-prabhuṁ bhaje",
+      "cyrillic": "ку-мана̄х̣ су-манаствам̇ хи йа̄ти йасйа пада̄бджайох̣\nсу-мано ’рпан̣а-ма̄трен̣а там̇ чаитанйа-прабхум̇ бхадже",
+      "original": "কুমনাঃ সুমনস্ত্বং হি যাতি যস্য পদাব্জয়োঃ ।\nসুমনোঽর্পণমাত্রেণ তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор поклоняется Чайтанье: достаточно поднести Его стопам цветок, и даже человек дурного ума становится преданным.",
+        "en": "The author worships Caitanya, at whose feet the mere offering of a flower turns even an ill-minded person into a devotee."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-21",
+      "number": 21,
+      "archiveId": "V-21",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 16.1",
+        "en": "CC Ādi 16.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/16/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/16/1/"
+      },
+      "opening": "kṛpā-sudhā-sarid yasya",
+      "iast": "kṛpā-sudhā-sarid yasya\nviśvam āplāvayanty api\nnīca-gaiva sadā bhāti\ntaṁ caitanya-prabhuṁ bhaje",
+      "cyrillic": "кр̣па̄-судха̄-сарид йасйа виш́вам а̄пла̄вайантй апи\nнӣчагаива сада̄ бха̄ти там̇ чаитанйа-прабхум̇ бхадже",
+      "original": "কৃপাসুধা–সরিদ্যস্য বিশ্বমাপ্লাবয়ন্ত্যপি ।\nনীচগৈব সদা ভাতি তং চৈতন্যপ্রভুং ভজে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклонение Чайтанье: река нектара Его милости затопляет весь мир, но, как всякая река, всегда течёт вниз — особенно к падшим.",
+        "en": "Worship of Caitanya, whose nectar-river of mercy floods the whole world yet, like any river, always flows toward the low, i.e. especially to the fallen."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: Чайтанья — воплощение милости, и чем человек более пал, тем больше у него прав на Его благосклонность, если он искренен. Пример — Джагай и Мадхай. Движение санкиртаны продолжает течь, как великая река. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-22",
+      "number": 22,
+      "archiveId": "V-22",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 17.1",
+        "en": "CC Ādi 17.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/17/1/",
+        "en": "https://vedabase.io/en/library/cc/adi/17/1/"
+      },
+      "opening": "vande svairādbhutehaṁ taṁ",
+      "iast": "vande svairādbhutehaṁ taṁ\ncaitanyaṁ yat-prasādataḥ\nyavanāḥ sumanāyante\nkṛṣṇa-nāma-prajalpakāḥ",
+      "cyrillic": "ванде сваира̄дбхутехам̇ там̇\nчаитанйам̇ йат-праса̄датах̣\nйавана̄х̣ сумана̄йанте\nкр̣шн̣а-на̄ма-праджалпака̄х̣",
+      "original": "বন্দে স্বৈরাদ্ভুতেহং তং চৈতন্যং যৎপ্রসাদতঃ ।\nযবনাঃ সুমনায়ন্তে কৃষ্ণনামপ্রজল্পকাঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Чайтанье, свободному в Своих дивных деяниях: по Его милости даже яваны, повторяющие имя Кришны, становятся благородными людьми.",
+        "en": "Obeisance to Caitanya of free and wonderful deeds, by whose grace even yavanas who chant Kṛṣṇa's name become noble."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: смарты считают, что брахманом нельзя стать без смены тела, но Чайтанья, независимый как Кришна, может преобразить даже явану. Прабхупада приводит в пример западных учеников, ставших вайшнавами благодаря повторению Харе Кришна. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-23",
+      "number": 23,
+      "archiveId": "V-23",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 1.1",
+        "en": "CC Madhya 1.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/1/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/1/1/"
+      },
+      "opening": "yasya prasādād ajño ’pi",
+      "iast": "yasya prasādād ajño ’pi\nsadyaḥ sarva-jñatāṁ vrajet\nsa śrī-caitanya-devo me\nbhagavān samprasīdatu",
+      "cyrillic": "йасйа праса̄да̄д аджн̃о ’пи\nсадйах̣ сарва-джн̃ата̄м̇ враджет\nса ш́рӣ-чаитанйа-дево ме\nбхагава̄н сампрасӣдату",
+      "original": "যস্য প্রসাদাদজ্ঞোঽপি সদ্যঃ সর্বজ্ঞতাং ব্রজেৎ ।\nস শ্রীচৈতন্যদেবো মে ভগবান্ সংপ্রসীদতু ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "По милости Чайтаньи даже невежда сразу обретает всё знание; автор молит Господа о милости к себе.",
+        "en": "By Caitanya's grace even an ignorant person at once attains all knowledge; the author prays for His mercy."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-24",
+      "number": 24,
+      "archiveId": "V-24",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 2.1",
+        "en": "CC Madhya 2.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/2/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/2/1/"
+      },
+      "opening": "vicchede ’smin prabhor antya-",
+      "iast": "vicchede ’smin prabhor antya-\nlīlā-sūtrānuvarṇane\ngaurasya kṛṣṇa-viccheda-\npralāpādy anuvarṇyate",
+      "cyrillic": "виччхеде ’смин прабхор антйа\nлӣла̄-сӯтра̄нуварн̣ане\nгаурасйа кр̣шн̣а-виччхеда\nпрала̄па̄дй ануварн̣йате",
+      "original": "বিচ্ছেদেঽস্মিন্ প্রভোরন্ত্যলীলা-সূত্রানুবর্ণনে ।\nগৌরস্য কৃষ্ণবিচ্ছেদপ্রলাপাদ্যনুবর্ণ্যতে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Кратко излагая последние игры, автор описывает в этой главе экстатические, подобные безумию речи Гауры в разлуке с Кришной.",
+        "en": "In summarizing the last pastimes, this chapter describes Gaura's ecstatic, madness-like utterances in separation from Kṛṣṇa."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: глава в общих чертах описывает деяния после принятия санньясы. Чайтанья назван «гаура» (золотистым): Кришна, погружённый в мысли о гопи, сам становится светлым. Около двенадцати последних лет Он переживал разлуку с Кришной, как влюблённый, покинутый возлюбленной. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": true
+    },
+    {
+      "id": "V-25",
+      "number": 25,
+      "archiveId": "V-25",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 3.1",
+        "en": "CC Madhya 3.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/3/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/3/1/"
+      },
+      "opening": "nyāsaṁ vidhāyotpraṇayo ’tha gauro",
+      "iast": "nyāsaṁ vidhāyotpraṇayo ’tha gauro\nvṛndāvanaṁ gantu-manā bhramād yaḥ\nrāḍhe bhraman śānti-purīm ayitvā\nlalāsa bhaktair iha taṁ nato ’smi",
+      "cyrillic": "нйа̄сам̇ видха̄йотпран̣айо ’тха гауро\nвр̣нда̄ванам̇ ганту-мана̄ бхрама̄д йах̣\nра̄д̣хе бхраман ш́а̄нти-пурӣм айитва̄\nлала̄са бхактаир иха там̇ нато ’сми",
+      "original": "ন্যাসং বিধায়োৎপ্রণয়োঽথ গৌরো\nবৃন্দাবনং গন্তুমনা ভ্রমাদ্ যঃ ।\nরাঢ়ে ভ্রমন্ শান্তিপুরীময়িত্বা\nললাস ভক্তৈরিহ তং নতোঽস্মি ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Приняв санньясу и желая в пылу любви идти во Вриндаван, Гаура «по ошибке» блуждал по Радхе, пришёл в Шантипур и радовался там с преданными; автор склоняется перед Ним.",
+        "en": "After taking sannyāsa, Gaura, in intense love, set out for Vṛndāvana but 'by mistake' wandered in Rāḍha, reached Śāntipura and rejoiced there with devotees; the author bows to Him."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-26",
+      "number": 26,
+      "archiveId": "V-26",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 4.1",
+        "en": "CC Madhya 4.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/4/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/4/1/"
+      },
+      "opening": "yasmai dātuṁ corayan kṣīra-bhāṇḍaṁ",
+      "iast": "yasmai dātuṁ corayan kṣīra-bhāṇḍaṁ\ngopīnāthaḥ kṣīra-corābhidho ’bhūt\nśrī-gopālaḥ prādurāsīd vaśaḥ san\nyat-premṇā taṁ mādhavendraṁ nato ’smi",
+      "cyrillic": "йасмаи да̄тум̇ чорайан кшӣра-бха̄н̣д̣ам̇\nгопӣна̄тхах̣ кшӣра-чора̄бхидхо ’бхӯт\nш́рӣ-гопа̄лах̣ пра̄дура̄сӣд ваш́ах̣ сан\nйат-премн̣а̄ там̇ ма̄дхавендрам̇ нато ’сми",
+      "original": "যস্মৈ দাতুং চোরয়ন্ ক্ষীরভাণ্ডং\nগোপীনাথঃ ক্ষীরচোরাভিধোঽভূৎ ।\nশ্রীগোপালঃ প্রাদুরাসীদ্বশঃ সন্\nযৎপ্রেম্ণা তং মাধবেন্দ্রং নতোঽস্মি ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Мадхавендре Пури: ради него Гопинатха украл горшок сладкого риса (отсюда имя Кшира-чора), а Шри Гопала, покорённый его любовью, явил Себя людям.",
+        "en": "Obeisance to Mādhavendra Purī, for whom Gopīnātha stole a pot of sweet rice (hence 'Kṣīra-corā'), and to whom, won by his love, Śrī Gopāla became manifest."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады со ссылкой на Бхактивинода Тхакура: Божество Гопалы изначально установил Ваджра, правнук Кришны. Мадхавендра Пури вновь нашёл Его и установил на Говардхане. Ныне Божество находится в Натхадваре и управляется потомками Валлабхачарьи. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-27",
+      "number": 27,
+      "archiveId": "V-27",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 5.1",
+        "en": "CC Madhya 5.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/5/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/5/1/"
+      },
+      "opening": "padbhyāṁ calan yaḥ pratimā-svarūpo",
+      "iast": "padbhyāṁ calan yaḥ pratimā-svarūpo\nbrahmaṇya-devo hi śatāha-gamyam\ndeśaṁ yayau vipra-kṛte ’dbhutehaṁ\ntaṁ sākṣi-gopālam ahaṁ nato ’smi",
+      "cyrillic": "падбхйа̄м̇ чалан йах̣ пратима̄-сварӯпо\nбрахман̣йа-дево хи ш́ата̄ха-гамйам\nдеш́ам̇ йайау випра-кр̣те ’дбхутехам̇\nтам̇ са̄кши-гопа̄лам ахам̇ нато ’сми",
+      "original": "পদ্ভ্যাং চলন্ যঃ প্রতিমা-স্বরূপো\nব্রহ্মণ্যদেবো হি শতাহগম্যম্ ।\nদেশং যযৌ বিপ্রকৃতেঽদ্ভুতেহং\nতং সাক্ষিগোপালমহং নতোঽস্মি ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Господу, который в образе Божества Сакши-Гопалы ради брахмана сто дней шёл пешком в далёкий край, — поистине удивительное деяние.",
+        "en": "Obeisance to the Lord who, as the Deity Sākṣi-gopāla, walked for a hundred days to another land for a brāhmaṇa's sake — a wonderful act."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-28",
+      "number": 28,
+      "archiveId": "V-28",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 6.1",
+        "en": "CC Madhya 6.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/6/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/6/1/"
+      },
+      "opening": "naumi taṁ gauracandraṁ yaḥ",
+      "iast": "naumi taṁ gauracandraṁ yaḥ\nkutarka-karkaśāśayam\nsārvabhaumaṁ sarva-bhūmā\nbhakti-bhūmānam ācarat",
+      "cyrillic": "науми там̇ гаура-чандрам̇ йах̣\nкутарка-каркаш́а̄ш́айам\nса̄рвабхаумам̇ сарва-бхӯма̄\nбхакти-бхӯма̄нам а̄чарат",
+      "original": "নৌমি তং গৌরচন্দ্রং যঃ কুতর্ক-কর্কশাশয়ম্ ।\nসার্বভৌমং সর্বভূমা ভক্তিভূমানমাচরৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Славословие Гаурачандре, который превратил Сарвабхауму, ожесточённого схоластикой, в великого преданного.",
+        "en": "Praise of Gauracandra, who turned Sārvabhauma, hardened by sophistry, into a great devotee."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-29",
+      "number": 29,
+      "archiveId": "V-29",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 7.1",
+        "en": "CC Madhya 7.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/7/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/7/1/"
+      },
+      "opening": "dhanyaṁ taṁ naumi caitanyaṁ",
+      "iast": "dhanyaṁ taṁ naumi caitanyaṁ\nvāsudevaṁ dayārdra-dhī\nnaṣṭa-kuṣṭhaṁ rūpa-puṣṭaṁ\nbhakti-tuṣṭaṁ cakāra yaḥ",
+      "cyrillic": "дханйам̇ там̇ науми чаитанйам̇\nва̄судевам̇ дайа̄рдра-дхӣ\nнашт̣а-кушт̣хам̇ рӯпа-пушт̣ам̇\nбхакти-тушт̣ам̇ чака̄ра йах̣",
+      "original": "ধন্যং তং নৌমি চৈতন্যং বাসুদেবং দয়ার্দ্রধী ।\nনষ্টকুষ্ঠং রূপপুষ্টং ভক্তিতুষ্টং চকার যঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Слава Чайтанье: из сострадания Он исцелил брахмана Васудеву от проказы, сделал его прекрасным и удовлетворённым преданностью.",
+        "en": "Praise of Caitanya, who out of compassion cured the brāhmaṇa Vāsudeva of leprosy, made him handsome and satisfied in devotion."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-30",
+      "number": 30,
+      "archiveId": "V-30",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 8.1",
+        "en": "CC Madhya 8.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/8/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/8/1/"
+      },
+      "opening": "sañcārya rāmābhidha-bhakta-meghe",
+      "iast": "sañcārya rāmābhidha-bhakta-meghe\nsva-bhakti-siddhānta-cayāmṛtāni\ngaurābdhir etair amunā vitīrṇais\ntaj-jñatva-ratnālayatāṁ prayāti",
+      "cyrillic": "сан̃ча̄рйа ра̄ма̄бхидха-бхакта-мегхе\nсва-бхакти-сиддха̄нта-чайа̄мр̣та̄ни\nгаура̄бдхир этаир амуна̄ витӣрн̣аис\nтадж-джн̃атва-ратна̄лайата̄м̇ прайа̄ти",
+      "original": "সঞ্চার্য রামাভিধ-ভক্তমেঘে\nস্বভক্তিসিদ্ধান্তচয়ামৃতানি ।\nগৌরাব্ধিরেতৈরমুনা বিতীর্ণৈ-\nস্তজ্জ্ঞত্ব-রত্নালয়তাং প্রযাতি ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Гаура, океан истин преданности, наполнил этим нектаром «облако» — Рамананду Рая; пролившись обратно, оно сделало океан сокровищницей самоцветов знания.",
+        "en": "Gaura, the ocean of devotional conclusions, filled the 'cloud' Rāmānanda Rāya with that nectar; showered back upon Him, it made the ocean a treasury of jewels of knowledge."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-31",
+      "number": 31,
+      "archiveId": "V-31",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 9.1",
+        "en": "CC Madhya 9.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/9/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/9/1/"
+      },
+      "opening": "nānā-mata-grāha-grastān",
+      "iast": "nānā-mata-grāha-grastān\ndākṣiṇātya-jana-dvipān\nkṛpāriṇā vimucyaitān\ngauraś cakre sa vaiṣṇavān",
+      "cyrillic": "на̄на̄-мата-гра̄ха-граста̄н\nда̄кшин̣а̄тйа-джана-двипа̄н\nкр̣па̄рин̣а̄ вимучйаита̄н\nгаураш́ чакре са ваишн̣ава̄н",
+      "original": "নানামতগ্রাহগ্রস্তান্ দাক্ষিণাত্যজনদ্বিপান্ ।\nকৃপারিণা বিমুচ্যৈতান্ গৌরশ্চক্রে স বৈষ্ণবান্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Диском милости Гаура освободил «слоноподобных» жителей юга Индии из пасти «крокодилов» разных учений и сделал их вайшнавами.",
+        "en": "With the disc of His mercy Gaura freed the 'elephant-like' people of South India from the 'crocodiles' of various doctrines and made them Vaiṣṇavas."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады: обращение южан сравнивается со спасением Вишну слона Гаджендры от крокодила. «Крокодилы» — буддийская, джайнская и майявадская философии; Махапрабху освободил людей от них, сделав вайшнавами. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-32",
+      "number": 32,
+      "archiveId": "V-32",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 10.1",
+        "en": "CC Madhya 10.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/10/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/10/1/"
+      },
+      "opening": "taṁ vande gaura-jaladaṁ",
+      "iast": "taṁ vande gaura-jaladaṁ\nsvasya yo darśanāmṛtaiḥ\nvicchedāvagraha-mlāna-\nbhakta-śasyāny ajīvayat",
+      "cyrillic": "там̇ ванде гаура-джаладам̇\nсвасйа йо дарш́ана̄мр̣таих̣\nвиччхеда̄ваграха-мла̄на-бхакта-ш́асйа̄нй аджӣвайат",
+      "original": "তং বন্দে গৌরজলদং স্বস্য যো দর্শনামৃতৈঃ ।\nবিচ্ছেদাবগ্রহম্লান-ভক্তশস্যান্যজীবয়ৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Гауре — туче, чьё нектарное присутствие оживило преданных, увядших, как посевы в засуху разлуки.",
+        "en": "Obeisance to Gaura, the rain-cloud whose nectarean presence revived the devotees, withered like crops in the drought of separation."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-33",
+      "number": 33,
+      "archiveId": "V-33",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 11.1",
+        "en": "CC Madhya 11.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/11/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/11/1/"
+      },
+      "opening": "aty-uddaṇḍaṁ tāṇḍavaṁ gauracandraḥ",
+      "iast": "aty-uddaṇḍaṁ tāṇḍavaṁ gauracandraḥ\nkurvan bhaktaiḥ śrī-jagannātha-gehe\nnānā-bhāvālaṅkṛtāṅgaḥ sva-dhāmnā\ncakre viśvaṁ prema-vanyā-nimagnam",
+      "cyrillic": "атй-уддан̣д̣ам̇ та̄н̣д̣авам̇ гаурачандрах̣\nкурван бхактаих̣ ш́рӣ-джаганна̄тха-гехе\nна̄на̄-бха̄ва̄лан̇кр̣та̄н̇гах̣ сва-дха̄мна̄\nчакре виш́вам̇ према-ванйа̄-нимагнам",
+      "original": "অত্যুদ্দণ্ডং তাণ্ডবং গৌরচন্দ্রঃ\nকুর্বন্ ভক্তৈঃ শ্রীজগন্নাথগেহে ।\nনানাভাবালঙ্কৃতাঙ্গঃ স্বধাম্না\nচক্রে বিশ্বং প্রেমবন্যা-নিমগ্নম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Неистово танцуя с преданными в храме Джаганнатхи, украшенный множеством экстатических чувств, Гаурачандра погрузил мир в поток любви.",
+        "en": "Dancing wildly with devotees in Jagannātha's temple, His body adorned with ecstasies, Gauracandra plunged the world into a flood of love."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-34",
+      "number": 34,
+      "archiveId": "V-34",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 12.1",
+        "en": "CC Madhya 12.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/12/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/12/1/"
+      },
+      "opening": "śrī-guṇḍicā-mandiram ātma-vṛndaiḥ",
+      "iast": "śrī-guṇḍicā-mandiram ātma-vṛndaiḥ\nsammārjayan kṣālanataḥ sa gauraḥ\nsva-citta-vac chītalam ujjvalaṁ ca\nkṛṣṇopaveśaupayikaṁ cakāra",
+      "cyrillic": "ш́рӣ-гун̣д̣ича̄-мандирам а̄тма-вр̣ндаих̣\nсамма̄рджайан кша̄ланатах̣ са гаурах̣\nсва-читта-вач чхӣталам уджджвалам̇ ча\nкр̣шн̣опавеш́аупайикам̇ чака̄ра",
+      "original": "শ্রীগুণ্ডিচা-মন্দিরমাত্মবৃন্দৈঃ\nসংমার্জয়ন্ ক্ষালনতঃ স গৌরঃ ।\nস্বচিত্তবচ্ছীতলমুজ্জ্বলঞ্চ\nকৃষ্ণোপবেশৌপয়িকং চকার ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Вместе со спутниками Гаура вымыл храм Гундичи, сделав его прохладным и сияющим, как своё сердце, и достойным того, чтобы там воссел Кришна.",
+        "en": "With His associates Gaura washed the Guṇḍicā temple, making it cool and bright like His own heart and fit for Kṛṣṇa to sit in."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-35",
+      "number": 35,
+      "archiveId": "V-35",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 13.1",
+        "en": "CC Madhya 13.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/13/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/13/1/"
+      },
+      "opening": "sa jīyāt kṛṣṇa-caitanyaḥ",
+      "iast": "sa jīyāt kṛṣṇa-caitanyaḥ\nśrī-rathāgre nanarta yaḥ\nyenāsīj jagatāṁ citraṁ\njagannātho ’pi vismitaḥ",
+      "cyrillic": "са джӣйа̄т кр̣шн̣а-чаитанйах̣\nш́рӣ-ратха̄гре нанарта йах̣\nйена̄сӣдж джагата̄м̇ читрам̇\nджаганна̄тхо ’пи висмитах̣",
+      "original": "স জীয়াৎ কৃষ্ণচৈতন্যঃ শ্রীরথাগ্রে ননর্ত যঃ ।\nযেনাসীজ্জগতাং চিত্রং জগন্নাথোঽপি বিস্মিতঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Слава Кришне Чайтанье, танцевавшему перед колесницей Джаганнатхи, — этим Он изумил мир и Самого Джаганнатху.",
+        "en": "Glory to Kṛṣṇa Caitanya, who danced before Jagannātha's chariot, astonishing the world and Jagannātha Himself."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-36",
+      "number": 36,
+      "archiveId": "V-36",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 14.1",
+        "en": "CC Madhya 14.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/14/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/14/1/"
+      },
+      "opening": "gauraḥ paśyann ātma-vṛndaiḥ",
+      "iast": "gauraḥ paśyann ātma-vṛndaiḥ\nśrī-lakṣmī-vijayotsavam\nśrutvā gopī-rasollāsaṁ\nhṛṣṭaḥ premṇā nanarta saḥ",
+      "cyrillic": "гаурах̣ паш́йанн а̄тма-вр̣ндаих̣\nш́рӣ-лакшмӣ-виджайотсавам\nш́рутва̄ гопӣ-расолла̄сам̇\nхр̣шт̣ах̣ премн̣а̄ нанарта сах̣",
+      "original": "গৌরঃ পশ্যন্নাত্মবৃন্দৈঃ শ্রীলক্ষ্মীবিজয়োৎসবম্ ।\nশ্রুত্বা গোপীরসোল্লাসং হৃষ্টঃ প্রেম্‌ণা ননর্ত সঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Вместе с преданными Гаура видел праздник Лакшми-виджайотсава, услышал о ликующей любви гопи и затанцевал от радости.",
+        "en": "With His devotees Gaura witnessed the Lakṣmī-vijayotsava festival, heard of the gopīs' exultant love, and danced in joy."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-37",
+      "number": 37,
+      "archiveId": "V-37",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 15.1",
+        "en": "CC Madhya 15.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/15/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/15/1/"
+      },
+      "opening": "sārvabhauma-gṛhe bhuñjan",
+      "iast": "sārvabhauma-gṛhe bhuñjan\nsva-nindakam amoghakam\naṅgī-kurvan sphuṭāṁ cakre\ngauraḥ svāṁ bhakta-vaśyatām",
+      "cyrillic": "са̄рвабхаума-гр̣хе бхун̃джан\nсва-ниндакам амогхакам\nан̇гӣкурван спхут̣а̄м̇ чакре\nгаурах̣ сва̄м̇ бхакта-ваш́йата̄м",
+      "original": "সার্বভৌমগৃহে ভুঞ্জন্ স্বনিন্দকমমোঘকম্ ।\nঅঙ্গীকুর্বন্ স্ফুটাং চক্রে গৌরঃ স্বাং ভক্তবশ্যতাম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Обедая в доме Сарвабхаумы, Гаура принял хулившего Его Амогху и тем показал, как Он покоряется Своим преданным.",
+        "en": "Dining at Sārvabhauma's house, Gaura accepted Amogha, who had criticized Him, and so showed how He is subject to His devotees."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-38",
+      "number": 38,
+      "archiveId": "V-38",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 16.1",
+        "en": "CC Madhya 16.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/16/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/16/1/"
+      },
+      "opening": "gauḍodyānaṁ gaura-meghaḥ",
+      "iast": "gauḍodyānaṁ gaura-meghaḥ\nsiñcan svālokanāmṛtaiḥ\nbhavāgni-dagdha-janatā-\nvīrudhaḥ samajīvayat",
+      "cyrillic": "гауд̣одйа̄нам̇ гаура-мегхах̣\nсин̃чан сва̄локана̄мр̣таих̣\nбхава̄гни-дагдха-джаната̄-вӣрудхах̣ самаджӣвайат",
+      "original": "গৌড়োদ্যানং গৌরমেঘঃ সিঞ্চন্ স্বালোকনামৃতৈঃ ।\nভবাগ্নিদগ্ধজনতা-বীরুধঃ সমজীবয়ৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Туча-Гаура, оросив нектаром взгляда сад Гауды, оживила его людей, подобных растениям, опалённым пожаром мирского бытия.",
+        "en": "The cloud Gaura, watering the garden of Gauḍa with the nectar of His glance, revived its people, who were like plants burned by the fire of worldly existence."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-39",
+      "number": 39,
+      "archiveId": "V-39",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 17.1",
+        "en": "CC Madhya 17.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/17/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/17/1/"
+      },
+      "opening": "gacchan vṛndāvanaṁ gauro",
+      "iast": "gacchan vṛndāvanaṁ gauro\nvyāghrebhaiṇa-khagān vane\npremonmattān sahonnṛtyān\nvidadhe kṛṣṇa-jalpinaḥ",
+      "cyrillic": "гаччхан вр̣нда̄ванам̇ гауро\nвйа̄гхребхаин̣а-кхага̄н ване\nпремонматта̄н сахоннр̣тйа̄н\nвидадхе кр̣шн̣а-джалпинах̣",
+      "original": "গচ্ছন্ বৃন্দাবনং গৌরো ব্যাঘ্রেভৈণখগান্ বনে ।\nপ্রেমোন্মত্তান্ সহোন্নৃত্যান্ বিদধে কৃষ্ণজল্পিনঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "По пути во Вриндаван, в лесу, Гаура заставил тигров, слонов, оленей и птиц танцевать вместе с Ним и в упоении повторять имя Кришны.",
+        "en": "On the way to Vṛndāvana, in the forest, Gaura made tigers, elephants, deer and birds dance with Him and chant Kṛṣṇa's name, mad with love."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-40",
+      "number": 40,
+      "archiveId": "V-40",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 18.1",
+        "en": "CC Madhya 18.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/18/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/18/1/"
+      },
+      "opening": "vṛndāvane sthira-carān",
+      "iast": "vṛndāvane sthira-carān\nnandayan svāvalokanaiḥ\nātmānaṁ ca tad-ālokād\ngaurāṅgaḥ parito ’bhramat",
+      "cyrillic": "вр̣нда̄ване стхира-чара̄н\nнандайан сва̄валоканаих̣\nа̄тма̄нам̇ ча тад-а̄лока̄д\nгаура̄н̇гах̣ парито ’бхрамат",
+      "original": "বৃন্দাবনে স্থিরচরান্নন্দয়ন্ স্বাবলোকনৈঃ ।\nআত্মানঞ্চ তদালোকাদ্‌গৌরাঙ্গঃ পরিতোঽভ্রমৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Радуя взглядом всех существ Вриндавана, подвижных и неподвижных, и сам радуясь при виде их, Гауранга странствовал повсюду.",
+        "en": "Gladdening all beings of Vṛndāvana, moving and still, with His glances, and rejoicing Himself at seeing them, Gaurāṅga wandered all around."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-41",
+      "number": 41,
+      "archiveId": "V-41",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 19.1",
+        "en": "CC Madhya 19.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/19/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/19/1/"
+      },
+      "opening": "vṛndāvanīyāṁ rasa-keli-vārtāṁ",
+      "iast": "vṛndāvanīyāṁ rasa-keli-vārtāṁ\nkālena luptāṁ nija-śaktim utkaḥ\nsañcārya rūpe vyatanot punaḥ sa\nprabhur vidhau prāg iva loka-sṛṣṭim",
+      "cyrillic": "вр̣нда̄ванӣйа̄м̇ раса-кели-ва̄рта̄м̇\nка̄лена лупта̄м̇ ниджа-ш́актим утках̣\nсан̃ча̄рйа рӯпе вйатанот пунах̣ са\nпрабхур видхау пра̄г ива лока-ср̣шт̣им",
+      "original": "বৃন্দাবনীয়াং রসকেলিবার্তাং\nকালেন লুপ্তাং নিজশক্তিমুৎকঃ ।\nসঞ্চার্য রূপে ব্যতনোৎ পুনঃ স\nপ্রভুর্বিধৌ প্রাগিব লোকসৃষ্টিম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Как некогда Он вдохновил Брахму на творение, так Господь вложил Свою силу в Рупу Госвами, чтобы тот возродил почти забытые повествования о расе Вриндавана.",
+        "en": "As He once inspired Brahmā to create, the Lord infused His power into Rūpa Gosvāmī to revive the nearly forgotten accounts of Vṛndāvana's rasa-pastimes."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-42",
+      "number": 42,
+      "archiveId": "V-42",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 20.1",
+        "en": "CC Madhya 20.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/20/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/20/1/"
+      },
+      "opening": "vande ’nantādbhutaiśvaryaṁ",
+      "iast": "vande ’nantādbhutaiśvaryaṁ\nśrī-caitanya-mahāprabhum\nnīco ’pi yat-prasādāt syād\nbhakti-śāstra-pravartakaḥ",
+      "cyrillic": "ванде ’нанта̄дбхутаиш́варйам̇\nш́рӣ-чаитанйа-маха̄прабхум\nнӣчо ’пи йат-праса̄да̄т сйа̄д\nбхакти-ш́а̄стра-правартаках̣",
+      "original": "বন্দেঽনন্তাদ্ভুতৈশ্বর্যং শ্রীচৈতন্যমহাপ্রভুম্‌ ।\nনীচোঽপি যৎপ্রসাদাৎ স্যাদ্‌ভক্তিশাস্ত্রপ্রবর্তকঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Чайтанье Махапрабху безграничного дивного могущества: по Его милости даже человек низкого положения может распространять науку преданности.",
+        "en": "Obeisance to Caitanya Mahāprabhu of boundless wonderful opulence, by whose grace even a lowly person can propagate the science of devotion."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-43",
+      "number": 43,
+      "archiveId": "V-43",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 21.1",
+        "en": "CC Madhya 21.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/21/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/21/1/"
+      },
+      "opening": "agaty-eka-gatiṁ natvā",
+      "iast": "agaty-eka-gatiṁ natvā\nhīnārthādhika-sādhakam\nśrī-caitanyaṁ likhāmy asya\nmādhuryaiśvarya-śīkaram",
+      "cyrillic": "агатй-эка-гатим̇ натва̄\nхӣна̄ртха̄дхика-са̄дхакам\nш́рӣ-чаитанйам̇ ликха̄мй асйа\nма̄дхурйаиш́варйа-ш́ӣкарам",
+      "original": "অগত্যেকগতিং নত্বা হীনার্থাধিকসাধকম্‌ ।\nশ্রীচৈতন্যং লিখাম্যস্য মাধুর্যৈশ্বর্য-শীকরম্‌ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Склонившись перед Чайтаньей, единственным прибежищем беспомощных, автор берётся описать лишь каплю Его сладости и величия.",
+        "en": "Bowing to Caitanya, the sole refuge of the helpless, the author undertakes to describe a mere drop of His sweetness and majesty."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-44",
+      "number": 44,
+      "archiveId": "V-44",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 22.1",
+        "en": "CC Madhya 22.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/22/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/22/1/"
+      },
+      "opening": "vande śrī-kṛṣṇa-caitanya-",
+      "iast": "vande śrī-kṛṣṇa-caitanya-\ndevaṁ taṁ karuṇārṇavam\nkalāv apy ati-gūḍheyaṁ\nbhaktir yena prakāśitā",
+      "cyrillic": "ванде ш́рӣ-кр̣шн̣а-чаитанйа-девам̇ там̇ карун̣а̄рн̣авам\nкала̄в апй ати-гӯд̣хейам̇\nбхактир йена прака̄ш́ита̄",
+      "original": "বন্দে শ্রীকৃষ্ণচৈতন্যদেবং তং করুণার্ণবম্‌ ।\nকলাবপ্যতিগূঢ়েয়ং ভক্তির্যেন প্রকাশিতা ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье, океану сострадания, открывшему сокровенную преданность даже в век Кали.",
+        "en": "Obeisance to Kṛṣṇa Caitanya, the ocean of compassion, who revealed most confidential devotion even in the Age of Kali."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-45",
+      "number": 45,
+      "archiveId": "V-45",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 23.1",
+        "en": "CC Madhya 23.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/23/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/23/1/"
+      },
+      "opening": "cirād adattaṁ nija-gupta-vittaṁ",
+      "iast": "cirād adattaṁ nija-gupta-vittaṁ\nsva-prema-nāmāmṛtam aty-udāraḥ\nā-pāmaraṁ yo vitatāra gauraḥ\nkṛṣṇo janebhyas tam ahaṁ prapadye",
+      "cyrillic": "чира̄д адаттам̇ ниджа-гупта-виттам̇\nсвапрема-на̄ма̄мр̣там атйуда̄рах̣\nа̄па̄марам̇ йо витата̄ра гаурах̣\nкр̣шн̣о джанебхйас там ахам̇ прападйе",
+      "original": "চিরাদদত্তং নিজ-গুপ্তবিত্তং\nস্বপ্রেম-নামামৃতমত্যুদারঃ ।\nআপামরং যো বিততার গৌরঃ\nকৃষ্ণো জনেভ্যস্তমহং প্রপদ্যে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор вверяет себя щедрейшему Гаура-Кришне, который раздал всем, даже низшим, Своё давно не даровавшееся тайное сокровище — нектар любви к Нему и Его имени.",
+        "en": "The author takes refuge in the supremely generous Gaurakṛṣṇa, who gave to all, even the lowest, His long-withheld secret treasure — the nectar of love for Him and of His name."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": true
+    },
+    {
+      "id": "V-46",
+      "number": 46,
+      "archiveId": "V-46",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 24.1",
+        "en": "CC Madhya 24.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/24/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/24/1/"
+      },
+      "opening": "ātmārāmeti padyārkasy-",
+      "iast": "ātmārāmeti padyārkasy-\nārthāṁśūn yaḥ prakāśayan\njagat-tamo jahārāvyāt\nsa caitanyodayācalaḥ",
+      "cyrillic": "а̄тма̄ра̄мети падйа̄ркасй\nа̄ртха̄м̇ш́ӯн йах̣ прака̄ш́айан\nджагат-тамо джаха̄ра̄вйа̄т\nса чаитанйодайа̄чалах̣",
+      "original": "আত্মারামেতি পদ্যার্কস্যার্থাংশূন্‌ যঃ প্রকাশয়ন্‌ ।\nজগত্তমো জহারাব্যাত্‌ স চৈতন্যোদয়াচলঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Чайтанья — восточная гора, откуда взошло «солнце» стиха атмарама, а лучи его — многие толкования; пусть Тот, кто рассеял мрак мира, хранит его.",
+        "en": "Caitanya is the eastern mountain from which the 'sun' of the ātmārāma verse rose, its rays being the many meanings; may He who dispelled the world's darkness protect it."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-47",
+      "number": 47,
+      "archiveId": "V-47",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 25.1",
+        "en": "CC Madhya 25.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/25/1/",
+        "en": "https://vedabase.io/en/library/cc/madhya/25/1/"
+      },
+      "opening": "vaiṣṇavī-kṛtya sannyāsi-",
+      "iast": "vaiṣṇavī-kṛtya sannyāsi-\nmukhān kāśī-nivāsinaḥ\nsanātanaṁ su-saṁskṛtya\nprabhur nīlādrim āgamat",
+      "cyrillic": "ваишн̣авӣ-кр̣тйа саннйа̄си\nмукха̄н ка̄ш́ӣ-нива̄синах̣\nсана̄танам̇ сусам̇скр̣тйа\nпрабхур нӣла̄дрим а̄гамат",
+      "original": "বৈষ্ণবীকৃত্য সন্ন্যাসিমুখান্‌ কাশীনিবাসিনঃ ।\nসনাতনং সুসংস্কৃত্য প্রভুর্নীলাদ্রিমাগমৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Сделав вайшнавами санньяси и других жителей Каши и всесторонне наставив Санатану, Господь вернулся в Ниладри (Пури).",
+        "en": "Having made the sannyāsīs and other people of Kāśī Vaiṣṇavas and having thoroughly trained Sanātana, the Lord returned to Nīlādri (Purī)."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-48",
+      "number": 48,
+      "archiveId": "V-48",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 1.1",
+        "en": "CC Antya 1.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/1/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/1/1/"
+      },
+      "opening": "paṅguṁ laṅghayate śailaṁ",
+      "iast": "paṅguṁ laṅghayate śailaṁ\nmūkam āvartayec chrutim\nyat-kṛpā tam ahaṁ vande\nkṛṣṇa-caitanyam īśvaram",
+      "cyrillic": "пан̇гум̇ лан̇гхайате ш́аилам̇\nмӯкам а̄вартайеч чхрутим\nйат-кр̣па̄ там ахам̇ ванде\nкр̣шн̣а-чаитанйам ӣш́варам",
+      "original": "পঙ্গুং লঙ্ঘয়তে শৈলং মূকমাবর্তয়েচ্ছ্রুতিম্ ।\nযত্কৃপা তমহং বন্দে কৃষ্ণচৈতন্যমীশ্বরম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье: по Его милости хромой преодолевает горы, а немой произносит писания.",
+        "en": "Obeisance to Kṛṣṇa Caitanya, by whose mercy the lame cross mountains and the mute recite scripture."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-49",
+      "number": 49,
+      "archiveId": "V-49",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 1.2",
+        "en": "CC Antya 1.2"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/1/2/",
+        "en": "https://vedabase.io/en/library/cc/antya/1/2/"
+      },
+      "opening": "durgame pathi me ’ndhasya",
+      "iast": "durgame pathi me ’ndhasya\nskhalat-pāda-gater muhuḥ\nsva-kṛpā-yaṣṭi-dānena\nsantaḥ santv avalambanam",
+      "cyrillic": "дургаме патхи ме ’ндхасйа\nскхалат-па̄да-гатер мухух̣\nсва-кр̣па̄-йашт̣и-да̄нена\nсантах̣ сантв аваламбанам",
+      "original": "দুর্গমে পথি মেঽন্ধস্য স্খলৎপাদগতের্মুহুঃ ।\nস্বকৃপা-যষ্টিদানেন সন্তঃ সন্ত্ববলম্বনম্ ॥ ২ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор, «слепой» и спотыкающийся на трудном пути, просит святых дать ему посох своей милости как опору.",
+        "en": "The author, 'blind' and stumbling on a hard road, asks the saints to give him the staff of their mercy for support."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-50",
+      "number": 50,
+      "archiveId": "V-50",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 2.1",
+        "en": "CC Antya 2.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/2/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/2/1/"
+      },
+      "opening": "vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca",
+      "iast": "vande ’haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn vaiṣṇavāṁś ca\nśrī-rūpaṁ sāgrajātaṁ saha-gaṇa-raghunāthānvitaṁ taṁ sa-jīvam\nsādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ kṛṣṇa-caitanya-devaṁ\nśrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā-śrī-viśākhānvitāṁś ca",
+      "cyrillic": "ванде ’хам̇ ш́рӣ-гурох̣ ш́рӣ-йута-пада-камалам̇ ш́рӣ-гурӯн ваишн̣ава̄м̇ш́ ча\nш́рӣ-рӯпам̇ са̄граджа̄там̇ саха-ган̣а-рагхуна̄тха̄нвитам̇ там̇ са-джӣвам\nса̄дваитам̇ са̄вадхӯтам̇ париджана-сахитам̇ кр̣шн̣а-чаитанйа-девам̇\nш́рӣ-ра̄дха̄-кр̣шн̣а-па̄да̄н саха-ган̣а-лалита̄-ш́рӣ-виш́а̄кха̄нвита̄м̇ш́ ча",
+      "original": "বন্দেঽহং শ্রীগুরোঃ শ্রীযুতপদকমলং শ্রীগুরূন্ বৈষ্ণবাংশ্চ শ্রীরূপং সাগ্রজাতং সহগণরঘুনাথান্বিতং তং সজীবম্ ।\nসাদ্বৈতং সাবধূতং পরিজনসহিতং কৃষ্ণচৈতন্যদেবং শ্রীরাধাকৃষ্ণপাদান্ সহগণললিতা-শ্রীবিশাখান্বিতাংশ্চ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Всеобъемлющий поклон: гуру и наставникам, вайшнавам, Госвами со спутниками, Адвайте, Нитьянанде и Чайтанье с Его преданными, а также Радха-Кришне с гопи во главе с Лалитой и Вишакхой.",
+        "en": "A comprehensive obeisance: to the guru and the gurus, the Vaiṣṇavas, the Gosvāmīs with their associates, Advaita, Nityānanda and Caitanya with His devotees, and to Rādhā-Kṛṣṇa with the gopīs led by Lalitā and Viśākhā."
+      },
+      "translation": {
+        "ru": {
+          "text": "«Я в смирении склоняюсь к лотосоподобным стопам моего духовного учителя, всех духовных наставников и вайшнавов. Я почтительно склоняюсь перед своими шастра-гуру: Шрилой Рупой Госвами и его старшим братом Шрилой Санатаной Госвами, а также перед Шрилой Рагхунатхом Дасом Госвами и Шрилой Дживой Госвами. Я выражаю почтение тем, кто еще более возвышен: Шри Чайтанье Махапрабху, нисшедшему со Своими атрибутами и спутниками — такими великими личностями, как Шри Нитьянанда Прабху и Шри Адвайта Ачарья. С великим благоговением я склоняюсь к лотосоподобным стопам Шри Шри Радхи-Говинды и всех гопи, возглавляемых Лалитой Деви и Вишакхой Деви».",
+          "attribution": "Шри Чайтанья Сарасват Матх, Гаудия Гитанджали, 2012; PDF 13",
+          "license": null
+        },
+        "en": {
+          "text": "I offer my obeisance unto the lotus feet of my initiating Guru, all of my instructing Gurus, all of the Gurus within the disciplic succession, and all of the Lord’s devotees. Next, I offer my obeisance unto Śrīla Rūpa Goswāmī Prabhu, Śrīla Sanātan Goswāmī Prabhu, Śrīla Raghunāth Dās Goswāmī Prabhu, Śrīla Jīva Goswāmī Prabhu, and all of Śrīla Rūpa Goswāmī Prabhu’s associates and followers. Thereafter, I offer my obeisance unto Śrī Chaitanya Mahāprabhu, Śrī Nityānanda Prabhu, Śrī Advaita Prabhu, and all of Śrī Chaitanya Mahāprabhu’s associates. Finally, I offer my obeisance unto the feet of Śrī Śrī Rādhā-Kṛṣṇa, Śrī Lalitā Devī, Śrī Viśākhā Devī, and all of Their associates.",
+          "attribution": "Sri Chaitanya Saraswat Math, Śaraṇāgati, 2011; PDF 275",
+          "license": null
+        }
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-51",
+      "number": 51,
+      "archiveId": "V-51",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 4.1",
+        "en": "CC Antya 4.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/4/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/4/1/"
+      },
+      "opening": "vṛndāvanāt punaḥ prāptaṁ",
+      "iast": "vṛndāvanāt punaḥ prāptaṁ\nśrī-gauraḥ śrī-sanātanam\ndeha-pātād avan snehāt\nśuddhaṁ cakre parīkṣayā",
+      "cyrillic": "вр̣нда̄вана̄т пунах̣ пра̄птам̇\nш́рӣ-гаурах̣ ш́рӣ-сана̄танам\nдеха-па̄та̄д аван снеха̄т\nш́уддхам̇ чакре парӣкшайа̄",
+      "original": "বৃন্দাবনাৎ পুনঃ প্রাপ্তং শ্রীগৌরঃ শ্রীসনাতনম্ ।\nদেহপাতাদবন্ স্নেহাৎ শুদ্ধং চক্রে পরীক্ষয়া ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Когда Санатана вернулся из Вриндавана, Гаура с любовью удержал его от того, чтобы оставить тело, и, испытав, очистил его.",
+        "en": "When Sanātana returned from Vṛndāvana, Gaura lovingly saved him from giving up his body and, after testing him, made him pure."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-52",
+      "number": 52,
+      "archiveId": "V-52",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 5.1",
+        "en": "CC Antya 5.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/5/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/5/1/"
+      },
+      "opening": "vaiguṇya-kīṭa-kalitaḥ",
+      "iast": "vaiguṇya-kīṭa-kalitaḥ\npaiśunya-vraṇa-pīḍitaḥ\ndainyārṇave nimagno ’haṁ\ncaitanya-vaidyam āśraye",
+      "cyrillic": "ваигун̣йа-кӣт̣а-калитах̣\nпаиш́унйа-вран̣а-пӣд̣итах̣\nдаинйа̄рн̣аве нимагно ’хам̇\nчаитанйа-ваидйам а̄ш́райе",
+      "original": "বৈগুণ্যকীটকলিতঃ পৈশুন্য-ব্রণপীড়িতঃ ।\nদৈন্যার্ণবে নিমগ্নোঽহং চৈতন্য-বৈদ্যমাশ্রয়ে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Изъеденный «червями» материальных качеств и «язвами» зависти, погружённый в океан смирения, автор ищет прибежища у Чайтаньи-целителя.",
+        "en": "Afflicted by the 'worms' of material qualities and the 'sores' of envy, sunk in an ocean of humility, the author takes refuge in Caitanya, the physician."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-53",
+      "number": 53,
+      "archiveId": "V-53",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 6.1",
+        "en": "CC Antya 6.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/6/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/6/1/"
+      },
+      "opening": "kṛpā-guṇair yaḥ kugṛhāndha-kūpād",
+      "iast": "kṛpā-guṇair yaḥ kugṛhāndha-kūpād\nuddhṛtya bhaṅgyā raghunātha-dāsam\nnyasya svarūpe vidadhe ’ntar-aṅgaṁ\nśrī-kṛṣṇa-caitanyam amuṁ prapadye",
+      "cyrillic": "кр̣па̄-гун̣аир йах̣ кугр̣ха̄ндха-кӯпа̄д\nуддхр̣тйа бхан̇гйа̄ рагхуна̄тха-да̄сам\nнйасйа сварӯпе видадхе ’нтар-ан̇гам̇\nш́рӣ-кр̣шн̣а-чаитанйам амум̇ прападйе",
+      "original": "কৃপাগুণৈর্যঃ কুগৃহান্ধকূপা- দুদ্ধৃত্য ভঙ্গ্যা রঘুনাথদাসম্ ।\nন্যস্য স্বরূপে বিদধেঽন্তরঙ্গং শ্রীকৃষ্ণচৈতন্যমমুং প্রপদ্যে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор вверяет себя Кришне Чайтанье, который «верёвками» милости вытащил Рагхунатху даса из слепого колодца семейной жизни и поручил его Сварупе как близкого спутника.",
+        "en": "The author surrenders to Kṛṣṇa Caitanya, who by the 'ropes' of His mercy drew Raghunātha dāsa out of the blind well of household life and placed him with Svarūpa as an intimate associate."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-54",
+      "number": 54,
+      "archiveId": "V-54",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 7.1",
+        "en": "CC Antya 7.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/7/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/7/1/"
+      },
+      "opening": "caitanya-caraṇāmbhoja-",
+      "iast": "caitanya-caraṇāmbhoja-\nmakaranda-liho bhaje\nyeṣāṁ prasāda-mātreṇa\npāmaro ’py amaro bhavet",
+      "cyrillic": "чаитанйа-чаран̣а̄мбходжа-макаранда-лихо бхадже\nйеша̄м̇ праса̄да-ма̄трен̣а\nпа̄маро ’пй амаро бхавет",
+      "original": "চৈতন্যচরণাম্ভোজমকরন্দলিহো ভজে ।\nযেষাং প্রসাদমাত্রেণ পামরোঽপ্যমরো ভবেৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклонение преданным, вкушающим мёд лотосных стоп Чайтаньи: по одной их милости даже ничтожный человек становится бессмертным.",
+        "en": "Worship of the devotees who lick the honey of Caitanya's lotus feet; by their mere grace even a wretched person becomes immortal."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-55",
+      "number": 55,
+      "archiveId": "V-55",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 8.1",
+        "en": "CC Antya 8.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/8/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/8/1/"
+      },
+      "opening": "taṁ vande kṛṣṇa-caitanyaṁ",
+      "iast": "taṁ vande kṛṣṇa-caitanyaṁ\nrāmacandra-purī-bhayāt\nlaukikāhārataḥ svaṁ yo\nbhikṣānnaṁ samakocayat",
+      "cyrillic": "там̇ ванде кр̣шн̣а-чаитанйам̇\nра̄мачандра-пурӣ-бхайа̄т\nлаукика̄ха̄ратах̣ свам̇ йо\nбхикша̄ннам̇ самакочайат",
+      "original": "তং বন্দে কৃষ্ণচৈতন্যং রামচন্দ্রপুরীভয়াৎ ।\nলৌকিকাহারতঃ স্বং যো ভিক্ষান্নং সমকোচয়ৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье, который из опасения упрёков Рамачандры Пури стал принимать в подаяние меньше обычной еды.",
+        "en": "Obeisance to Kṛṣṇa Caitanya, who, fearing Rāmacandra Purī's criticism, reduced His alms-food to less than an ordinary meal."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-56",
+      "number": 56,
+      "archiveId": "V-56",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 9.1",
+        "en": "CC Antya 9.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/9/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/9/1/"
+      },
+      "opening": "agaṇya-dhanya-caitanya-",
+      "iast": "agaṇya-dhanya-caitanya-\ngaṇānāṁ prema-vanyayā\nninye ’dhanya-jana-svānta-\nmaruḥ śaśvad anūpatām",
+      "cyrillic": "аган̣йа-дханйа-чаитанйа\nган̣а̄на̄м̇ према-ванйайа̄\nнинйе ’дханйа-джана-сва̄нта-марух̣ ш́аш́вад анӯпата̄м",
+      "original": "অগণ্যধন্যচৈতন্যগণানাং প্রেমবন্যয়া ।\nনিন্যেঽধন্যজনস্বান্তমরুঃ শশ্বদনূপতাম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Потоком любви бесчисленных славных последователей Чайтаньи пустыня сердец обделённых людей навсегда превратилась в напоённую влагой землю.",
+        "en": "By the flood of love of Caitanya's countless glorious followers, the desert-like hearts of the unfortunate became forever well-watered land."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-57",
+      "number": 57,
+      "archiveId": "V-57",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 10.1",
+        "en": "CC Antya 10.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/10/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/10/1/"
+      },
+      "opening": "vande śrī-kṛṣṇa-caitanyaṁ",
+      "iast": "vande śrī-kṛṣṇa-caitanyaṁ\nbhaktānugraha-kātaram\nyena kenāpi santuṣṭaṁ\nbhakta-dattena śraddhayā",
+      "cyrillic": "ванде ш́рӣ-кр̣шн̣а-чаитанйам̇\nбхакта̄нуграха-ка̄тарам\nйена кена̄пи сантушт̣ам̇\nбхакта-даттена ш́раддхайа̄",
+      "original": "বন্দে শ্রীকৃষ্ণচৈতন্যং ভক্তানুগ্রহকাতরম্ ।\nযেন কেনাপি সন্তুষ্টং ভক্তদত্তেন শ্রদ্ধয়া ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье, которого радует всё, что преданные подносят с верой, и который стремится явить им милость.",
+        "en": "Obeisance to Kṛṣṇa Caitanya, who is pleased with whatever His devotees offer with faith and is eager to show them mercy."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-58",
+      "number": 58,
+      "archiveId": "V-58",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 11.1",
+        "en": "CC Antya 11.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/11/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/11/1/"
+      },
+      "opening": "namāmi haridāsaṁ taṁ",
+      "iast": "namāmi haridāsaṁ taṁ\ncaitanyaṁ taṁ ca tat-prabhum\nsaṁsthitām api yan-mūrtiṁ\nsvāṅke kṛtvā nanarta yaḥ",
+      "cyrillic": "нама̄ми харида̄сам̇ там̇\nчаитанйам̇ там̇ ча тат-прабхум\nсам̇стхита̄м апи йан-мӯртим̇\nсва̄н̇ке кр̣тва̄ нанарта йах̣",
+      "original": "নমামি হরিদাসং তং চৈতন্যং তঞ্চ তৎপ্রভুম্ ।\nসংস্থিতামপি যন্মূর্তিং স্বাঙ্কে কৃত্বা ননর্ত যঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Харидасу Тхакуру и его господину Чайтанье, который танцевал, держа на руках тело Харидаса.",
+        "en": "Obeisance to Haridāsa Ṭhākura and to his master Caitanya, who danced holding Haridāsa's body on His lap."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-59",
+      "number": 59,
+      "archiveId": "V-59",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 12.1",
+        "en": "CC Antya 12.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/12/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/12/1/"
+      },
+      "opening": "śrūyatāṁ śrūyatāṁ nityaṁ",
+      "iast": "śrūyatāṁ śrūyatāṁ nityaṁ\ngīyatāṁ gīyatāṁ mudā\ncintyatāṁ cintyatāṁ bhaktāś\ncaitanya-caritāmṛtam",
+      "cyrillic": "ш́рӯйата̄м̇ ш́рӯйата̄м̇ нитйам̇\nгӣйата̄м̇ гӣйата̄м̇ муда̄\nчинтйата̄м̇ чинтйата̄м̇ бхакта̄ш́\nчаитанйа-чарита̄мр̣там",
+      "original": "শ্রূয়তাং শ্রূয়তাং নিত্যং গীয়তাং গীয়তাং মুদা ।\nচিন্ত্যতাং চিন্ত্যতাং ভক্তাশ্চৈতন্যচরিতামৃতম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Призыв к преданным: постоянно слушайте, радостно воспевайте и обдумывайте нектар деяний Чайтаньи.",
+        "en": "An appeal to devotees: let the nectar of Caitanya's pastimes be constantly heard, joyfully sung and meditated upon."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-60",
+      "number": 60,
+      "archiveId": "V-60",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 13.1",
+        "en": "CC Antya 13.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/13/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/13/1/"
+      },
+      "opening": "kṛṣṇa-viccheda-jātārtyā",
+      "iast": "kṛṣṇa-viccheda-jātārtyā\nkṣīṇe cāpi manas-tanū\ndadhāte phullatāṁ bhāvair\nyasya taṁ gauram āśraye",
+      "cyrillic": "кр̣шн̣а-виччхеда-джа̄та̄ртйа̄\nкшӣн̣е ча̄пи манас-танӯ\nдадха̄те пхуллата̄м̇ бха̄ваир\nйасйа там̇ гаурам а̄ш́райе",
+      "original": "কৃষ্ণবিচ্ছেদজাতার্ত্যা ক্ষীণে চাপি মনস্তনূ ।\nদধাতে ফুল্লতাং ভাবৈর্যস্য তং গৌরমাশ্রয়ে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор ищет прибежища у Гауры, чьи ум и тело, истощённые болью разлуки с Кришной, вновь расцветали в экстатических чувствах.",
+        "en": "The author takes shelter of Gaura, whose mind and body, worn thin by the pain of separation from Kṛṣṇa, would bloom again in ecstatic emotions."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-61",
+      "number": 61,
+      "archiveId": "V-61",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 14.1",
+        "en": "CC Antya 14.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/14/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/14/1/"
+      },
+      "opening": "kṛṣṇa-viccheda-vibhrāntyā",
+      "iast": "kṛṣṇa-viccheda-vibhrāntyā\nmanasā vapuṣā dhiyā\nyad yad vyadhatta gaurāṅgas\ntal-leśaḥ kathyate ’dhunā",
+      "cyrillic": "кр̣шн̣а-виччхеда-вибхра̄нтйа̄\nманаса̄ вапуша̄ дхийа̄\nйад йад вйадхатта гаура̄н̇гас\nтал-леш́ах̣ катхйате ’дхуна̄",
+      "original": "কৃষ্ণবিচ্ছেদবিভ্রান্ত্যা মনসা বপুষা ধিয়া ।\nযদ্যদ্ব্যধত্ত গৌরাঙ্গস্তল্লেশঃ কথ্যতেঽধুনা ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор расскажет лишь малую часть того, что Гауранга совершал умом, телом и разумом, будучи в смятении разлуки с Кришной.",
+        "en": "The author will now tell a small part of what Gaurāṅga did with mind, body and intellect while bewildered by separation from Kṛṣṇa."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-62",
+      "number": 62,
+      "archiveId": "V-62",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 15.1",
+        "en": "CC Antya 15.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/15/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/15/1/"
+      },
+      "opening": "durgame kṛṣṇa-bhāvābdhau",
+      "iast": "durgame kṛṣṇa-bhāvābdhau\nnimagnonmagna-cetasā\ngaureṇa hariṇā prema-\nmaryādā bhūri darśitā",
+      "cyrillic": "дургаме кр̣шн̣а-бха̄ва̄бдхау\nнимагнонмагна-четаса̄\nгаурен̣а харин̣а̄ према\nмарйа̄да̄ бхӯри дарш́ита̄",
+      "original": "দুর্গমে কৃষ্ণভাবাব্ধৌ নিমগ্নোন্মগ্নচেতসা ।\nগৌরেণ হরিণা প্রেমমর্যাদা ভূরি দর্শিতা ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Гаура-Хари, чьё сердце то погружалось, то всплывало в непостижимом океане любви к Кришне, многообразно явил величие этой любви.",
+        "en": "Gaura Hari, His heart sinking and rising in the unfathomable ocean of love for Kṛṣṇa, displayed the greatness of that love in many ways."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-63",
+      "number": 63,
+      "archiveId": "V-63",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 16.1",
+        "en": "CC Antya 16.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/16/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/16/1/"
+      },
+      "opening": "vande śrī-kṛṣṇa-caitanyaṁ",
+      "iast": "vande śrī-kṛṣṇa-caitanyaṁ\nkṛṣṇa-bhāvāmṛtaṁ hi yaḥ\nāsvādyāsvādayan bhaktān\nprema-dīkṣām aśikṣayat",
+      "cyrillic": "ванде ш́рӣ-кр̣шн̣а-чаитанйам̇\nкр̣шн̣а-бха̄ва̄мр̣там̇ хи йах̣\nа̄сва̄дйа̄сва̄дайан бхакта̄н\nпрема-дӣкша̄м аш́икшайат",
+      "original": "বন্দে শ্রীকৃষ্ণচৈতন্যং কৃষ্ণভাবামৃতং হি যঃ ।\nআস্বাদ্যাস্বাদয়ন্ ভক্তান্ প্রেমদীক্ষামশিক্ষয়ৎ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье, который Сам вкушал нектар любви к Кришне, давал вкусить его преданным и так посвящал их в любовь.",
+        "en": "Obeisance to Kṛṣṇa Caitanya, who Himself tasted the nectar of love for Kṛṣṇa, gave it to His devotees to taste, and so taught them initiation into love."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-64",
+      "number": 64,
+      "archiveId": "V-64",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 17.1",
+        "en": "CC Antya 17.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/17/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/17/1/"
+      },
+      "opening": "likhyate śrīla-gaurendor",
+      "iast": "likhyate śrīla-gaurendor\naty-adbhutam alaukikam\nyair dṛṣṭaṁ tan-mukhāc chrutvā\ndivyonmāda-viceṣṭitam",
+      "cyrillic": "ликхйате ш́рӣла-гаурендор\nатй-адбхутам алаукикам\nйаир др̣шт̣ам̇ тан-мукха̄ч чхрутва̄\nдивйонма̄да-вичешт̣итам",
+      "original": "লিখ্যতে শ্রীল-গৌরেন্দোরত্যদ্ভুতমলৌকিকম্ ।\nযৈর্দৃষ্টং তন্মুখাচ্ছ্রুত্বা দিব্যোন্মাদ-বিচেষ্টিতম্ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор описывает дивное, неземное божественное безумие Гаурачандры со слов тех, кто видел его своими глазами.",
+        "en": "The author writes of Gauracandra's wondrous, otherworldly divine madness, having heard it from those who saw it themselves."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-65",
+      "number": 65,
+      "archiveId": "V-65",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 18.1",
+        "en": "CC Antya 18.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/18/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/18/1/"
+      },
+      "opening": "śaraj-jyotsnā-sindhor avakalanayā jāta-yamunā-",
+      "iast": "śaraj-jyotsnā-sindhor avakalanayā jāta-yamunā-\nbhramād dhāvan yo ’smin hari-viraha-tāpārṇava iva\nnimagno mūrcchālaḥ payasi nivasan rātrim akhilāṁ\nprabhāte prāptaḥ svair avatu sa śacī-sūnur iha naḥ",
+      "cyrillic": "ш́арадж-джйотсна̄-синдхор авакаланайа̄ джа̄та-йамуна̄-\nбхрама̄д дха̄ван йо ’смин хари-вираха-та̄па̄рн̣ава ива\nнимагно мӯрччха̄лах̣ пайаси нивасан ра̄трим акхила̄м̇\nпрабха̄те пра̄птах̣ сваир авату са ш́ачӣ-сӯнур иха нах̣",
+      "original": "শরজ্জ্যোৎস্না-সিন্ধোরবকলনয়া জাতযমুনা- ভ্রমাদ্ধাবন্ যোঽস্মিন্ হরিবিরহতাপার্ণব ইব ।\nনিমগ্নো মূর্চ্ছালঃ পয়সি নিবসন্ রাত্রিমখিলাং প্রভাতে প্রাপ্তঃ স্বৈরবতু স শচীসূনুরিহ নঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Приняв залитое осенней луной море за Ямуну, Господь, сгорая в разлуке, бросился в него и всю ночь пролежал без чувств в воде, пока на рассвете Его не нашли; пусть сын Шачи защитит нас.",
+        "en": "Mistaking the moonlit autumn sea for the Yamunā, the Lord, burning with separation, ran into it and lay unconscious in the water all night until found at dawn; may that son of Śacī protect us."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-66",
+      "number": 66,
+      "archiveId": "V-66",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 19.1",
+        "en": "CC Antya 19.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/19/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/19/1/"
+      },
+      "opening": "vande taṁ kṛṣṇa-caitanyaṁ",
+      "iast": "vande taṁ kṛṣṇa-caitanyaṁ\nmātṛ-bhakta-śiromaṇim\npralapya mukha-saṅgharṣī\nmadhūdyāne lalāsa yaḥ",
+      "cyrillic": "ванде там̇ кр̣шн̣а-чаитанйам̇\nма̄тр̣-бхакта-ш́ироман̣им\nпралапйа мукха-сан̇гхаршӣ\nмадхӯдйа̄не лала̄са йах̣",
+      "original": "বন্দে তং কৃষ্ণচৈতন্যং মাতৃভক্তশিরোমণিম্ ।\nপ্রলপ্য মুখসংঘর্ষী মধূদ্যানে ললাস যঃ ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Поклон Кришне Чайтанье, венцу преданных матери: в экстатическом безумии Он говорил бессвязно, тёрся лицом о стены и предавался играм в саду (Джаганнатха-валлабха).",
+        "en": "Obeisance to Kṛṣṇa Caitanya, the crown of those devoted to their mother, who spoke in ecstatic madness, rubbed His face against walls, and sported in a garden (Jagannātha-vallabha)."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": true
+    },
+    {
+      "id": "V-67",
+      "number": 67,
+      "archiveId": "V-67",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 20.1",
+        "en": "CC Antya 20.1"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/20/1/",
+        "en": "https://vedabase.io/en/library/cc/antya/20/1/"
+      },
+      "opening": "premodbhāvita-harṣerṣyod-",
+      "iast": "premodbhāvita-harṣerṣyod-\nvega-dainyārti-miśritam\nlapitaṁ gauracandrasya\nbhāgyavadbhir niṣevyate",
+      "cyrillic": "премодбха̄вита-харшершйод-вега-даинйа̄рти-миш́ритам\nлапитам̇ гаурачандрасйа\nбха̄гйавадбхир нишевйате",
+      "original": "প্রেমোদ্ভাবিতহর্ষের্ষ্যোদ্বেগদৈন্যার্তিমিশ্রিতম্ ।\nলপিতং গৌরচন্দ্রস্য ভাগ্যবদ্ভির্নিষেব্যতে ॥ ১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Лишь удачливые вкушают экстатические речи Гаурачандры, где смешаны рождённые любовью радость, ревность, волнение, смирение и скорбь.",
+        "en": "Only the fortunate relish Gauracandra's ecstatic utterances, mixed with joy, jealousy, agitation, humility and anguish born of love."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-68",
+      "number": 68,
+      "archiveId": "V-68",
+      "group": "mantra",
+      "reference": {
+        "ru": "Мантра Панча-таттвы",
+        "en": "Pañca-tattva mantra"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/7/4/",
+        "en": "https://vedabase.io/en/library/cc/adi/7/4/"
+      },
+      "opening": "śrī-kṛṣṇa-caitanya prabhu-nityānanda",
+      "iast": "śrī-kṛṣṇa-caitanya prabhu-nityānanda\nśrī-advaita gadādhara śrīvāsādi-gaura-bhakta-vṛnda",
+      "cyrillic": "ш́рӣ-кр̣шн̣а-чаитанйа прабху-нитйа̄нанда\nш́рӣ адваита гада̄дхара ш́рӣваса̄ди-гаура-бхакта-вр̣нда",
+      "original": "श्रीकृष्ण चैतन्यप्रभु नित्यानन्द।\nश्रीअद्वैत गदाधर श्रीवासादि गौर भक्त वृन्द॥",
+      "originalScript": "deva",
+      "meaning": {
+        "ru": "Приветствие Панча-таттве — Кришне Чайтанье вместе с Нитьянандой Прабху, Адвайтой, Гададхарой и Шривасой — и всем преданным Гауры (смысл по Введению к «Бхагавад-гите как она есть»; формулировка Anthropic).",
+        "en": "A salutation to the Pañca-tattva — Kṛṣṇa Caitanya with Nityānanda Prabhu, Advaita, Gadādhara and Śrīvāsa — together with all of Gaura's devotees (meaning per BG Introduction; Anthropic wording)."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады к CC Ади 7.4: Шри Чайтанью всегда сопровождают Нитьянанда, Адвайта, Гададхара и Шриваса, поэтому полный поклон Ему выражается этой мантрой; проповедники сначала повторяют её, затем маха-мантру; при повторении мантры Панча-таттвы десять оскорблений не учитываются. Комментарий к Ади 8.31: сначала нужно найти прибежище у Чайтаньи, повторяя эту мантру; служение Гауре-Нитьянанде делает способным поклоняться Радхе-Кришне. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Традиционная мантра / Traditional mantra",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-69",
+      "number": 69,
+      "archiveId": "V-69",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 3.2",
+        "en": "CC Antya 3.2"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/3/2/",
+        "en": "https://vedabase.io/en/library/cc/antya/3/2/"
+      },
+      "opening": "jaya jaya gauracandra jaya nityānanda",
+      "iast": "jaya jaya gauracandra jaya nityānanda\njayādvaita-candra jaya gaura-bhakta-vṛnda",
+      "cyrillic": "джайа джайа гаурачандра джайа нитйа̄нанда\nджайа̄дваита-чандра джайа гаура-бхакта-вр̣нда",
+      "original": "জয় জয় গৌরচন্দ্র জয় নিত্যানন্দ ।\nজয়াদ্বৈতচন্দ্র জয় গৌরভক্তবৃন্দ ॥ ২ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Слава Гаурачандре, Нитьянанде, Адвайтачандре и всем преданным Гауры.",
+        "en": "Glory to Gauracandra, to Nityānanda, to Advaitacandra and to all of Gaura's devotees."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-70",
+      "number": 70,
+      "archiveId": "V-70",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 11.8",
+        "en": "CC Antya 11.8"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/11/8/",
+        "en": "https://vedabase.io/en/library/cc/antya/11/8/"
+      },
+      "opening": "jaya gaura-bhakta-gaṇa, — gaura yāṅra prāṇa",
+      "iast": "jaya gaura-bhakta-gaṇa, — gaura yāṅra prāṇa\nsaba bhakta mili’ more bhakti deha’ dāna",
+      "cyrillic": "джайа гаура-бхакта-ган̣а, — гаура йа̄н̇ра пра̄н̣а\nсаба бхакта мили’ море бхакти деха’ да̄на",
+      "original": "জয় গৌরভক্তগণ, — গৌর যাঁর প্রাণ ।\nসব ভক্ত মিলি’ মোরে ভক্তি দেহ’ দান ॥ ৮ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Слава преданным Гауры, для которых Гаура — сама жизнь; автор просит их всех вместе даровать ему преданность.",
+        "en": "Glory to Gaura's devotees, whose life is Gaura; the author asks all of them together to grant him devotion."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-71a",
+      "number": 71,
+      "archiveId": "V-71",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 2.170",
+        "en": "CC Antya 2.170"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/2/170/",
+        "en": "https://vedabase.io/en/library/cc/antya/2/170/"
+      },
+      "opening": "madhura caitanya-līlā — samudra-gambhīra",
+      "iast": "madhura caitanya-līlā — samudra-gambhīra\nloke nāhi bujhe, bujhe yei ‘bhakta’ ‘dhīra’",
+      "cyrillic": "мадхура чаитанйа-лӣла̄ — самудра-гамбхӣра\nлоке на̄хи буджхе, буджхе йеи ‘бхакта’ ‘дхӣра’",
+      "original": "মধুর চৈতন্যলীলা — সমুদ্র-গম্ভীর ।\nলোকে নাহি বুঝে, বুঝে যেই ‘ভক্ত’ ‘ধীর’ ॥ ১৭০ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Игры Чайтаньи сладки и глубоки, как океан; обычным людям их не постичь, а вдумчивым преданным — можно.",
+        "en": "Caitanya's pastimes are sweet and deep as the ocean; ordinary people cannot fathom them, only sober devotees can."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-71b",
+      "number": 72,
+      "archiveId": "V-71",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 2.171",
+        "en": "CC Antya 2.171"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/2/171/",
+        "en": "https://vedabase.io/en/library/cc/antya/2/171/"
+      },
+      "opening": "viśvāsa kariyā śuna caitanya-carita",
+      "iast": "viśvāsa kariyā śuna caitanya-carita\ntarka nā kariha, tarke habe viparīta",
+      "cyrillic": "виш́ва̄са карийа̄ ш́уна чаитанйа-чарита\nтарка на̄ кариха, тарке хабе випарӣта",
+      "original": "বিশ্বাস করিয়া শুন চৈতন্যচরিত ।\nতর্ক না করিহ, তর্কে হবে বিপরীত ॥ ১৭১ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Слушайте их с верой и не спорьте: спор приведёт к обратному.",
+        "en": "Hear them with faith and do not argue, for argument leads to the opposite result."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-72",
+      "number": 73,
+      "archiveId": "V-72",
+      "group": "adi",
+      "reference": {
+        "ru": "ЧЧ Ади 1.36",
+        "en": "CC Ādi 1.36"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/1/36/",
+        "en": "https://vedabase.io/en/library/cc/adi/1/36/"
+      },
+      "opening": "śrī-rūpa, sanātana, bhaṭṭa-raghunātha",
+      "iast": "śrī-rūpa, sanātana, bhaṭṭa-raghunātha\nśrī-jīva, gopāla-bhaṭṭa, dāsa-raghunātha",
+      "cyrillic": "ш́рӣ-рӯпа, сана̄тана, бхат̣т̣а-рагхуна̄тха\nш́рӣ-джӣва, гопа̄ла-бхат̣т̣а, да̄са-рагхуна̄тха",
+      "original": "শ্রীরূপ, সনাতন, ভট্ট–রঘুনাথ ।\nশ্রীজীব, গোপালভট্ট, দাস–রঘুনাথ ॥ ৩৬ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Автор называет своих наставников-шикша-гуру: Рупу, Санатану, Бхатту Рагхунатху, Дживу, Гопалу Бхатту и Рагхунатху даса.",
+        "en": "The author names his instructing gurus: Rūpa, Sanātana, Bhaṭṭa Raghunātha, Jīva, Gopāla Bhaṭṭa and Raghunātha dāsa."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-73",
+      "number": 74,
+      "archiveId": "V-73",
+      "group": "madhya",
+      "reference": {
+        "ru": "ЧЧ Мадхья 25.283",
+        "en": "CC Madhya 25.283"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/madhya/25/283/",
+        "en": "https://vedabase.io/en/library/cc/madhya/25/283/"
+      },
+      "opening": "tad idam ati-rahasyaṁ gaura-līlāmṛtaṁ yat",
+      "iast": "tad idam ati-rahasyaṁ gaura-līlāmṛtaṁ yat\nkhala-samudaya-kolair nādṛtaṁ tair alabhyam\nkṣatir iyam iha kā me svāditaṁ yat samantāt\nsahṛdaya-sumanobhir modam eṣāṁ tanoti",
+      "cyrillic": "тад идам ати-рахасйам̇ гаура-лӣла̄мр̣там̇ йат\nкхала-самудайа-колаир на̄др̣там̇ таир алабхйам\nкшатир ийам иха ка̄ ме сва̄дитам̇ йат саманта̄т\nсахр̣дайа-суманобхир модам эша̄м̇ таноти",
+      "original": "তদিদমতিরহস্যং গৌরলীলামৃতং যৎ\nখল-সমুদয়-কোলৈর্নাদৃতং তৈরলভ্যম্ ।\nক্ষতিরিয়মিহ কা মে স্বাদিতং যৎ সমন্তাৎ\nসহৃদয়-সুমনোভির্মোদমেষাং তনোতি ॥ ২৮৩ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Этот сокровеннейший нектар игр Гауры не ценят и не могут обрести завистники — автору в том нет потери; вкушённый сполна, он радует сердечных, чистых умом людей.",
+        "en": "This most confidential nectar of Gaura's pastimes is not valued by the envious and is beyond their reach — no loss to the author; relished fully, it delights warm-hearted, pure-minded people."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады (заключение Мадхья-лилы): Кришнадас Кавирадж осуждает завистников, сравнивая их со свиньями. Прабхупада пишет, что движение сознания Кришны ценят искренние люди, хотя некоторые в Индии ему завидуют. Он следует примеру автора и надеется, что честные читатели очистят сердца и благословят этот труд. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": true,
+      "variantNote": {
+        "ru": "Чтение плиты отличается от опорного издания. Разночтение сохранено в редакторском архиве.",
+        "en": "The plate differs from the reference edition. The variant is preserved in the editorial archive."
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-74",
+      "number": 75,
+      "archiveId": "V-74",
+      "group": "mantra",
+      "reference": {
+        "ru": "Маха-мантра Харе Кришна",
+        "en": "Hare Kṛṣṇa mahā-mantra"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/adi/3/40/",
+        "en": "https://vedabase.io/en/library/cc/adi/3/40/"
+      },
+      "opening": "hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare",
+      "iast": "hare kṛṣṇa hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare\nhare rāma hare rāma rāma rāma hare hare",
+      "cyrillic": "харе кр̣шн̣а харе кр̣шн̣а кр̣шн̣а кр̣шн̣а харе харе\nхаре ра̄ма харе ра̄ма ра̄ма ра̄ма харе харе",
+      "original": "हरेकृष्ण हरेकृष्ण कृष्ण कृष्ण हरे हरे।\nहरे राम हरे राम रामराम हरे हरे॥",
+      "originalScript": "deva",
+      "meaning": {
+        "ru": "Шестнадцать имён маха-мантры Харе Кришна (обращение к именам; отдельного стихотворного перевода в источнике нет).",
+        "en": "The sixteen names of the Hare Kṛṣṇa mahā-mantra (an invocation of the names; no separate verse translation in the source)."
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "Комментарий Прабхупады к CC Ади 3.40: маха-мантра прямо названа во многих упанишадах, например в Кали-сантарана-упанишаде, которая говорит, что эти шестнадцать имён уничтожают скверну века Кали и что во всех Ведах нет средства выше; то же место приводится в комментарии к Ади 7.76. (пересказ; источник указан ниже).",
+        "en": "Read the reference edition for the published commentary and its context."
+      },
+      "hasPurport": true,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Традиционная мантра / Traditional mantra",
+      "readingCorrected": false
+    },
+    {
+      "id": "V-75",
+      "number": 76,
+      "archiveId": "V-75",
+      "group": "antya",
+      "reference": {
+        "ru": "ЧЧ Антья 20.156",
+        "en": "CC Antya 20.156"
+      },
+      "sourceUrls": {
+        "ru": "https://vedabase.io/ru/library/cc/antya/20/156/",
+        "en": "https://vedabase.io/en/library/cc/antya/20/156/"
+      },
+      "opening": "parimala-vāsita-bhuvanaṁ sva-rasonmādita-rasajña-rolambam",
+      "iast": "parimala-vāsita-bhuvanaṁ sva-rasonmādita-rasajña-rolambam\ngiridhara-caraṇāmbhojaṁ kaḥ khalu rasikaḥ samīhate hātum",
+      "cyrillic": "паримала-ва̄сита-бхуванам̇\nсва-расонма̄дита-расаджн̃а-роламбам\nгиридхара-чаран̣а̄мбходжам̇\nках̣ кхалу расиках̣ самӣхате ха̄тум",
+      "original": "পরিমলবাসিতভুবনং স্বরসোন্মাদিত-রসজ্ঞ-রোলম্বম্ ।\nগিরিধরচরণাম্ভোজং কঃ খলু রসিকঃ সমীহতে হাতুম্ ॥ ১৫৬ ॥",
+      "originalScript": "bn",
+      "meaning": {
+        "ru": "Какой ценитель расы оставит лотосные стопы Гиридхари, чей аромат наполняет мир, а собственный нектар опьяняет пчёл — знатоков расы?",
+        "en": "What connoisseur of rasa would ever abandon the lotus feet of Giridhara, whose fragrance perfumes the world and whose own nectar intoxicates the bee-like knowers of rasa?"
+      },
+      "translation": {
+        "ru": null,
+        "en": null
+      },
+      "variantTranslations": [],
+      "commentary": {
+        "ru": "отдельный комментарий не найден.",
+        "en": "No separate commentary was found for this verse in the reference edition. The source link opens the surrounding context."
+      },
+      "hasPurport": false,
+      "plateVariant": false,
+      "variantNote": {
+        "ru": "",
+        "en": ""
+      },
+      "sourceAuthor": "Kṛṣṇadāsa Kavirāja Gosvāmī",
+      "readingCorrected": false
+    }
+  ]
+}
